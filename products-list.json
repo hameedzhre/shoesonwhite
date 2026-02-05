@@ -1,30 +1,80 @@
 {
   "metadata": {
-    "generated_at": "2026-02-03T13:20:22.038Z",
-    "total_products": 2
+    "generated_at": "2026-02-05T03:19:13.238Z",
+    "total_products": 4
   },
   "products": [
     {
-      "sku": "white shoes",
-      "name": "adbida white shoes lksf",
-      "brand": "w",
-      "category": "shoes",
-      "price": "60.00",
-      "rating": 4.8,
-      "slug": "white_shoes",
-      "image_count": 0,
-      "amazon_url": "https://amazon.com"
+      "sku": "CTAS-HI-OPT-WHT",
+      "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
+      "brand": "Converse",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "Optical White",
+      "gender": "Unisex",
+      "price": "48.41",
+      "rating": 4.6,
+      "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker",
+      "image_count": 6,
+      "amazon_url": "https://www.amazon.com/Converse-Clothing-Apparel-Sneaker-Optical/dp/B00D2V7YZ8/ref=sr_1_11?crid=3P0J3PTZ07LVX&dib=eyJ2IjoiMSJ9.7FYjcobgwu1j9Ziw9BipkMJhCmmw1pKxJfVaOaUxHoPHFl0BPsDu0iZutNh7sj9l2nJ_eVhmPlTz72beBuRmi6j5qg5S283IUz1GkUgTNz8EsIE2m7I4yXc8I7hdHFlMeDbrB27hibZOro83XZduipQ1lbKju-VMsniY5IIyxzLoQVtVuuHcwjIDao4QzFmg9BsO3icb-LHZnVN6X3esSi1STGSlYfJDRTWJkiqkLDePLSc-q1SLB3Mohz-PFU7B5amniRmHOiCYblLeFEup4NK-GlN-TZBeU84h7GbaA4Q.FUhp41nus-_3sK-bjQOLgTpVdrtuP_-_W7CppPfDhpc&dib_tag=se&keywords=white%2Bshoes&qid=1770180629&sprefix=white%2Bshoes%2Caps%2C591&sr=8-11&th=1&psc=1",
+      "materials": {
+        "upper": "Canvas",
+        "sole": "Rubber"
+      }
     },
     {
-      "sku": "white shoes",
-      "name": "adbida white shoes lksf",
-      "brand": "w",
-      "category": "shoes",
-      "price": "60.00",
-      "rating": 4.8,
-      "slug": "white_shoes",
-      "image_count": 0,
-      "amazon_url": "https://amazon.com"
+      "sku": "HB-WSO-001",
+      "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
+      "brand": "hash bubbie",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "White Mono",
+      "gender": "Women",
+      "price": "18.52",
+      "rating": 4.1,
+      "slug": "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes",
+      "image_count": 5,
+      "amazon_url": "https://www.amazon.com/Womens-Sneakers-Fashion-Shoes%EF%BC%88White-Mono-US6-5/dp/B0CKPGLSMB/ref=sr_1_12?crid=3P0J3PTZ07LVX&dib=eyJ2IjoiMSJ9.7FYjcobgwu1j9Ziw9BipkD4iEjpqcqk37lBlT6_jZsIzyDBJAhNokUtjWfPH82eluYzlqp0z6DX_i8ylogIYBzKMbsbyX3rusPD2DivLzBnouYTabcK14GcawY5GpzANC3Wcr2dKSGPz5y28LG2htOucd7nPyrzRI4GE8RnNy2FnBpKAd-epKFT3dCnb0LiWjhSI3EyC4hGTA_rpKJyhnLbTIpr9cHoKtx8deghYTB_c9XPmZCwCbMfm5O54jBCMdAccsmK1osiSCj2i3hUOQTWdLFxE5wL0Ow5GAoThbPM.TVf87Gl45xo7FgFVNtcURFda8CPejytXI7oNdFddJNY&dib_tag=se&keywords=white+shoes&qid=1770146172&sprefix=white+shoes%2Caps%2C591&sr=8-12",
+      "materials": {
+        "upper": "Canvas",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "NB608V5-001",
+      "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
+      "brand": "New Balance",
+      "category": "Shoes",
+      "subcategory": "Cross-Training Shoes",
+      "color": "White/White",
+      "gender": "Men",
+      "price": "61.21",
+      "rating": 4.6,
+      "slug": "new-balance-mens-608-v5-casual-comfort-cross-trainer",
+      "image_count": 5,
+      "amazon_url": "https://www.amazon.com/dp/B093XKL7WZ",
+      "materials": {
+        "upper": "Leather",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "PUMA-CARINA-L-37032502",
+      "name": "Puma Womens Carina L Sneaker",
+      "brand": "PUMA",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "White-White-Silver",
+      "gender": "Women",
+      "price": "55.98",
+      "rating": 4.5,
+      "slug": "puma-womens-carina-l-sneaker",
+      "image_count": 6,
+      "amazon_url": "https://www.amazon.com/dp/B0CNYJ28VG",
+      "materials": {
+        "upper": "Leather & Synthetic",
+        "sole": "Rubber"
+      }
     }
   ]
 }
