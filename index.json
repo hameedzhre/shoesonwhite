@@ -1,49 +1,177 @@
 {
   "metadata": {
-    "generated_at": "2026-02-03T13:20:19.662Z",
-    "total_products": 2,
-    "last_updated": "2026-02-03T13:20:19.662Z",
-    "format_version": "1.2"
+    "generated_at": "2026-02-05T03:19:08.962Z",
+    "total_products": 4,
+    "last_updated": "2026-02-05T03:19:08.962Z",
+    "format_version": "1.3"
   },
   "by_sku": {
-    "white shoes": {
-      "name": "adbida white shoes lksf",
-      "brand": "w",
-      "category": "shoes",
-      "subcategory": "Luxary",
-      "price": "60.00",
-      "rating": 4.8,
-      "slug": "white_shoes",
-      "image_count": 0
+    "CTAS-HI-OPT-WHT": {
+      "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
+      "brand": "Converse",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "Optical White",
+      "gender": "Unisex",
+      "price": "48.41",
+      "rating": 4.6,
+      "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker",
+      "image_count": 6,
+      "materials": {
+        "upper": "Canvas",
+        "sole": "Rubber"
+      }
+    },
+    "HB-WSO-001": {
+      "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
+      "brand": "hash bubbie",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "White Mono",
+      "gender": "Women",
+      "price": "18.52",
+      "rating": 4.1,
+      "slug": "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes",
+      "image_count": 5,
+      "materials": {
+        "upper": "Canvas",
+        "sole": "Rubber"
+      }
+    },
+    "NB608V5-001": {
+      "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
+      "brand": "New Balance",
+      "category": "Shoes",
+      "subcategory": "Cross-Training Shoes",
+      "color": "White/White",
+      "gender": "Men",
+      "price": "61.21",
+      "rating": 4.6,
+      "slug": "new-balance-mens-608-v5-casual-comfort-cross-trainer",
+      "image_count": 5,
+      "materials": {
+        "upper": "Leather",
+        "sole": "Rubber"
+      }
+    },
+    "PUMA-CARINA-L-37032502": {
+      "name": "Puma Womens Carina L Sneaker",
+      "brand": "PUMA",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "White-White-Silver",
+      "gender": "Women",
+      "price": "55.98",
+      "rating": 4.5,
+      "slug": "puma-womens-carina-l-sneaker",
+      "image_count": 6,
+      "materials": {
+        "upper": "Leather & Synthetic",
+        "sole": "Rubber"
+      }
     }
   },
   "by_slug": {
-    "white_shoes": "white shoes"
+    "converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker": "CTAS-HI-OPT-WHT",
+    "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes": "HB-WSO-001",
+    "new-balance-mens-608-v5-casual-comfort-cross-trainer": "NB608V5-001",
+    "puma-womens-carina-l-sneaker": "PUMA-CARINA-L-37032502"
   },
   "by_category": {
     "shoes": {
-      "display_name": "shoes",
+      "display_name": "Shoes",
       "products": [
-        "white shoes",
-        "white shoes"
+        "CTAS-HI-OPT-WHT",
+        "HB-WSO-001",
+        "NB608V5-001",
+        "PUMA-CARINA-L-37032502"
       ]
     }
   },
   "by_brand": {
-    "w": {
-      "display_name": "w",
+    "converse": {
+      "display_name": "Converse",
       "products": [
-        "white shoes",
-        "white shoes"
+        "CTAS-HI-OPT-WHT"
+      ]
+    },
+    "hash_bubbie": {
+      "display_name": "hash bubbie",
+      "products": [
+        "HB-WSO-001"
+      ]
+    },
+    "new_balance": {
+      "display_name": "New Balance",
+      "products": [
+        "NB608V5-001"
+      ]
+    },
+    "puma": {
+      "display_name": "PUMA",
+      "products": [
+        "PUMA-CARINA-L-37032502"
+      ]
+    }
+  },
+  "by_color": {
+    "optical_white": {
+      "display_name": "Optical White",
+      "products": [
+        "CTAS-HI-OPT-WHT"
+      ]
+    },
+    "white_mono": {
+      "display_name": "White Mono",
+      "products": [
+        "HB-WSO-001"
+      ]
+    },
+    "white": {
+      "display_name": "White/White",
+      "products": [
+        "NB608V5-001",
+        "NB608V5-001"
+      ]
+    },
+    "white-white-silver": {
+      "display_name": "White-White-Silver",
+      "products": [
+        "PUMA-CARINA-L-37032502"
+      ]
+    }
+  },
+  "by_material": {
+    "canvas": {
+      "display_name": "Canvas",
+      "products": [
+        "CTAS-HI-OPT-WHT",
+        "HB-WSO-001"
+      ]
+    },
+    "leather": {
+      "display_name": "Leather",
+      "products": [
+        "NB608V5-001"
+      ]
+    },
+    "leather_&_synthetic": {
+      "display_name": "Leather & Synthetic",
+      "products": [
+        "PUMA-CARINA-L-37032502"
       ]
     }
   },
   "sku_list": [
-    "white shoes",
-    "white shoes"
+    "CTAS-HI-OPT-WHT",
+    "HB-WSO-001",
+    "NB608V5-001",
+    "PUMA-CARINA-L-37032502"
   ],
   "slug_list": [
-    "white_shoes",
-    "white_shoes"
+    "converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker",
+    "new-balance-mens-608-v5-casual-comfort-cross-trainer",
+    "puma-womens-carina-l-sneaker",
+    "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes"
   ]
 }
