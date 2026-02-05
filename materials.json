@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-05T03:19:12.506Z",
+    "total_materials": 4
+  },
+  "materials": {
+    "canvas": {
+      "name": "canvas",
+      "type": "upper",
+      "product_count": 2,
+      "products": [
+        {
+          "sku": "CTAS-HI-OPT-WHT",
+          "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
+          "brand": "Converse",
+          "category": "Shoes",
+          "price": "48.41",
+          "rating": 4.6,
+          "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker"
+        },
+        {
+          "sku": "HB-WSO-001",
+          "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
+          "brand": "hash bubbie",
+          "category": "Shoes",
+          "price": "18.52",
+          "rating": 4.1,
+          "slug": "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes"
+        }
+      ],
+      "brands": {
+        "converse": {
+          "name": "Converse",
+          "count": 1
+        },
+        "hash_bubbie": {
+          "name": "hash bubbie",
+          "count": 1
+        }
+      }
+    },
+    "rubber_sole": {
+      "name": "rubber",
+      "type": "sole",
+      "product_count": 4,
+      "products": [
+        {
+          "sku": "CTAS-HI-OPT-WHT",
+          "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
+          "brand": "Converse",
+          "category": "Shoes",
+          "price": "48.41",
+          "rating": 4.6,
+          "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker"
+        },
+        {
+          "sku": "HB-WSO-001",
+          "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
+          "brand": "hash bubbie",
+          "category": "Shoes",
+          "price": "18.52",
+          "rating": 4.1,
+          "slug": "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes"
+        },
+        {
+          "sku": "NB608V5-001",
+          "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
+          "brand": "New Balance",
+          "category": "Shoes",
+          "price": "61.21",
+          "rating": 4.6,
+          "slug": "new-balance-mens-608-v5-casual-comfort-cross-trainer"
+        },
+        {
+          "sku": "PUMA-CARINA-L-37032502",
+          "name": "Puma Womens Carina L Sneaker",
+          "brand": "PUMA",
+          "category": "Shoes",
+          "price": "55.98",
+          "rating": 4.5,
+          "slug": "puma-womens-carina-l-sneaker"
+        }
+      ],
+      "brands": {}
+    },
+    "leather": {
+      "name": "leather",
+      "type": "upper",
+      "product_count": 1,
+      "products": [
+        {
+          "sku": "NB608V5-001",
+          "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
+          "brand": "New Balance",
+          "category": "Shoes",
+          "price": "61.21",
+          "rating": 4.6,
+          "slug": "new-balance-mens-608-v5-casual-comfort-cross-trainer"
+        }
+      ],
+      "brands": {
+        "new_balance": {
+          "name": "New Balance",
+          "count": 1
+        }
+      }
+    },
+    "leather_&_synthetic": {
+      "name": "leather & synthetic",
+      "type": "upper",
+      "product_count": 1,
+      "products": [
+        {
+          "sku": "PUMA-CARINA-L-37032502",
+          "name": "Puma Womens Carina L Sneaker",
+          "brand": "PUMA",
+          "category": "Shoes",
+          "price": "55.98",
+          "rating": 4.5,
+          "slug": "puma-womens-carina-l-sneaker"
+        }
+      ],
+      "brands": {
+        "puma": {
+          "name": "PUMA",
+          "count": 1
+        }
+      }
+    }
+  }
+}
