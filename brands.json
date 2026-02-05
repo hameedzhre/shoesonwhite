@@ -1,34 +1,114 @@
 {
   "metadata": {
-    "generated_at": "2026-02-03T13:20:21.308Z",
-    "total_brands": 1
+    "generated_at": "2026-02-05T03:19:10.846Z",
+    "total_brands": 4
   },
   "brands": {
-    "w": {
-      "name": "w",
-      "product_count": 2,
+    "converse": {
+      "name": "Converse",
+      "product_count": 1,
       "products": [
         {
-          "sku": "white shoes",
-          "name": "adbida white shoes lksf",
-          "category": "shoes",
-          "price": "60.00",
-          "rating": 4.8,
-          "slug": "white_shoes"
-        },
-        {
-          "sku": "white shoes",
-          "name": "adbida white shoes lksf",
-          "category": "shoes",
-          "price": "60.00",
-          "rating": 4.8,
-          "slug": "white_shoes"
+          "sku": "CTAS-HI-OPT-WHT",
+          "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
+          "category": "Shoes",
+          "price": "48.41",
+          "rating": 4.6,
+          "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker",
+          "color": "Optical White"
         }
       ],
       "categories": {
         "shoes": {
-          "name": "shoes",
-          "count": 2
+          "name": "Shoes",
+          "count": 1
+        }
+      },
+      "materials": {
+        "canvas": {
+          "name": "canvas",
+          "count": 1
+        }
+      }
+    },
+    "hash_bubbie": {
+      "name": "hash bubbie",
+      "product_count": 1,
+      "products": [
+        {
+          "sku": "HB-WSO-001",
+          "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
+          "category": "Shoes",
+          "price": "18.52",
+          "rating": 4.1,
+          "slug": "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes",
+          "color": "White Mono"
+        }
+      ],
+      "categories": {
+        "shoes": {
+          "name": "Shoes",
+          "count": 1
+        }
+      },
+      "materials": {
+        "canvas": {
+          "name": "canvas",
+          "count": 1
+        }
+      }
+    },
+    "new_balance": {
+      "name": "New Balance",
+      "product_count": 1,
+      "products": [
+        {
+          "sku": "NB608V5-001",
+          "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
+          "category": "Shoes",
+          "price": "61.21",
+          "rating": 4.6,
+          "slug": "new-balance-mens-608-v5-casual-comfort-cross-trainer",
+          "color": "White/White"
+        }
+      ],
+      "categories": {
+        "shoes": {
+          "name": "Shoes",
+          "count": 1
+        }
+      },
+      "materials": {
+        "leather": {
+          "name": "leather",
+          "count": 1
+        }
+      }
+    },
+    "puma": {
+      "name": "PUMA",
+      "product_count": 1,
+      "products": [
+        {
+          "sku": "PUMA-CARINA-L-37032502",
+          "name": "Puma Womens Carina L Sneaker",
+          "category": "Shoes",
+          "price": "55.98",
+          "rating": 4.5,
+          "slug": "puma-womens-carina-l-sneaker",
+          "color": "White-White-Silver"
+        }
+      ],
+      "categories": {
+        "shoes": {
+          "name": "Shoes",
+          "count": 1
+        }
+      },
+      "materials": {
+        "leather_&_synthetic": {
+          "name": "leather & synthetic",
+          "count": 1
         }
       }
     }
