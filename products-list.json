@@ -1,27 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-02-05T03:19:13.238Z",
-    "total_products": 4
+    "generated_at": "2026-02-05T05:07:32.342Z",
+    "total_products": 12
   },
   "products": [
-    {
-      "sku": "CTAS-HI-OPT-WHT",
-      "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
-      "brand": "Converse",
-      "category": "Shoes",
-      "subcategory": "Fashion Sneakers",
-      "color": "Optical White",
-      "gender": "Unisex",
-      "price": "48.41",
-      "rating": 4.6,
-      "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker",
-      "image_count": 6,
-      "amazon_url": "https://www.amazon.com/Converse-Clothing-Apparel-Sneaker-Optical/dp/B00D2V7YZ8/ref=sr_1_11?crid=3P0J3PTZ07LVX&dib=eyJ2IjoiMSJ9.7FYjcobgwu1j9Ziw9BipkMJhCmmw1pKxJfVaOaUxHoPHFl0BPsDu0iZutNh7sj9l2nJ_eVhmPlTz72beBuRmi6j5qg5S283IUz1GkUgTNz8EsIE2m7I4yXc8I7hdHFlMeDbrB27hibZOro83XZduipQ1lbKju-VMsniY5IIyxzLoQVtVuuHcwjIDao4QzFmg9BsO3icb-LHZnVN6X3esSi1STGSlYfJDRTWJkiqkLDePLSc-q1SLB3Mohz-PFU7B5amniRmHOiCYblLeFEup4NK-GlN-TZBeU84h7GbaA4Q.FUhp41nus-_3sK-bjQOLgTpVdrtuP_-_W7CppPfDhpc&dib_tag=se&keywords=white%2Bshoes&qid=1770180629&sprefix=white%2Bshoes%2Caps%2C591&sr=8-11&th=1&psc=1",
-      "materials": {
-        "upper": "Canvas",
-        "sole": "Rubber"
-      }
-    },
     {
       "sku": "HB-WSO-001",
       "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
@@ -41,7 +23,25 @@
       }
     },
     {
-      "sku": "NB608V5-001",
+      "sku": "HB-WSO-002",
+      "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
+      "brand": "Converse",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "Optical White",
+      "gender": "Unisex",
+      "price": "48.41",
+      "rating": 4.6,
+      "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker",
+      "image_count": 6,
+      "amazon_url": "https://www.amazon.com/Converse-Clothing-Apparel-Sneaker-Optical/dp/B00D2V7YZ8/ref=sr_1_11?crid=3P0J3PTZ07LVX&dib=eyJ2IjoiMSJ9.7FYjcobgwu1j9Ziw9BipkMJhCmmw1pKxJfVaOaUxHoPHFl0BPsDu0iZutNh7sj9l2nJ_eVhmPlTz72beBuRmi6j5qg5S283IUz1GkUgTNz8EsIE2m7I4yXc8I7hdHFlMeDbrB27hibZOro83XZduipQ1lbKju-VMsniY5IIyxzLoQVtVuuHcwjIDao4QzFmg9BsO3icb-LHZnVN6X3esSi1STGSlYfJDRTWJkiqkLDePLSc-q1SLB3Mohz-PFU7B5amniRmHOiCYblLeFEup4NK-GlN-TZBeU84h7GbaA4Q.FUhp41nus-_3sK-bjQOLgTpVdrtuP_-_W7CppPfDhpc&dib_tag=se&keywords=white%2Bshoes&qid=1770180629&sprefix=white%2Bshoes%2Caps%2C591&sr=8-11&th=1&psc=1",
+      "materials": {
+        "upper": "Canvas",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "HB-WSO-003",
       "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
       "brand": "New Balance",
       "category": "Shoes",
@@ -59,7 +59,7 @@
       }
     },
     {
-      "sku": "PUMA-CARINA-L-37032502",
+      "sku": "HB-WSO-004",
       "name": "Puma Womens Carina L Sneaker",
       "brand": "PUMA",
       "category": "Shoes",
@@ -73,6 +73,150 @@
       "amazon_url": "https://www.amazon.com/dp/B0CNYJ28VG",
       "materials": {
         "upper": "Leather & Synthetic",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "HB-WSO-005",
+      "name": "Lugz Men?s Clipper Sneaker",
+      "brand": "Lugz",
+      "category": "Shoes",
+      "subcategory": "Men?s Shoes > Sneakers",
+      "color": "White",
+      "gender": "Men",
+      "price": "29.97",
+      "rating": 4.3,
+      "slug": "lugz-mens-clipper-sneaker",
+      "image_count": 6,
+      "amazon_url": "Amazon Link",
+      "materials": {
+        "upper": "Canvas",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "HB-WSO-006",
+      "name": "Tommy Hilfiger Men's Pandora Sneaker",
+      "brand": "Tommy Hilfiger",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "White Canvas 137",
+      "gender": "Men",
+      "price": "40.17",
+      "rating": 4.5,
+      "slug": "tommy-hilfiger-mens-pandora-sneaker",
+      "image_count": 4,
+      "amazon_url": "https://www.amazon.com/dp/B08176RC34",
+      "materials": {
+        "upper": "Textile",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "HB-WSO-007",
+      "name": "Obtaom Women?s Play Fashion Sneaker White Color Washed and Leopard Canvas Slip on Shoes",
+      "brand": "Obtaom",
+      "category": "Shoes",
+      "subcategory": "Women?s Shoes",
+      "color": "White Color Washed / Leopard Canvas",
+      "gender": "Women",
+      "price": "21.99",
+      "rating": 4.4,
+      "slug": "obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-shoes",
+      "image_count": 5,
+      "amazon_url": "https://www.amazon.com/dp/B08C2DZ18Q",
+      "materials": {
+        "upper": "Canvas",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "HB-WSO-008",
+      "name": "adidas Men's Advantage Sneaker",
+      "brand": "adidas",
+      "category": "Shoes",
+      "subcategory": "Men's Shoes",
+      "color": "White/White/Green",
+      "gender": "Men",
+      "price": "53.21",
+      "rating": 4.6,
+      "slug": "adidas-mens-advantage-sneaker",
+      "image_count": 7,
+      "amazon_url": "Amazon Link",
+      "materials": {
+        "upper": "Synthetic",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "HB-WSO-009",
+      "name": "Skechers Women's Summits Sneaker",
+      "brand": "Skechers",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "White/Silver",
+      "gender": "Women",
+      "price": "55.00",
+      "rating": 4.5,
+      "slug": "skechers-womens-summits-sneaker",
+      "image_count": 7,
+      "amazon_url": "Amazon Link",
+      "materials": {
+        "upper": "Textile",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "HB-WSO-010",
+      "name": "Guess Womens Loven",
+      "brand": "GUESS",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "White",
+      "gender": "Women",
+      "price": "62.50",
+      "rating": 4.6,
+      "slug": "guess-womens-loven",
+      "image_count": 6,
+      "amazon_url": "Amazon Link",
+      "materials": {
+        "upper": "Synthetic",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "HB-WSO-011",
+      "name": "Skechers Women's Bobs B Cute Sneaker ? Memory Foam, Flexible Outsole, Lightweight Vegan Shoes",
+      "brand": "Skechers",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "White",
+      "gender": "Women",
+      "price": "49.95",
+      "rating": 4.5,
+      "slug": "skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-vegan-shoes",
+      "image_count": 7,
+      "amazon_url": "Amazon Link",
+      "materials": {
+        "upper": "Canvas",
+        "sole": "Rubber"
+      }
+    },
+    {
+      "sku": "HB-WSO-012",
+      "name": "Keds Women's Champion Seasonal Lace-Up Fashion Sneaker",
+      "brand": "Keds",
+      "category": "Shoes",
+      "subcategory": "Fashion Sneakers",
+      "color": "White Canvas",
+      "gender": "Women",
+      "price": "49.50",
+      "rating": 4.4,
+      "slug": "keds-womens-champion-seasonal-lace-up-fashion-sneaker",
+      "image_count": 4,
+      "amazon_url": "https://www.amazon.com/dp/B004P7VMC4",
+      "materials": {
+        "upper": "Canvas",
         "sole": "Rubber"
       }
     }
