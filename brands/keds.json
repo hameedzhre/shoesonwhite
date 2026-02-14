@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "Keds",
+    "slug": "keds",
+    "url": "https://www.shoesonwhite.com/p/keds",
+    "generated_at": "2026-02-14T03:56:02.861Z",
+    "total_products": 1,
+    "site_url": "https://www.shoesonwhite.com"
+  },
+  "brand": {
+    "name": "Keds",
+    "slug": "keds",
+    "url": "https://www.shoesonwhite.com/p/keds"
+  },
+  "products": [
+    {
+      "product_id": "B004P7VMC3",
+      "title": "Keds Women's Champion Seasonal Lace-Up Fashion Sneaker",
+      "slug": "keds-keds-womens-champion-seasonal-lace-up-fashion-sneaker-B004P7",
+      "url": "https://www.shoesonwhite.com/2026/02/keds-keds-womens-champion-seasonal-lace-up-fashion-sneaker-B004P7.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 44,
+      "image": "https://m.media-amazon.com/images/I/71GSpXrwYdL._AC_SY500_.jpg",
+      "overall_score": 66
+    }
+  ]
+}
