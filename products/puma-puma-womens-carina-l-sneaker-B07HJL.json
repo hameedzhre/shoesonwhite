@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B07HJLRXBT",
     "slug": "puma-puma-womens-carina-l-sneaker-B07HJL",
-    "generated_at": "2026-02-14T03:55:33.348Z",
+    "generated_at": "2026-02-15T04:27:14.778Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B07HJL.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/puma",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "RETRO AND TRENDY: 80's inspired, adapted to fit today's laid-back sneaker look of Californian beach towns. ENHANCED PLATFORM: New tooling with an elevated platform sole. HIGH-QUALITY CONSTRUCTION: This shoe contains a premium leather upper. MINIMAL AND TIMELESS: Subtle PUMA branding. SIZE UP FOR BETTER FIT: Tight fit. One size up recommended.",
     "primary_keyword": "white sneakers",
     "slug": "puma-puma-womens-carina-l-sneaker-B07HJL",
-    "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B07HJL.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/puma",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B07HJLRXBT",
       "name": "PUMA Womens Carina L Sneaker",
       "description": "80's inspired sneaker with elevated platform and premium leather upper",
-      "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B07HJL.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker",
       "sku": "B07HJLRXBT",
       "mpn": "B07HJLRXBT",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B07HJL.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker",
         "priceCurrency": "USD",
         "price": 41.95,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "PUMA Womens Carina L Sneaker",
-            "item": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B07HJL.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.593Z",
+    "last_updated": "2026-02-15T04:27:03.593Z"
   }
 }
