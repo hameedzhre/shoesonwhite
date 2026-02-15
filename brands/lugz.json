@@ -3,7 +3,7 @@
     "name": "Lugz",
     "slug": "lugz",
     "url": "https://www.shoesonwhite.com/p/lugz",
-    "generated_at": "2026-02-15T04:34:31.608Z",
+    "generated_at": "2026-02-15T04:43:30.985Z",
     "total_products": 3,
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -16,8 +16,8 @@
     {
       "product_id": "B0DKTJSJVB",
       "title": "Lugz Women's Clipper Shoe",
-      "slug": "lugz-lugz-womens-clipper-shoe-B0DKTJ",
-      "url": "https://www.shoesonwhite.com/sneakers+womens-clipper-shoe",
+      "slug": "lugz-womens-clipper-shoe",
+      "url": "https://www.shoesonwhite.com/2026/02/lugz-womens-clipper-shoe",
       "gender": "Women",
       "subcategory": "Sneakers",
       "price_min": 35,
@@ -27,8 +27,8 @@
     {
       "product_id": "B0D8L25VM2",
       "title": "Lugz Mens Flip Classic Canvas Sneaker",
-      "slug": "lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2",
-      "url": "https://www.shoesonwhite.com/sneakers+mens-flip-classic-canvas-sneaker",
+      "slug": "lugz-mens-flip-classic-canvas",
+      "url": "https://www.shoesonwhite.com/2026/02/lugz-mens-flip-classic-canvas",
       "gender": "Men",
       "subcategory": "Sneakers",
       "price_min": 29.97,
@@ -38,8 +38,8 @@
     {
       "product_id": "B0DB22DYWJ",
       "title": "Lugz Men?s Clipper Sneaker",
-      "slug": "lugz-lugz-mens-clipper-sneaker-B0DB22",
-      "url": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
+      "slug": "lugz-mens-clipper",
+      "url": "https://www.shoesonwhite.com/2026/02/lugz-mens-clipper",
       "gender": "Men",
       "subcategory": "Sneakers",
       "price_min": 29.97,
