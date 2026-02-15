@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0DKTJSJVB",
     "slug": "lugz-lugz-womens-clipper-shoe-B0DKTJ",
-    "generated_at": "2026-02-14T03:55:39.774Z",
+    "generated_at": "2026-02-15T04:27:20.689Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/lugz-lugz-womens-clipper-shoe-B0DKTJ.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-clipper-shoe",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/lugz",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "SLIP ON SHOES FOR WOMEN: Elevate your everyday style with the Lugz clipper womens slip on shoes women footwear, designed to blend comfort with classic casual flair. CASUAL SNEAKERS FOR WOMEN: Sturdy canvas upper and vulcanized rubber outsole for grip and durability. WOMENS SLIP ON SHOES: Side gore panels and padded collar for flexible fit and comfort. WOMENS CASUAL SHOES: Versatile and practical for daily wear. LUGZ SHOES: Sleek, comfortable, and fashionable.",
     "primary_keyword": "Lugz Women's Clipper Slip-On Canvas Shoes",
     "slug": "lugz-lugz-womens-clipper-shoe-B0DKTJ",
-    "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-womens-clipper-shoe-B0DKTJ.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-clipper-shoe",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/lugz",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -63,7 +63,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0DKTJSJVB",
       "name": "Lugz Women's Clipper Shoe",
       "description": "Stylish slip-on canvas sneakers for women combining comfort and casual fashion",
-      "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-womens-clipper-shoe-B0DKTJ.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-clipper-shoe",
       "sku": "B0DKTJSJVB",
       "mpn": "B0DKTJSJVB",
       "brand": {
@@ -73,10 +73,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-womens-clipper-shoe-B0DKTJ.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-clipper-shoe",
         "priceCurrency": "USD",
         "price": 35,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -187,12 +187,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Lugz Women's Clipper Shoe",
-            "item": "https://www.shoesonwhite.com/2026/02/lugz-lugz-womens-clipper-shoe-B0DKTJ.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-clipper-shoe"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
