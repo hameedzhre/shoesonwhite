@@ -2,22 +2,22 @@
   "metadata": {
     "name": "adidas",
     "slug": "adidas",
-    "url": "https://www.shoesonwhite.com/p/adidas",
-    "generated_at": "2026-02-15T04:43:36.093Z",
+    "url": "https://www.shoesonwhite.com/p/adidas.html",
+    "generated_at": "2026-02-15T09:23:15.811Z",
     "total_products": 5,
     "site_url": "https://www.shoesonwhite.com"
   },
   "brand": {
     "name": "adidas",
     "slug": "adidas",
-    "url": "https://www.shoesonwhite.com/p/adidas"
+    "url": "https://www.shoesonwhite.com/p/adidas.html"
   },
   "products": [
     {
       "product_id": "B0DBM6HSYS",
       "title": "adidas Women's X_PLR Path Running Shoes",
       "slug": "adidas-womens-x_plr-path-running",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-x_plr-path-running",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-x_plr-path-running.html",
       "gender": "Women",
       "subcategory": "Athletic",
       "price_min": 33.4,
@@ -28,7 +28,7 @@
       "product_id": "B0CKMHWRW6",
       "title": "adidas Women's Run Falcon 5 Running Shoes",
       "slug": "adidas-womens-run-falcon-5-running",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running.html",
       "gender": "Women",
       "subcategory": "Athletic",
       "price_min": 45.21,
@@ -39,7 +39,7 @@
       "product_id": "B09KMY3ZLD",
       "title": "adidas Women's Grand Court 2.0 Tennis Shoe",
       "slug": "adidas-womens-grand-court-20-tennis-shoe",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-grand-court-20-tennis-shoe",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-grand-court-20-tennis-shoe.html",
       "gender": "Women",
       "subcategory": "Sneakers",
       "price_min": 49,
@@ -50,7 +50,7 @@
       "product_id": "B09Y2VHQ90",
       "title": "Adidas Women's Bravada 2.0 Platform Sneakers",
       "slug": "adidas-womens-bravada-20-platform",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-bravada-20-platform",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-bravada-20-platform.html",
       "gender": "Women",
       "subcategory": "Sneakers",
       "price_min": 45.49,
@@ -61,7 +61,7 @@
       "product_id": "B08S8VR3L2",
       "title": "adidas Men's Advantage Sneaker",
       "slug": "adidas-mens-advantage",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-mens-advantage",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-mens-advantage.html",
       "gender": "Men",
       "subcategory": "Athletic",
       "price_min": 36.42,
