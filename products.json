@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-02-14T03:55:21.106Z",
+    "generated_at": "2026-02-15T04:27:03.597Z",
     "total_products": 44,
-    "last_sync": "2026-02-14T03:55:21.106Z",
+    "last_sync": "2026-02-15T04:27:03.597Z",
     "format_version": "2.0",
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -38,7 +38,7 @@
       "about_this_item": "Easy slip-on design with secure fit, breathable canvas upper, soft padded insole for comfort, suitable for work, shopping, travel, and casual outfits, durable non-slip rubber sole.",
       "primary_keyword": "womens slip on canvas sneakers",
       "slug": "hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P",
-      "url": "https://www.shoesonwhite.com/2026/02/hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/hash-bubbie",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -56,7 +56,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0922PZRJ6",
         "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
         "description": "Comfortable women?s slip-on canvas sneakers with breathable upper and non-slip rubber sole for daily casual wear.",
-        "url": "https://www.shoesonwhite.com/2026/02/hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-",
         "sku": "B0922PZRJ6",
         "mpn": "B0922PZRJ7",
         "brand": {
@@ -66,10 +66,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-",
           "priceCurrency": "USD",
           "price": 17.54,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -173,13 +173,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
-              "item": "https://www.shoesonwhite.com/2026/02/hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.099Z",
-      "last_updated": "2026-02-14T03:55:21.099Z"
+      "created_at": "2026-02-15T04:27:03.592Z",
+      "last_updated": "2026-02-15T04:27:03.592Z"
     },
     {
       "product_id": "B08XM4K566",
@@ -212,7 +212,7 @@
       "about_this_item": "Non-slip rubber sole; lightweight design; durable synthetic vegan leather; breathable upper; soft memory foam insole with approx. 1-inch heel",
       "primary_keyword": "shoes on white",
       "slug": "vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4",
-      "url": "https://www.shoesonwhite.com/2026/02/vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-casual-shoes-comfortable-dres",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/vepose",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -230,7 +230,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B08XM4K566",
         "name": "Vepose Women's Fashion Sneakers Casual Shoes Comfortable Dress Sneaker 2.0",
         "description": "Comfortable women's fashion sneakers made with vegan leather and memory foam insole.",
-        "url": "https://www.shoesonwhite.com/2026/02/vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-casual-shoes-comfortable-dres",
         "sku": "B08XM4K566",
         "mpn": "B08XM4K567",
         "brand": {
@@ -240,10 +240,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-casual-shoes-comfortable-dres",
           "priceCurrency": "USD",
           "price": 29.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -347,13 +347,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Vepose Women's Fashion Sneakers Casual Shoes Comfortable Dress Sneaker 2.0",
-              "item": "https://www.shoesonwhite.com/2026/02/vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-casual-shoes-comfortable-dres"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.099Z",
-      "last_updated": "2026-02-14T03:55:21.099Z"
+      "created_at": "2026-02-15T04:27:03.592Z",
+      "last_updated": "2026-02-15T04:27:03.592Z"
     },
     {
       "product_id": "B09537W3Q3",
@@ -386,7 +386,7 @@
       "about_this_item": "Outer Material: Chromefree Leather",
       "primary_keyword": "leather sneakers, minimalist sneakers",
       "slug": "veja-veja-women-esplar-sneakers-extra-white-B09537",
-      "url": "https://www.shoesonwhite.com/2026/02/veja-veja-women-esplar-sneakers-extra-white-B09537.html",
+      "url": "https://www.shoesonwhite.com/sneakers+women-esplar-sneakers-extra-white",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/veja",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -405,7 +405,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B09537W3Q3",
         "name": "Veja Women Esplar Sneakers Extra White",
         "description": "Minimalist leather sneaker made with chrome-free leather.",
-        "url": "https://www.shoesonwhite.com/2026/02/veja-veja-women-esplar-sneakers-extra-white-B09537.html",
+        "url": "https://www.shoesonwhite.com/sneakers+women-esplar-sneakers-extra-white",
         "sku": "B09537W3Q3",
         "mpn": "B09537W3Q3",
         "brand": {
@@ -415,10 +415,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/veja-veja-women-esplar-sneakers-extra-white-B09537.html",
+          "url": "https://www.shoesonwhite.com/sneakers+women-esplar-sneakers-extra-white",
           "priceCurrency": "USD",
           "price": 116.23,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -528,13 +528,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Veja Women Esplar Sneakers Extra White",
-              "item": "https://www.shoesonwhite.com/2026/02/veja-veja-women-esplar-sneakers-extra-white-B09537.html"
+              "item": "https://www.shoesonwhite.com/sneakers+women-esplar-sneakers-extra-white"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.099Z",
-      "last_updated": "2026-02-14T03:55:21.099Z"
+      "created_at": "2026-02-15T04:27:03.592Z",
+      "last_updated": "2026-02-15T04:27:03.592Z"
     },
     {
       "product_id": "B0DCV7BV1F",
@@ -567,7 +567,7 @@
       "about_this_item": "EXQUISITE FLYING KNITTING TECHNOLOGY - The upper adopts flying knitting technology for breathability and lightweight comfort. EVA NON-SLIP OUTSOLE - Highly elastic and soft EVA material with excellent wear resistance. SUPPORTIVE INSOLES - Firmly fix feet, providing protection for ankles and toes. IDEAL FOR CASUAL OCCASIONS - Great for walking, parties, or casual events. PROVIDES BETTER COMFORT - Soft cushioning for all-day wear.",
       "primary_keyword": "VAMJAM Men's Running Shoes",
       "slug": "vamjam-vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying-knittin-B0DCV7",
-      "url": "https://www.shoesonwhite.com/2026/02/vamjam-vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying-knittin-B0DCV7.html",
+      "url": "https://www.shoesonwhite.com/athletic+mens-running-shoes-fashion-sneakers-lightweight-breat",
       "gender_url": "https://www.shoesonwhite.com/p/men",
       "brand_url": "https://www.shoesonwhite.com/p/vamjam",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -585,7 +585,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0DCV7BV1F",
         "name": "VAMJAM Men's Running Shoes Fashion Sneakers - Lightweight Breathable Flying Knitting Lace Up Mesh Walking Shoes Workout Casual Sports Shoes",
         "description": "Lightweight, breathable, comfortable running/walking shoes suitable for casual wear.",
-        "url": "https://www.shoesonwhite.com/2026/02/vamjam-vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying-knittin-B0DCV7.html",
+        "url": "https://www.shoesonwhite.com/athletic+mens-running-shoes-fashion-sneakers-lightweight-breat",
         "sku": "B0DCV7BV1F",
         "mpn": "B0DCV7BV1F",
         "brand": {
@@ -595,10 +595,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/vamjam-vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying-knittin-B0DCV7.html",
+          "url": "https://www.shoesonwhite.com/athletic+mens-running-shoes-fashion-sneakers-lightweight-breat",
           "priceCurrency": "USD",
           "price": 32.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -702,13 +702,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "VAMJAM Men's Running Shoes Fashion Sneakers - Lightweight Breathable Flying Knitting Lace Up Mesh Walking Shoes Workout Casual Sports Shoes",
-              "item": "https://www.shoesonwhite.com/2026/02/vamjam-vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying-knittin-B0DCV7.html"
+              "item": "https://www.shoesonwhite.com/athletic+mens-running-shoes-fashion-sneakers-lightweight-breat"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.099Z",
-      "last_updated": "2026-02-14T03:55:21.099Z"
+      "created_at": "2026-02-15T04:27:03.592Z",
+      "last_updated": "2026-02-15T04:27:03.592Z"
     },
     {
       "product_id": "B0FCK8MX1X",
@@ -741,7 +741,7 @@
       "about_this_item": "Breathable mesh upper with synthetic overlays, enhanced cushioning around ankle collar, Deluxe Comfort System sockliner, Charged Cushioning? midsole for all-day comfort, durable rubber outsole providing traction and flexibility",
       "primary_keyword": "Under Armour Men's Charged Surge 4",
       "slug": "under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8",
-      "url": "https://www.shoesonwhite.com/2026/02/under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8.html",
+      "url": "https://www.shoesonwhite.com/sneakers+under-armour-mens-charged-surge-4-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/men",
       "brand_url": "https://www.shoesonwhite.com/p/under-armour",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -758,7 +758,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0FCK8MX1X",
         "name": "Under Armour Men's Charged Surge 4 Sneaker",
         "description": "Breathable, cushioned running sneakers for men",
-        "url": "https://www.shoesonwhite.com/2026/02/under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8.html",
+        "url": "https://www.shoesonwhite.com/sneakers+under-armour-mens-charged-surge-4-sneaker",
         "sku": "B0FCK8MX1X",
         "mpn": "B0FCK8MX1X",
         "brand": {
@@ -768,10 +768,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8.html",
+          "url": "https://www.shoesonwhite.com/sneakers+under-armour-mens-charged-surge-4-sneaker",
           "priceCurrency": "USD",
           "price": 54.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -879,13 +879,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Under Armour Men's Charged Surge 4 Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8.html"
+              "item": "https://www.shoesonwhite.com/sneakers+under-armour-mens-charged-surge-4-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.099Z",
-      "last_updated": "2026-02-14T03:55:21.099Z"
+      "created_at": "2026-02-15T04:27:03.592Z",
+      "last_updated": "2026-02-15T04:27:03.592Z"
     },
     {
       "product_id": "B08176RC33",
@@ -918,7 +918,7 @@
       "about_this_item": "Men's casual sneaker with a vulcanized bottom. Padded collar with soft textile lining and cushioned footbed for added comfort. Durable rubber outsole. Imported.",
       "primary_keyword": "Tommy Hilfiger Pandora",
       "slug": "tommy-hilfiger-tommy-hilfiger-mens-pandora-sneaker-B08176",
-      "url": "https://www.shoesonwhite.com/2026/02/tommy-hilfiger-tommy-hilfiger-mens-pandora-sneaker-B08176.html",
+      "url": "https://www.shoesonwhite.com/sneakers+tommy-hilfiger-mens-pandora-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/men",
       "brand_url": "https://www.shoesonwhite.com/p/tommy-hilfiger",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -935,7 +935,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B08176RC33",
         "name": "Tommy Hilfiger Men's Pandora Sneaker",
         "description": "Casual men?s sneaker with vulcanized sole and padded collar",
-        "url": "https://www.shoesonwhite.com/2026/02/tommy-hilfiger-tommy-hilfiger-mens-pandora-sneaker-B08176.html",
+        "url": "https://www.shoesonwhite.com/sneakers+tommy-hilfiger-mens-pandora-sneaker",
         "sku": "B08176RC33",
         "mpn": "B08176RC34",
         "brand": {
@@ -945,10 +945,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/tommy-hilfiger-tommy-hilfiger-mens-pandora-sneaker-B08176.html",
+          "url": "https://www.shoesonwhite.com/sneakers+tommy-hilfiger-mens-pandora-sneaker",
           "priceCurrency": "USD",
           "price": 32.36,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -1056,13 +1056,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Tommy Hilfiger Men's Pandora Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/tommy-hilfiger-tommy-hilfiger-mens-pandora-sneaker-B08176.html"
+              "item": "https://www.shoesonwhite.com/sneakers+tommy-hilfiger-mens-pandora-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.099Z",
-      "last_updated": "2026-02-14T03:55:21.099Z"
+      "created_at": "2026-02-15T04:27:03.592Z",
+      "last_updated": "2026-02-15T04:27:03.592Z"
     },
     {
       "product_id": "B0FH7GZD1Y",
@@ -1095,7 +1095,7 @@
       "about_this_item": "PREMIUM COMFORT TECHNOLOGY: Experience superior cushioning with Air-Cooled Memory Foam insole and visible air-cushioned midsole... STYLISH WEDGE DESIGN... SUPERIOR TRACTION... VERSATILE FASHION...",
       "primary_keyword": "memory foam shoes, fashion sneakers with wedge",
       "slug": "skechers-skechers-womens-uno-stand-on-air-sneakers-B0FH7G",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-uno-stand-on-air-sneakers-B0FH7G.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-uno-stand-on-air-sneakers",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/skechers",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -1114,7 +1114,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0FH7GZD1Y",
         "name": "Skechers Women's Uno Stand on Air Sneakers",
         "description": "Fashion sneaker with visible air cushioning and a hidden wedge heel.",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-uno-stand-on-air-sneakers-B0FH7G.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-uno-stand-on-air-sneakers",
         "sku": "B0FH7GZD1Y",
         "mpn": "B0FH7GZD1Y",
         "brand": {
@@ -1124,10 +1124,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-uno-stand-on-air-sneakers-B0FH7G.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-uno-stand-on-air-sneakers",
           "priceCurrency": "USD",
           "price": 44.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -1237,13 +1237,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Skechers Women's Uno Stand on Air Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-uno-stand-on-air-sneakers-B0FH7G.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-uno-stand-on-air-sneakers"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.099Z",
-      "last_updated": "2026-02-14T03:55:21.099Z"
+      "created_at": "2026-02-15T04:27:03.592Z",
+      "last_updated": "2026-02-15T04:27:03.592Z"
     },
     {
       "product_id": "B0D7YTJBMF",
@@ -1276,7 +1276,7 @@
       "about_this_item": "ATHLETIC COMFORT DESIGN: Soft mesh knit upper with bungee lacing system... PREMIUM CUSHIONING: Memory Foam cushioned insole... VERSATILE PERFORMANCE... EASY MAINTENANCE... RELIABLE TRACTION...",
       "primary_keyword": "slip on sneakers for women, memory foam shoes",
       "slug": "skechers-skechers-womens-summits-sneaker-B0D7YT",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-summits-sneaker-B0D7YT.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/skechers",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -1296,7 +1296,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0D7YTJBMF",
         "name": "Skechers Women's Summits Sneaker",
         "description": "Slip-on athletic sneaker with memory foam and mesh upper. Machine washable.",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-summits-sneaker-B0D7YT.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
         "sku": "B0D7YTJBMF",
         "mpn": "B0D7YTJBMF",
         "brand": {
@@ -1306,10 +1306,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-summits-sneaker-B0D7YT.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
           "priceCurrency": "USD",
           "price": 40,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -1415,13 +1415,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Skechers Women's Summits Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-summits-sneaker-B0D7YT.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.100Z",
-      "last_updated": "2026-02-14T03:55:21.100Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B0F9294296",
@@ -1454,7 +1454,7 @@
       "about_this_item": "SUPERIOR COMFORT AND SUPPORT: Experience premium cushioning with 5GEN technology and Goga Max high rebound insole... BREATHABLE DESIGN... EASY SLIP-ON STYLE... VEGAN FRIENDLY CONSTRUCTION... EASY CARE...",
       "primary_keyword": "walking shoes, slip on athletic shoes",
       "slug": "skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929.html",
+      "url": "https://www.shoesonwhite.com/athletic+womens-go-walk-joy-cushioning-sneakers",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/skechers",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -1473,7 +1473,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0F9294296",
         "name": "Skechers Women's Go Walk Joy Cushioning Sneakers",
         "description": "Slip-on walking shoe with advanced cushioning and breathable mesh. Machine washable.",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929.html",
+        "url": "https://www.shoesonwhite.com/athletic+womens-go-walk-joy-cushioning-sneakers",
         "sku": "B0F9294296",
         "mpn": "B0F9294297",
         "brand": {
@@ -1483,10 +1483,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929.html",
+          "url": "https://www.shoesonwhite.com/athletic+womens-go-walk-joy-cushioning-sneakers",
           "priceCurrency": "USD",
           "price": 44.88,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -1596,13 +1596,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Skechers Women's Go Walk Joy Cushioning Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929.html"
+              "item": "https://www.shoesonwhite.com/athletic+womens-go-walk-joy-cushioning-sneakers"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.100Z",
-      "last_updated": "2026-02-14T03:55:21.100Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B014GNJWW7",
@@ -1635,7 +1635,7 @@
       "about_this_item": "REVITALIZED CLASSIC STYLE with smooth leather and synthetic upper; CUSHIONED COMFORT using Air-Cooled Memory Foam insole; LIGHTWEIGHT shock-absorbing midsole; FLEXIBLE rubber traction outsole for durability and grip.",
       "primary_keyword": "skechers white sneakers",
       "slug": "skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-dlites-fresh-start-memory-foam-sneakers",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/skechers",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -1654,7 +1654,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B014GNJWW7",
         "name": "Skechers Women's D'Lites Fresh Start Memory Foam Sneakers",
         "description": "Classic white chunky sneakers with memory foam cushioning designed for all-day comfort and casual wear.",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-dlites-fresh-start-memory-foam-sneakers",
         "sku": "B014GNJWW7",
         "mpn": "B014GNJWW8",
         "brand": {
@@ -1664,10 +1664,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-dlites-fresh-start-memory-foam-sneakers",
           "priceCurrency": "USD",
           "price": 49.72,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -1777,13 +1777,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Skechers Women's D'Lites Fresh Start Memory Foam Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-dlites-fresh-start-memory-foam-sneakers"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.100Z",
-      "last_updated": "2026-02-14T03:55:21.100Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B0FBSBXCMS",
@@ -1816,7 +1816,7 @@
       "about_this_item": "Memory Foam cushioned insole, soft canvas upper, slip-on design, vegan materials, machine washable",
       "primary_keyword": "Skechers Bobs B Cute",
       "slug": "skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-bobs-b-cute-sneaker-memory-foam-flexible-out",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/skechers",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -1836,7 +1836,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0FBSBXCMS",
         "name": "Skechers Women's Bobs B Cute Sneaker ? Memory Foam, Flexible Outsole, Lightweight Vegan Shoes",
         "description": "Lightweight, comfortable vegan sneaker",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-bobs-b-cute-sneaker-memory-foam-flexible-out",
         "sku": "B0FBSBXCMS",
         "mpn": "B0FBSBXCMS",
         "brand": {
@@ -1846,10 +1846,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-bobs-b-cute-sneaker-memory-foam-flexible-out",
           "priceCurrency": "USD",
           "price": 49.95,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -1960,13 +1960,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Skechers Women's Bobs B Cute Sneaker ? Memory Foam, Flexible Outsole, Lightweight Vegan Shoes",
-              "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-bobs-b-cute-sneaker-memory-foam-flexible-out"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.100Z",
-      "last_updated": "2026-02-14T03:55:21.100Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B0F8VJ3B5D",
@@ -1999,7 +1999,7 @@
       "about_this_item": "PODIATRIST-CERTIFIED SUPPORT: Arch Fit insole system provides exceptional arch support... EASY SLIP-ON DESIGN... PREMIUM COMFORT FEATURES... VEGAN-FRIENDLY CONSTRUCTION... VERSATILE STYLE...",
       "primary_keyword": "womens slip on shoes, slip on shoes for women",
       "slug": "skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-arch-fit-arcade-meet-ya-there-sneakers",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/skechers",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -2019,7 +2019,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0F8VJ3B5D",
         "name": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
         "description": "Slip-on sneakers with podiatrist-certified arch support and vegan canvas upper.",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-arch-fit-arcade-meet-ya-there-sneakers",
         "sku": "B0F8VJ3B5D",
         "mpn": "B0F8VJ3B5D",
         "brand": {
@@ -2029,10 +2029,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-arch-fit-arcade-meet-ya-there-sneakers",
           "priceCurrency": "USD",
           "price": 50.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -2143,13 +2143,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-arch-fit-arcade-meet-ya-there-sneakers"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.100Z",
-      "last_updated": "2026-02-14T03:55:21.100Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B0C57Z7R2N",
@@ -2181,7 +2181,7 @@
       "about_this_item": "?Adding Height?:Platform sneakers for women with 1.5 inch platform,you will look taller when you put on the platform shoes. ?Easy to Clean?:Platform shoes for women have high quality PU leather upper,they are water resistant and easy to clean. ?Non-slip Sole?:Non-slip rubber sole makes the women's low top sneakers so safe that you don't need to worry about slipping. ?Best Gift?:Womens platform sneakers are always attractive, so they are great ideal as Mother's Day gift,Thanksgiving gift,Christmas gift or other festival gift.",
       "primary_keyword": "white sneakers",
       "slug": "sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z",
-      "url": "https://www.shoesonwhite.com/2026/02/sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-white-platform-sneakers-pu-leather-platform-s",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/sernial",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -2200,7 +2200,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0C57Z7R2N",
         "name": "SERNIAL Womens White Platform Sneakers PU Leather Platform Shoes Walking Shoes for Women",
         "description": "Womens platform sneakers with 1.5 inch platform",
-        "url": "https://www.shoesonwhite.com/2026/02/sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-white-platform-sneakers-pu-leather-platform-s",
         "sku": "B0C57Z7R2N",
         "mpn": "B0C57Z7R2N",
         "brand": {
@@ -2210,10 +2210,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-white-platform-sneakers-pu-leather-platform-s",
           "priceCurrency": "USD",
           "price": 26.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -2318,13 +2318,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "SERNIAL Womens White Platform Sneakers PU Leather Platform Shoes Walking Shoes for Women",
-              "item": "https://www.shoesonwhite.com/2026/02/sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-white-platform-sneakers-pu-leather-platform-s"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.100Z",
-      "last_updated": "2026-02-14T03:55:21.100Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B07XRNVJC1",
@@ -2357,7 +2357,7 @@
       "about_this_item": "LIGHTWEIGHT & DURABLE synthetic leather upper; CLASSIC Reebok minimalist design; LOW-CUT ankle for mobility; REMOVABLE foam sockliner for cushioning; HIGH-ABRASION rubber outsole for durability.",
       "primary_keyword": "Reebok Princess women white sneakers",
       "slug": "reebok-reebok-princess-sneakers-for-women-B07XRN",
-      "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-princess-sneakers-for-women-B07XRN.html",
+      "url": "https://www.shoesonwhite.com/sneakers+princess-sneakers-for",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/reebok",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -2375,7 +2375,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B07XRNVJC1",
         "name": "Reebok Princess Sneakers for Women",
         "description": "Classic lightweight white sneakers for women designed for all-day comfort, walking, gym, and casual wear.",
-        "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-princess-sneakers-for-women-B07XRN.html",
+        "url": "https://www.shoesonwhite.com/sneakers+princess-sneakers-for",
         "sku": "B07XRNVJC1",
         "mpn": "B07XRNVJC2",
         "brand": {
@@ -2385,10 +2385,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-princess-sneakers-for-women-B07XRN.html",
+          "url": "https://www.shoesonwhite.com/sneakers+princess-sneakers-for",
           "priceCurrency": "USD",
           "price": 49.8,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -2497,13 +2497,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Reebok Princess Sneakers for Women",
-              "item": "https://www.shoesonwhite.com/2026/02/reebok-reebok-princess-sneakers-for-women-B07XRN.html"
+              "item": "https://www.shoesonwhite.com/sneakers+princess-sneakers-for"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.100Z",
-      "last_updated": "2026-02-14T03:55:21.100Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B004C0592I",
@@ -2536,7 +2536,7 @@
       "about_this_item": "The Court Advance combines retro style with comfort. Features leather upper, OrthoLite sock liner, DMX midsole bubbles, padded collar, and durable rubber sole. Ideal for casual wear or court sports. Perforated details enhance breathability. Available in multiple sizes and colors.",
       "primary_keyword": "Reebok Court Advance Sneakers",
       "slug": "reebok-reebok-court-advance-sneakers-for-men-B004C0",
-      "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C0.html",
+      "url": "https://www.shoesonwhite.com/sneakers+court-advance-sneakers-for",
       "gender_url": "https://www.shoesonwhite.com/p/men",
       "brand_url": "https://www.shoesonwhite.com/p/reebok",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -2555,7 +2555,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B004C0592I",
         "name": "Reebok Court Advance Sneakers for Men",
         "description": "Classic Reebok men's tennis-inspired casual sneakers",
-        "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C0.html",
+        "url": "https://www.shoesonwhite.com/sneakers+court-advance-sneakers-for",
         "sku": "B004C0592I",
         "mpn": "B004C0592I",
         "brand": {
@@ -2565,10 +2565,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C0.html",
+          "url": "https://www.shoesonwhite.com/sneakers+court-advance-sneakers-for",
           "priceCurrency": "USD",
           "price": 49.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -2678,13 +2678,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Reebok Court Advance Sneakers for Men",
-              "item": "https://www.shoesonwhite.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C0.html"
+              "item": "https://www.shoesonwhite.com/sneakers+court-advance-sneakers-for"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.100Z",
-      "last_updated": "2026-02-14T03:55:21.100Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B0BXTWMYWM",
@@ -2717,7 +2717,7 @@
       "about_this_item": "AN OPTIMAL DAILY ESSENTIAL... ENHANCED MATERIAL AND FIT: This shoe is equipped with a soft leather upper... SLEEK DESIGN AND HIGH-QUALITY HOLD...",
       "primary_keyword": "platform sneakers, leather sneakers",
       "slug": "puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW",
-      "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-smash-v3-platform-lace-up-sneakers-shoes-casual",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/puma",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -2735,7 +2735,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0BXTWMYWM",
         "name": "Puma Womens Smash V3 Platform Lace Up Sneakers Shoes Casual",
         "description": "Leather platform sneaker with Softfoam+ cushioning.",
-        "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-smash-v3-platform-lace-up-sneakers-shoes-casual",
         "sku": "B0BXTWMYWM",
         "mpn": "B0BXTWMYWM",
         "brand": {
@@ -2745,10 +2745,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-smash-v3-platform-lace-up-sneakers-shoes-casual",
           "priceCurrency": "USD",
           "price": 49.98,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -2857,13 +2857,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Puma Womens Smash V3 Platform Lace Up Sneakers Shoes Casual",
-              "item": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-smash-v3-platform-lace-up-sneakers-shoes-casual"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.100Z",
-      "last_updated": "2026-02-14T03:55:21.100Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B0CNYJ28VG",
@@ -2896,7 +2896,7 @@
       "about_this_item": "80s-inspired design, premium leather upper, elevated platform sole, SoftFoam+ cushioning, lace closure, minimal PUMA branding",
       "primary_keyword": "Puma Womens Carina L Sneaker",
       "slug": "puma-puma-womens-carina-l-sneaker-B0CNYJ",
-      "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B0CNYJ.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/puma",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -2915,7 +2915,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0CNYJ28VG",
         "name": "Puma Womens Carina L Sneaker",
         "description": "Retro-inspired women?s fashion sneaker with premium leather upper and elevated platform sole",
-        "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B0CNYJ.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker",
         "sku": "B0CNYJ28VG",
         "mpn": "B0CNYJ28VG",
         "brand": {
@@ -2925,10 +2925,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B0CNYJ.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker",
           "priceCurrency": "USD",
           "price": 41.95,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -3038,13 +3038,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Puma Womens Carina L Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B0CNYJ.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.100Z",
-      "last_updated": "2026-02-14T03:55:21.100Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B07HJLRXBT",
@@ -3077,7 +3077,7 @@
       "about_this_item": "RETRO AND TRENDY: 80's inspired, adapted to fit today's laid-back sneaker look of Californian beach towns. ENHANCED PLATFORM: New tooling with an elevated platform sole. HIGH-QUALITY CONSTRUCTION: This shoe contains a premium leather upper. MINIMAL AND TIMELESS: Subtle PUMA branding. SIZE UP FOR BETTER FIT: Tight fit. One size up recommended.",
       "primary_keyword": "white sneakers",
       "slug": "puma-puma-womens-carina-l-sneaker-B07HJL",
-      "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B07HJL.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/puma",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -3096,7 +3096,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B07HJLRXBT",
         "name": "PUMA Womens Carina L Sneaker",
         "description": "80's inspired sneaker with elevated platform and premium leather upper",
-        "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B07HJL.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker",
         "sku": "B07HJLRXBT",
         "mpn": "B07HJLRXBT",
         "brand": {
@@ -3106,10 +3106,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B07HJL.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker",
           "priceCurrency": "USD",
           "price": 41.95,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -3219,13 +3219,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "PUMA Womens Carina L Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-carina-l-sneaker-B07HJL.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-carina-l-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.593Z",
+      "last_updated": "2026-02-15T04:27:03.593Z"
     },
     {
       "product_id": "B0BYZHQXHJ",
@@ -3258,7 +3258,7 @@
       "about_this_item": "Breathable mesh upper; lightweight EVA outsole; slip-resistant sole; cushioned memory foam insole; easy slip-on design; suitable for walking, running, gym, travel, and casual outfits.",
       "primary_keyword": "white sneakers women",
       "slug": "pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH",
-      "url": "https://www.shoesonwhite.com/2026/02/pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH.html",
+      "url": "https://www.shoesonwhite.com/athletic+womens-sneakers-non-slip-walking-shoes-lightweight-ten",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/pujcs",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -3277,7 +3277,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0BYZHQXHJ",
         "name": "Pujcs Womens Sneakers Non Slip Walking Shoes Lightweight Tennis Shoes Breathable Running Shoes Gym Workout Mesh Sneakers",
         "description": "Lightweight breathable women?s walking sneakers designed for comfort, flexibility, and everyday wear.",
-        "url": "https://www.shoesonwhite.com/2026/02/pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH.html",
+        "url": "https://www.shoesonwhite.com/athletic+womens-sneakers-non-slip-walking-shoes-lightweight-ten",
         "sku": "B0BYZHQXHJ",
         "mpn": "B0BYZHQXHJ",
         "brand": {
@@ -3287,10 +3287,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH.html",
+          "url": "https://www.shoesonwhite.com/athletic+womens-sneakers-non-slip-walking-shoes-lightweight-ten",
           "priceCurrency": "USD",
           "price": 26.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -3395,13 +3395,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Pujcs Womens Sneakers Non Slip Walking Shoes Lightweight Tennis Shoes Breathable Running Shoes Gym Workout Mesh Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH.html"
+              "item": "https://www.shoesonwhite.com/athletic+womens-sneakers-non-slip-walking-shoes-lightweight-ten"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0F9MZ4KY6",
@@ -3434,7 +3434,7 @@
       "about_this_item": "Elastic speed-lace system, Reflective accents, Cushioned collar and removable insole, Designed for training , Ultra lightweight and breathable design",
       "primary_keyword": "cloud sneakers, running style shoes",
       "slug": "on-on-womens-cloud-6-B0F9MZ",
-      "url": "https://www.shoesonwhite.com/2026/02/on-on-womens-cloud-6-B0F9MZ.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-cloud-6",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/on",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -3452,7 +3452,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0F9MZ4KY6",
         "name": "On Womens Cloud 6",
         "description": "Lightweight running-inspired sneaker with CloudTec cushioning.",
-        "url": "https://www.shoesonwhite.com/2026/02/on-on-womens-cloud-6-B0F9MZ.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-cloud-6",
         "sku": "B0F9MZ4KY6",
         "mpn": "B0F9MZ4KY7",
         "brand": {
@@ -3462,10 +3462,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/on-on-womens-cloud-6-B0F9MZ.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-cloud-6",
           "priceCurrency": "USD",
           "price": 147.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -3569,13 +3569,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "On Womens Cloud 6",
-              "item": "https://www.shoesonwhite.com/2026/02/on-on-womens-cloud-6-B0F9MZ.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-cloud-6"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B08C2DZ18Q",
@@ -3608,7 +3608,7 @@
       "about_this_item": "FABRIC UPPER: 235g fabric upper with moderate yarn thickness, breathable, soft, keeps dry. SOLE: Rubber sole, quiet, soft, anti-skid. STURDY: Vulcanized three times under high pressure, elastic band or laces, super comfort padding. Perfect slip-on fashion sneaker for women.",
       "primary_keyword": "women canvas sneakers",
       "slug": "obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D",
-      "url": "https://www.shoesonwhite.com/2026/02/obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-play-fashion-sneaker-white-color-washed-and-le",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/obtaom",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -3626,7 +3626,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B08C2DZ18Q",
         "name": "Obtaom Women?s Play Fashion Sneaker White Color Washed and Leopard Canvas Slip on Shoes",
         "description": "Comfortable & stylish women?s canvas sneaker",
-        "url": "https://www.shoesonwhite.com/2026/02/obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-play-fashion-sneaker-white-color-washed-and-le",
         "sku": "B08C2DZ18Q",
         "mpn": "B08C2DZ18Q",
         "brand": {
@@ -3636,10 +3636,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-play-fashion-sneaker-white-color-washed-and-le",
           "priceCurrency": "USD",
           "price": 21.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -3748,13 +3748,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Obtaom Women?s Play Fashion Sneaker White Color Washed and Leopard Canvas Slip on Shoes",
-              "item": "https://www.shoesonwhite.com/2026/02/obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-play-fashion-sneaker-white-color-washed-and-le"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0DCBT6146",
@@ -3787,7 +3787,7 @@
       "about_this_item": "Exceptional Cushioning... Breathable & Lightweight... Confident & Stable... Stylish & Protective... For Everyday Activities...",
       "primary_keyword": "walking shoes, athletic sneakers",
       "slug": "nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT",
-      "url": "https://www.shoesonwhite.com/2026/02/nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT.html",
+      "url": "https://www.shoesonwhite.com/athletic+nortiv-8-womens-walking-shoes-cushion-comfortable-activebree",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/nortiv-8",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -3806,7 +3806,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0DCBT6146",
         "name": "NORTIV 8 Women's Walking Shoes Cushion Comfortable ActiveBreeze Running Tennis Shoes Non-Slip Workout Gym Sports Athletic Breathable Fashion Sneakers",
         "description": "Cushioned walking/running shoe with breathable mesh and reflective detail.",
-        "url": "https://www.shoesonwhite.com/2026/02/nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT.html",
+        "url": "https://www.shoesonwhite.com/athletic+nortiv-8-womens-walking-shoes-cushion-comfortable-activebree",
         "sku": "B0DCBT6146",
         "mpn": "B0DCBT6147",
         "brand": {
@@ -3816,10 +3816,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT.html",
+          "url": "https://www.shoesonwhite.com/athletic+nortiv-8-womens-walking-shoes-cushion-comfortable-activebree",
           "priceCurrency": "USD",
           "price": 69.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -3924,13 +3924,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "NORTIV 8 Women's Walking Shoes Cushion Comfortable ActiveBreeze Running Tennis Shoes Non-Slip Workout Gym Sports Athletic Breathable Fashion Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT.html"
+              "item": "https://www.shoesonwhite.com/athletic+nortiv-8-womens-walking-shoes-cushion-comfortable-activebree"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0BWTDFGBF",
@@ -3963,7 +3963,7 @@
       "about_this_item": "Elevate your style with the Nike Court Legacy Lift. Its platform midsole delivers a bold statement... Subtly layered upper... Rubber outsole... Padded heel and plush tongue...",
       "primary_keyword": "platform sneakers, fashion sneakers",
       "slug": "nike-nike-womens-court-legacy-lift-shoes-B0BWTD",
-      "url": "https://www.shoesonwhite.com/2026/02/nike-nike-womens-court-legacy-lift-shoes-B0BWTD.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-court-legacy-lift-shoes",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/nike",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -3982,7 +3982,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0BWTDFGBF",
         "name": "Nike Women's Court Legacy Lift Shoes",
         "description": "Platform sneaker with a classic, easy-to-wear design and padded comfort.",
-        "url": "https://www.shoesonwhite.com/2026/02/nike-nike-womens-court-legacy-lift-shoes-B0BWTD.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-court-legacy-lift-shoes",
         "sku": "B0BWTDFGBF",
         "mpn": "B0BWTDFGBF",
         "brand": {
@@ -3992,10 +3992,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/nike-nike-womens-court-legacy-lift-shoes-B0BWTD.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-court-legacy-lift-shoes",
           "priceCurrency": "USD",
           "price": 95,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -4095,13 +4095,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Nike Women's Court Legacy Lift Shoes",
-              "item": "https://www.shoesonwhite.com/2026/02/nike-nike-womens-court-legacy-lift-shoes-B0BWTD.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-court-legacy-lift-shoes"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0DG7W333S",
@@ -4134,7 +4134,7 @@
       "about_this_item": "Ultra Heel design, Synthetic/mesh upper, Full-length rubber outsole, Bootie upper construction",
       "primary_keyword": "Fresh Foam Roav V1 Sneaker",
       "slug": "new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W.html",
+      "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-fresh-foam-roav-v1-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/new-balance",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -4153,7 +4153,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0DG7W333S",
         "name": "New Balance Women's Fresh Foam Roav V1 Sneaker",
         "description": "Ultra Heel design hugs the back of the foot for a snug, supportive fit",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W.html",
+        "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-fresh-foam-roav-v1-sneaker",
         "sku": "B0DG7W333S",
         "mpn": "B0DG7W333S",
         "brand": {
@@ -4163,10 +4163,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W.html",
+          "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-fresh-foam-roav-v1-sneaker",
           "priceCurrency": "USD",
           "price": 80.36,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -4271,13 +4271,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "New Balance Women's Fresh Foam Roav V1 Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W.html"
+              "item": "https://www.shoesonwhite.com/sneakers+new-balance-womens-fresh-foam-roav-v1-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0BJ7W5WFV",
@@ -4310,7 +4310,7 @@
       "about_this_item": "DynaSoft midsole for plush comfort; no-sew upper for sleek fit; synthetic/textile upper; durable rubber outsole; adjustable lace closure for customized fit",
       "primary_keyword": "women white cross training shoes",
       "slug": "new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W.html",
+      "url": "https://www.shoesonwhite.com/athletic+new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/new-balance",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -4329,7 +4329,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0BJ7W5WFV",
         "name": "New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer",
         "description": "Sleek, lightweight women's cross-training shoe designed for comfort, gym workouts, and everyday wear.",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W.html",
+        "url": "https://www.shoesonwhite.com/athletic+new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer",
         "sku": "B0BJ7W5WFV",
         "mpn": "B0BJ7W5WFV",
         "brand": {
@@ -4339,10 +4339,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W.html",
+          "url": "https://www.shoesonwhite.com/athletic+new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer",
           "priceCurrency": "USD",
           "price": 52.22,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -4452,13 +4452,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer",
-              "item": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W.html"
+              "item": "https://www.shoesonwhite.com/athletic+new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0G7GVNSJ6",
@@ -4491,7 +4491,7 @@
       "about_this_item": "NDurance rubber outsole technology provides superior durability... ABZORB midsole absorbs impact... Lightweight injection-molded EVA foam midsole provides lightweight cushioning...",
       "primary_keyword": "cross trainers, leather sneakers",
       "slug": "new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV.html",
+      "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/new-balance",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -4510,7 +4510,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0G7GVNSJ6",
         "name": "New Balance Women's 608 V5 Casual Comfort Cross Trainer",
         "description": "Leather cross trainer with ABZORB cushioning and durable outsole.",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV.html",
+        "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
         "sku": "B0G7GVNSJ6",
         "mpn": "B0G7GVNSJ7",
         "brand": {
@@ -4520,10 +4520,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV.html",
+          "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
           "priceCurrency": "USD",
           "price": 63.96,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -4633,13 +4633,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "New Balance Women's 608 V5 Casual Comfort Cross Trainer",
-              "item": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV.html"
+              "item": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B093XKL7WZ",
@@ -4672,7 +4672,7 @@
       "about_this_item": "ABZORB midsole absorbs impact, suede & leather upper, EVA foam cushioning, midfoot shank support, dual density collar foam for all-day comfort",
       "primary_keyword": "New Balance 608 V5 Men?s Cross Trainer",
       "slug": "new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK.html",
+      "url": "https://www.shoesonwhite.com/athletic+new-balance-mens-608-v5-casual-comfort-cross-trainer",
       "gender_url": "https://www.shoesonwhite.com/p/men",
       "brand_url": "https://www.shoesonwhite.com/p/new-balance",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -4690,7 +4690,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B093XKL7WZ",
         "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
         "description": "Comfortable everyday cross-training shoes with premium cushioning and durable leather upper",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK.html",
+        "url": "https://www.shoesonwhite.com/athletic+new-balance-mens-608-v5-casual-comfort-cross-trainer",
         "sku": "B093XKL7WZ",
         "mpn": "B093XKL7WZ",
         "brand": {
@@ -4700,10 +4700,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK.html",
+          "url": "https://www.shoesonwhite.com/athletic+new-balance-mens-608-v5-casual-comfort-cross-trainer",
           "priceCurrency": "USD",
           "price": 42.43,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -4812,13 +4812,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
-              "item": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK.html"
+              "item": "https://www.shoesonwhite.com/athletic+new-balance-mens-608-v5-casual-comfort-cross-trainer"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0DKTJSJVB",
@@ -4851,7 +4851,7 @@
       "about_this_item": "SLIP ON SHOES FOR WOMEN: Elevate your everyday style with the Lugz clipper womens slip on shoes women footwear, designed to blend comfort with classic casual flair. CASUAL SNEAKERS FOR WOMEN: Sturdy canvas upper and vulcanized rubber outsole for grip and durability. WOMENS SLIP ON SHOES: Side gore panels and padded collar for flexible fit and comfort. WOMENS CASUAL SHOES: Versatile and practical for daily wear. LUGZ SHOES: Sleek, comfortable, and fashionable.",
       "primary_keyword": "Lugz Women's Clipper Slip-On Canvas Shoes",
       "slug": "lugz-lugz-womens-clipper-shoe-B0DKTJ",
-      "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-womens-clipper-shoe-B0DKTJ.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-clipper-shoe",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/lugz",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -4871,7 +4871,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0DKTJSJVB",
         "name": "Lugz Women's Clipper Shoe",
         "description": "Stylish slip-on canvas sneakers for women combining comfort and casual fashion",
-        "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-womens-clipper-shoe-B0DKTJ.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-clipper-shoe",
         "sku": "B0DKTJSJVB",
         "mpn": "B0DKTJSJVB",
         "brand": {
@@ -4881,10 +4881,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-womens-clipper-shoe-B0DKTJ.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-clipper-shoe",
           "priceCurrency": "USD",
           "price": 35,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -4995,13 +4995,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Lugz Women's Clipper Shoe",
-              "item": "https://www.shoesonwhite.com/2026/02/lugz-lugz-womens-clipper-shoe-B0DKTJ.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-clipper-shoe"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0D8L25VM2",
@@ -5034,7 +5034,7 @@
       "about_this_item": "Cushioned Insole for added comfort, Canvas Upper, Rubber outsole, Lace-up closure, Padded collar",
       "primary_keyword": "Lugz Flip Canvas Sneaker",
       "slug": "lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2",
-      "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2.html",
+      "url": "https://www.shoesonwhite.com/sneakers+mens-flip-classic-canvas-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/men",
       "brand_url": "https://www.shoesonwhite.com/p/lugz",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -5054,7 +5054,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0D8L25VM2",
         "name": "Lugz Mens Flip Classic Canvas Sneaker",
         "description": "Classic and versatile men's canvas sneaker",
-        "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2.html",
+        "url": "https://www.shoesonwhite.com/sneakers+mens-flip-classic-canvas-sneaker",
         "sku": "B0D8L25VM2",
         "mpn": "B0D8L25VM3",
         "brand": {
@@ -5064,10 +5064,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2.html",
+          "url": "https://www.shoesonwhite.com/sneakers+mens-flip-classic-canvas-sneaker",
           "priceCurrency": "USD",
           "price": 29.97,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -5173,13 +5173,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Lugz Mens Flip Classic Canvas Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2.html"
+              "item": "https://www.shoesonwhite.com/sneakers+mens-flip-classic-canvas-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0DB22DYWJ",
@@ -5212,7 +5212,7 @@
       "about_this_item": "Versatile canvas style with cushioned insole and durable rubber outsole.",
       "primary_keyword": "Lugz Clipper Sneakers",
       "slug": "lugz-lugz-mens-clipper-sneaker-B0DB22",
-      "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-clipper-sneaker-B0DB22.html",
+      "url": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/men",
       "brand_url": "https://www.shoesonwhite.com/p/lugz",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -5231,7 +5231,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0DB22DYWJ",
         "name": "Lugz Men?s Clipper Sneaker",
         "description": "Slip-on casual sneaker for men",
-        "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-clipper-sneaker-B0DB22.html",
+        "url": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
         "sku": "B0DB22DYWJ",
         "mpn": "B0DB22DYWJ",
         "brand": {
@@ -5241,10 +5241,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-clipper-sneaker-B0DB22.html",
+          "url": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
           "priceCurrency": "USD",
           "price": 29.97,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -5354,13 +5354,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Lugz Men?s Clipper Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-clipper-sneaker-B0DB22.html"
+              "item": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0922CS587",
@@ -5393,7 +5393,7 @@
       "about_this_item": "? Low profile sneaker for men ? Polyester/leather/polyurethane upper ? Rubber sole ? Padded collar & tongue ? Imported",
       "primary_keyword": "Lacoste Bayliss Deep White",
       "slug": "lacoste-lacoste-mens-bayliss-sneakers-B0922C",
-      "url": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+      "url": "https://www.shoesonwhite.com/sneakers+mens-bayliss-sneakers",
       "gender_url": "https://www.shoesonwhite.com/p/men",
       "brand_url": "https://www.shoesonwhite.com/p/lacoste",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -5412,7 +5412,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0922CS587",
         "name": "Lacoste Men's Bayliss Sneakers",
         "description": "Low-profile classic casual sneaker ? versatile with suits or jeans, good value at discount",
-        "url": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+        "url": "https://www.shoesonwhite.com/sneakers+mens-bayliss-sneakers",
         "sku": "B0922CS587",
         "mpn": "B0922CS588",
         "brand": {
@@ -5422,10 +5422,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+          "url": "https://www.shoesonwhite.com/sneakers+mens-bayliss-sneakers",
           "priceCurrency": "USD",
           "price": 66.28,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -5530,13 +5530,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Lacoste Men's Bayliss Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html"
+              "item": "https://www.shoesonwhite.com/sneakers+mens-bayliss-sneakers"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B004P7VMC3",
@@ -5569,7 +5569,7 @@
       "about_this_item": "Classic women's canvas lace-up sneaker with breathable lining, cushioned insole, durable rubber outsole, versatile for everyday wear.",
       "primary_keyword": "Champion Canvas Sneakers",
       "slug": "keds-keds-womens-champion-seasonal-lace-up-fashion-sneaker-B004P7",
-      "url": "https://www.shoesonwhite.com/2026/02/keds-keds-womens-champion-seasonal-lace-up-fashion-sneaker-B004P7.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-champion-seasonal-lace-up-fashion-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/keds",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -5586,7 +5586,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B004P7VMC3",
         "name": "Keds Women's Champion Seasonal Lace-Up Fashion Sneaker",
         "description": "Timeless, classic canvas sneaker with all-day comfort and versatile style.",
-        "url": "https://www.shoesonwhite.com/2026/02/keds-keds-womens-champion-seasonal-lace-up-fashion-sneaker-B004P7.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-champion-seasonal-lace-up-fashion-sneaker",
         "sku": "B004P7VMC3",
         "mpn": "B004P7VMC4",
         "brand": {
@@ -5596,10 +5596,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/keds-keds-womens-champion-seasonal-lace-up-fashion-sneaker-B004P7.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-champion-seasonal-lace-up-fashion-sneaker",
           "priceCurrency": "USD",
           "price": 44,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -5707,13 +5707,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Keds Women's Champion Seasonal Lace-Up Fashion Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/keds-keds-womens-champion-seasonal-lace-up-fashion-sneaker-B004P7.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-champion-seasonal-lace-up-fashion-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0D6KDH9CS",
@@ -5746,7 +5746,7 @@
       "about_this_item": "MEASUREMENTS: Height of lightweight platform sole is approximately 3.15inch (8 cm)... COMFORTABLE: Soft synthetic PU... Memory foam insole... UNIQUE DESGIN... OCCASION... AFTER-SALES SERVICE...",
       "primary_keyword": "platform sneakers, chunky sneakers",
       "slug": "k-kip-wok-k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-leather-casual-dad-sh-B0D6KD",
-      "url": "https://www.shoesonwhite.com/2026/02/k-kip-wok-k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-leather-casual-dad-sh-B0D6KD.html",
+      "url": "https://www.shoesonwhite.com/sneakers+k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-l",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/k-kip-wok",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -5765,7 +5765,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0D6KDH9CS",
         "name": "K KIP WOK Chunky Sneakers for Women Fashion Platform White Leather Casual Dad Shoes Comfortable Wedge Walking Sport Sneakers",
         "description": "Chunky platform sneaker with a ~3.15 inch sole and memory foam insole.",
-        "url": "https://www.shoesonwhite.com/2026/02/k-kip-wok-k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-leather-casual-dad-sh-B0D6KD.html",
+        "url": "https://www.shoesonwhite.com/sneakers+k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-l",
         "sku": "B0D6KDH9CS",
         "mpn": "B0D6KDH9CS",
         "brand": {
@@ -5775,10 +5775,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/k-kip-wok-k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-leather-casual-dad-sh-B0D6KD.html",
+          "url": "https://www.shoesonwhite.com/sneakers+k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-l",
           "priceCurrency": "USD",
           "price": 44.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -5883,13 +5883,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "K KIP WOK Chunky Sneakers for Women Fashion Platform White Leather Casual Dad Shoes Comfortable Wedge Walking Sport Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/k-kip-wok-k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-leather-casual-dad-sh-B0D6KD.html"
+              "item": "https://www.shoesonwhite.com/sneakers+k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-l"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0FBLYMLPC",
@@ -5922,7 +5922,7 @@
       "about_this_item": "Features a stylish quilted faux leather upper, lace-up closure, cushioned footbed, breathable lining, 1\" platform heel",
       "primary_keyword": "Guess Womens Loven",
       "slug": "guess-guess-womens-loven-B0FBLY",
-      "url": "https://www.shoesonwhite.com/2026/02/guess-guess-womens-loven-B0FBLY.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-loven",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/guess",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -5941,7 +5941,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0FBLYMLPC",
         "name": "Guess Womens Loven",
         "description": "Chic quilted design, comfortable lace-up sneakers",
-        "url": "https://www.shoesonwhite.com/2026/02/guess-guess-womens-loven-B0FBLY.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-loven",
         "sku": "B0FBLYMLPC",
         "mpn": "B0FBLYMLPC",
         "brand": {
@@ -5951,10 +5951,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/guess-guess-womens-loven-B0FBLY.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-loven",
           "priceCurrency": "USD",
           "price": 59.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -6059,13 +6059,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Guess Womens Loven",
-              "item": "https://www.shoesonwhite.com/2026/02/guess-guess-womens-loven-B0FBLY.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-loven"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B086PH6G4X",
@@ -6097,7 +6097,7 @@
       "about_this_item": "Lightweight and breathable upper, comfy liner, slip-resistant outsole, fashionable, suitable for multiple occasions",
       "primary_keyword": "running shoes",
       "slug": "feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH",
-      "url": "https://www.shoesonwhite.com/2026/02/feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH.html",
+      "url": "https://www.shoesonwhite.com/athletic+womens-slip-on-running-shoes-non-slip-walking-shoes-",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/feethit",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -6116,7 +6116,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B086PH6G4X",
         "name": "Feethit Womens Slip On Running Shoes Non Slip Walking Shoes Lightweight Gym Workout Shoes Breathable Fashion Sneakers",
         "description": "Lightweight, breathable women's running shoes with slip-on design, mesh upper, memory foam insole, and EVA outsole.",
-        "url": "https://www.shoesonwhite.com/2026/02/feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH.html",
+        "url": "https://www.shoesonwhite.com/athletic+womens-slip-on-running-shoes-non-slip-walking-shoes-",
         "sku": "B086PH6G4X",
         "mpn": "B086PH6G4X",
         "brand": {
@@ -6126,10 +6126,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH.html",
+          "url": "https://www.shoesonwhite.com/athletic+womens-slip-on-running-shoes-non-slip-walking-shoes-",
           "priceCurrency": "USD",
           "price": 35.33,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -6234,13 +6234,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Feethit Womens Slip On Running Shoes Non Slip Walking Shoes Lightweight Gym Workout Shoes Breathable Fashion Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH.html"
+              "item": "https://www.shoesonwhite.com/athletic+womens-slip-on-running-shoes-non-slip-walking-shoes-"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B000OLVQ6M",
@@ -6273,7 +6273,7 @@
       "about_this_item": "? Canvas upper for classic Chucks look & feel ? OrthoLite cushioning for optimal comfort ? Diamond-pattern rubber outsole ? Iconic All Star license plate",
       "primary_keyword": "Converse Chuck Taylor All Star Low Top Optical White",
       "slug": "converse-converse-unisex-adult-chuck-taylor-all-star-low-top-sneaker-B000OL",
-      "url": "https://www.shoesonwhite.com/2026/02/converse-converse-unisex-adult-chuck-taylor-all-star-low-top-sneaker-B000OL.html",
+      "url": "https://www.shoesonwhite.com/sneakers+unisex-adult-chuck-taylor-all-star-low-top-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/unisex",
       "brand_url": "https://www.shoesonwhite.com/p/converse",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -6292,7 +6292,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B000OLVQ6M",
         "name": "Converse Unisex Adult Chuck Taylor All Star Low Top Sneaker",
         "description": "Classic low-top canvas sneaker ? iconic, versatile, runs large (order ? size down)",
-        "url": "https://www.shoesonwhite.com/2026/02/converse-converse-unisex-adult-chuck-taylor-all-star-low-top-sneaker-B000OL.html",
+        "url": "https://www.shoesonwhite.com/sneakers+unisex-adult-chuck-taylor-all-star-low-top-sneaker",
         "sku": "B000OLVQ6M",
         "mpn": "B000OLVQ6M",
         "brand": {
@@ -6302,10 +6302,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/converse-converse-unisex-adult-chuck-taylor-all-star-low-top-sneaker-B000OL.html",
+          "url": "https://www.shoesonwhite.com/sneakers+unisex-adult-chuck-taylor-all-star-low-top-sneaker",
           "priceCurrency": "USD",
           "price": 59.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -6410,13 +6410,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Converse Unisex Adult Chuck Taylor All Star Low Top Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/converse-converse-unisex-adult-chuck-taylor-all-star-low-top-sneaker-B000OL.html"
+              "item": "https://www.shoesonwhite.com/sneakers+unisex-adult-chuck-taylor-all-star-low-top-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B00D2V7YZ8",
@@ -6449,7 +6449,7 @@
       "about_this_item": "Canvas upper for classic look, OrthoLite cushioning for comfort, diamond-pattern rubber outsole, iconic ankle patch",
       "primary_keyword": "Converse Chuck Taylor High Top Sneakers",
       "slug": "converse-converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker-B00D2V",
-      "url": "https://www.shoesonwhite.com/2026/02/converse-converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker-B00D2V.html",
+      "url": "https://www.shoesonwhite.com/sneakers+unisex-adult-chuck-taylor-all-star-high-top-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/unisex",
       "brand_url": "https://www.shoesonwhite.com/p/converse",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -6468,7 +6468,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B00D2V7YZ8",
         "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
         "description": "Classic high-top canvas sneakers with iconic Chuck Taylor design",
-        "url": "https://www.shoesonwhite.com/2026/02/converse-converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker-B00D2V.html",
+        "url": "https://www.shoesonwhite.com/sneakers+unisex-adult-chuck-taylor-all-star-high-top-sneaker",
         "sku": "B00D2V7YZ8",
         "mpn": "B00D2V7YZ8",
         "brand": {
@@ -6478,10 +6478,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/converse-converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker-B00D2V.html",
+          "url": "https://www.shoesonwhite.com/sneakers+unisex-adult-chuck-taylor-all-star-high-top-sneaker",
           "priceCurrency": "USD",
           "price": 31.81,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -6586,13 +6586,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/converse-converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker-B00D2V.html"
+              "item": "https://www.shoesonwhite.com/sneakers+unisex-adult-chuck-taylor-all-star-high-top-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0BH5MJPGS",
@@ -6625,7 +6625,7 @@
       "about_this_item": "? Breathable knitted upper for airflow ? Responsive EVA outsole + memory foam insole for cushioning ? Elastic collar, lace-up & pull tab for easy on/off ? Lightweight (7.76 oz per shoe) ? Casual/semi-formal style with wing-shaped stitching",
       "primary_keyword": "Bruno Marc KnitFlex Breeze Mesh White",
       "slug": "bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M",
-      "url": "https://www.shoesonwhite.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M.html",
+      "url": "https://www.shoesonwhite.com/sneakers+bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up",
       "gender_url": "https://www.shoesonwhite.com/p/men",
       "brand_url": "https://www.shoesonwhite.com/p/bruno-marc",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -6645,7 +6645,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0BH5MJPGS",
         "name": "Bruno Marc Men's KnitFlex Breeze Mesh Sneakers Oxford Lace-up Lightweight Casual Walking Shoes",
         "description": "Breathable lightweight knit mesh casual sneaker ? great for walking & summer",
-        "url": "https://www.shoesonwhite.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M.html",
+        "url": "https://www.shoesonwhite.com/sneakers+bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up",
         "sku": "B0BH5MJPGS",
         "mpn": "B0BH5MJPGS",
         "brand": {
@@ -6655,10 +6655,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M.html",
+          "url": "https://www.shoesonwhite.com/sneakers+bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up",
           "priceCurrency": "USD",
           "price": 38.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -6764,13 +6764,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Bruno Marc Men's KnitFlex Breeze Mesh Sneakers Oxford Lace-up Lightweight Casual Walking Shoes",
-              "item": "https://www.shoesonwhite.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M.html"
+              "item": "https://www.shoesonwhite.com/sneakers+bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0CH9HQ8QZ",
@@ -6803,7 +6803,7 @@
       "about_this_item": "Soft wipe-clean synthetic leather upper, padded memory foam insole, non-slip rubber outsole, lace-up closure, versatile casual style suitable for daily walking and outfits.",
       "primary_keyword": "women white sneakers",
       "slug": "adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H",
-      "url": "https://www.shoesonwhite.com/2026/02/adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-pu-leather-casual-shoes-white",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/adokoo",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -6822,7 +6822,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0CH9HQ8QZ",
         "name": "Adokoo Women's Fashion Sneakers PU Leather Casual Shoes White Tennis Low Top Shoes Womens Lace Up Sneakers",
         "description": "Comfortable white PU leather fashion sneakers with memory foam cushioning and non-slip rubber sole for everyday wear.",
-        "url": "https://www.shoesonwhite.com/2026/02/adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-pu-leather-casual-shoes-white",
         "sku": "B0CH9HQ8QZ",
         "mpn": "B0CH9HQ8QZ",
         "brand": {
@@ -6832,10 +6832,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-pu-leather-casual-shoes-white",
           "priceCurrency": "USD",
           "price": 21.99,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -6945,13 +6945,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Adokoo Women's Fashion Sneakers PU Leather Casual Shoes White Tennis Low Top Shoes Womens Lace Up Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-pu-leather-casual-shoes-white"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.101Z",
-      "last_updated": "2026-02-14T03:55:21.101Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0DBM6HSYS",
@@ -6984,7 +6984,7 @@
       "about_this_item": "Women's lightweight running-inspired sneakers for everyday wear; breathable mesh upper; soft textile lining; Cloudfoam cushioned midsole for step-in comfort; durable rubber outsole with excellent grip.",
       "primary_keyword": "white sneakers women",
       "slug": "adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6.html",
+      "url": "https://www.shoesonwhite.com/athletic+womens-x_plr-path-running-shoes",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/adidas",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -7004,7 +7004,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0DBM6HSYS",
         "name": "adidas Women's X_PLR Path Running Shoes",
         "description": "Lightweight running-inspired sneakers designed for everyday comfort and casual wear.",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6.html",
+        "url": "https://www.shoesonwhite.com/athletic+womens-x_plr-path-running-shoes",
         "sku": "B0DBM6HSYS",
         "mpn": "B0DBM6HSYS",
         "brand": {
@@ -7014,10 +7014,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6.html",
+          "url": "https://www.shoesonwhite.com/athletic+womens-x_plr-path-running-shoes",
           "priceCurrency": "USD",
           "price": 33.4,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -7128,13 +7128,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "adidas Women's X_PLR Path Running Shoes",
-              "item": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6.html"
+              "item": "https://www.shoesonwhite.com/athletic+womens-x_plr-path-running-shoes"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.102Z",
-      "last_updated": "2026-02-14T03:55:21.102Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B0CKMHWRW6",
@@ -7167,7 +7167,7 @@
       "about_this_item": "Lightweight and versatile, the Runfalcon 5 Running Shoes feature a Cloudfoam midsole for cushioned comfort... SNUG FIT... CUSHIONED MIDSOLE...",
       "primary_keyword": "running shoes for women, lightweight sneakers",
       "slug": "adidas-adidas-womens-run-falcon-5-running-shoes-B0CKMH",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-run-falcon-5-running-shoes-B0CKMH.html",
+      "url": "https://www.shoesonwhite.com/athletic+womens-run-falcon-5-running-shoes",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/adidas",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -7186,7 +7186,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B0CKMHWRW6",
         "name": "adidas Women's Run Falcon 5 Running Shoes",
         "description": "Lightweight running shoe with Cloudfoam midsole for cushioned comfort.",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-run-falcon-5-running-shoes-B0CKMH.html",
+        "url": "https://www.shoesonwhite.com/athletic+womens-run-falcon-5-running-shoes",
         "sku": "B0CKMHWRW6",
         "mpn": "B0CKMHWRW7",
         "brand": {
@@ -7196,10 +7196,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-run-falcon-5-running-shoes-B0CKMH.html",
+          "url": "https://www.shoesonwhite.com/athletic+womens-run-falcon-5-running-shoes",
           "priceCurrency": "USD",
           "price": 45.21,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -7304,13 +7304,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "adidas Women's Run Falcon 5 Running Shoes",
-              "item": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-run-falcon-5-running-shoes-B0CKMH.html"
+              "item": "https://www.shoesonwhite.com/athletic+womens-run-falcon-5-running-shoes"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.102Z",
-      "last_updated": "2026-02-14T03:55:21.102Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B09KMY3ZLD",
@@ -7343,7 +7343,7 @@
       "about_this_item": "Regular Fit: Enjoy a comfortable and secure fit... Lace Closure... Synthetic Leather Upper... Cloudfoam Comfort Sockliner... Rubber Outsole...",
       "primary_keyword": "tennis shoes for women, casual sneakers",
       "slug": "adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-grand-court-20-tennis-shoe",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/adidas",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -7362,7 +7362,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B09KMY3ZLD",
         "name": "adidas Women's Grand Court 2.0 Tennis Shoe",
         "description": "Iconic tennis shoe style with synthetic leather upper and Cloudfoam comfort.",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-grand-court-20-tennis-shoe",
         "sku": "B09KMY3ZLD",
         "mpn": "B09KMY3ZLD",
         "brand": {
@@ -7372,10 +7372,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-grand-court-20-tennis-shoe",
           "priceCurrency": "USD",
           "price": 49,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -7485,13 +7485,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "adidas Women's Grand Court 2.0 Tennis Shoe",
-              "item": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-grand-court-20-tennis-shoe"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.102Z",
-      "last_updated": "2026-02-14T03:55:21.102Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B09Y2VHQ90",
@@ -7524,7 +7524,7 @@
       "about_this_item": "Women's canvas shoes bring an edgy vibe to casual everyday wear... SNUG FIT... CUSHIONED MIDSOLE... RUBBER OUTSOLE... WE PARTNER WITH BETTER COTTON...",
       "primary_keyword": "platform sneakers, casual sneakers",
       "slug": "adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-bravada-20-platform-sneakers",
       "gender_url": "https://www.shoesonwhite.com/p/women",
       "brand_url": "https://www.shoesonwhite.com/p/adidas",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -7543,7 +7543,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B09Y2VHQ90",
         "name": "Adidas Women's Bravada 2.0 Platform Sneakers",
         "description": "Canvas platform sneaker with Cloudfoam cushioning.",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-bravada-20-platform-sneakers",
         "sku": "B09Y2VHQ90",
         "mpn": "B09Y2VHQ91",
         "brand": {
@@ -7553,10 +7553,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V.html",
+          "url": "https://www.shoesonwhite.com/sneakers+womens-bravada-20-platform-sneakers",
           "priceCurrency": "USD",
           "price": 45.49,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -7666,13 +7666,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "Adidas Women's Bravada 2.0 Platform Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V.html"
+              "item": "https://www.shoesonwhite.com/sneakers+womens-bravada-20-platform-sneakers"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.102Z",
-      "last_updated": "2026-02-14T03:55:21.102Z"
+      "created_at": "2026-02-15T04:27:03.594Z",
+      "last_updated": "2026-02-15T04:27:03.594Z"
     },
     {
       "product_id": "B08S8VR3L2",
@@ -7705,7 +7705,7 @@
       "about_this_item": "Classic-look sneakers with modern touches. Synthetic upper, Cloudfoam sockliner, rubber cupsole. 50% recycled materials.",
       "primary_keyword": "adidas Men's Advantage Sneaker",
       "slug": "adidas-adidas-mens-advantage-sneaker-B08S8V",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-mens-advantage-sneaker-B08S8V.html",
+      "url": "https://www.shoesonwhite.com/athletic+mens-advantage-sneaker",
       "gender_url": "https://www.shoesonwhite.com/p/men",
       "brand_url": "https://www.shoesonwhite.com/p/adidas",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -7725,7 +7725,7 @@
         "@id": "https://www.shoesonwhite.com/#product-B08S8VR3L2",
         "name": "adidas Men's Advantage Sneaker",
         "description": "Men's lightweight tennis shoes for training or matches",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-mens-advantage-sneaker-B08S8V.html",
+        "url": "https://www.shoesonwhite.com/athletic+mens-advantage-sneaker",
         "sku": "B08S8VR3L2",
         "mpn": "B08S8VR3L3",
         "brand": {
@@ -7735,10 +7735,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-mens-advantage-sneaker-B08S8V.html",
+          "url": "https://www.shoesonwhite.com/athletic+mens-advantage-sneaker",
           "priceCurrency": "USD",
           "price": 36.42,
-          "priceValidUntil": "2027-02-14",
+          "priceValidUntil": "2027-02-15",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -7849,13 +7849,13 @@
               "@type": "ListItem",
               "position": 5,
               "name": "adidas Men's Advantage Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/adidas-adidas-mens-advantage-sneaker-B08S8V.html"
+              "item": "https://www.shoesonwhite.com/athletic+mens-advantage-sneaker"
             }
           ]
         }
       },
-      "created_at": "2026-02-14T03:55:21.102Z",
-      "last_updated": "2026-02-14T03:55:21.102Z"
+      "created_at": "2026-02-15T04:27:03.595Z",
+      "last_updated": "2026-02-15T04:27:03.595Z"
     }
   ]
 }
