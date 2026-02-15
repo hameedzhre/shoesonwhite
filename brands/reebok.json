@@ -3,7 +3,7 @@
     "name": "Reebok",
     "slug": "reebok",
     "url": "https://www.shoesonwhite.com/p/reebok",
-    "generated_at": "2026-02-15T04:34:26.755Z",
+    "generated_at": "2026-02-15T04:43:26.423Z",
     "total_products": 2,
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -16,8 +16,8 @@
     {
       "product_id": "B07XRNVJC1",
       "title": "Reebok Princess Sneakers for Women",
-      "slug": "reebok-reebok-princess-sneakers-for-women-B07XRN",
-      "url": "https://www.shoesonwhite.com/sneakers+princess-sneakers-for",
+      "slug": "reebok-princess-sneakers-for",
+      "url": "https://www.shoesonwhite.com/2026/02/reebok-princess-sneakers-for",
       "gender": "Women",
       "subcategory": "Sneakers",
       "price_min": 49.8,
@@ -27,8 +27,8 @@
     {
       "product_id": "B004C0592I",
       "title": "Reebok Court Advance Sneakers for Men",
-      "slug": "reebok-reebok-court-advance-sneakers-for-men-B004C0",
-      "url": "https://www.shoesonwhite.com/sneakers+court-advance-sneakers-for",
+      "slug": "reebok-court-advance-sneakers-for-men",
+      "url": "https://www.shoesonwhite.com/2026/02/reebok-court-advance-sneakers-for-men",
       "gender": "Men",
       "subcategory": "Sneakers",
       "price_min": 49.99,
