@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0BXTWMYWM",
     "slug": "puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW",
-    "generated_at": "2026-02-14T03:55:31.986Z",
+    "generated_at": "2026-02-15T04:27:13.595Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-smash-v3-platform-lace-up-sneakers-shoes-casual",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/puma",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "AN OPTIMAL DAILY ESSENTIAL... ENHANCED MATERIAL AND FIT: This shoe is equipped with a soft leather upper... SLEEK DESIGN AND HIGH-QUALITY HOLD...",
     "primary_keyword": "platform sneakers, leather sneakers",
     "slug": "puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW",
-    "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-smash-v3-platform-lace-up-sneakers-shoes-casual",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/puma",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -61,7 +61,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0BXTWMYWM",
       "name": "Puma Womens Smash V3 Platform Lace Up Sneakers Shoes Casual",
       "description": "Leather platform sneaker with Softfoam+ cushioning.",
-      "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-smash-v3-platform-lace-up-sneakers-shoes-casual",
       "sku": "B0BXTWMYWM",
       "mpn": "B0BXTWMYWM",
       "brand": {
@@ -71,10 +71,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-smash-v3-platform-lace-up-sneakers-shoes-casual",
         "priceCurrency": "USD",
         "price": 49.98,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -183,12 +183,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Puma Womens Smash V3 Platform Lace Up Sneakers Shoes Casual",
-            "item": "https://www.shoesonwhite.com/2026/02/puma-puma-womens-smash-v3-platform-lace-up-sneakers-shoes-casual-B0BXTW.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-smash-v3-platform-lace-up-sneakers-shoes-casual"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.100Z",
-    "last_updated": "2026-02-14T03:55:21.100Z"
+    "created_at": "2026-02-15T04:27:03.593Z",
+    "last_updated": "2026-02-15T04:27:03.593Z"
   }
 }
