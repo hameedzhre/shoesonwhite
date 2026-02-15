@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B09KMY3ZLD",
     "slug": "adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY",
-    "generated_at": "2026-02-14T03:55:48.360Z",
+    "generated_at": "2026-02-15T04:27:28.907Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-grand-court-20-tennis-shoe",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/adidas",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Regular Fit: Enjoy a comfortable and secure fit... Lace Closure... Synthetic Leather Upper... Cloudfoam Comfort Sockliner... Rubber Outsole...",
     "primary_keyword": "tennis shoes for women, casual sneakers",
     "slug": "adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY",
-    "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-grand-court-20-tennis-shoe",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/adidas",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B09KMY3ZLD",
       "name": "adidas Women's Grand Court 2.0 Tennis Shoe",
       "description": "Iconic tennis shoe style with synthetic leather upper and Cloudfoam comfort.",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-grand-court-20-tennis-shoe",
       "sku": "B09KMY3ZLD",
       "mpn": "B09KMY3ZLD",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-grand-court-20-tennis-shoe",
         "priceCurrency": "USD",
         "price": 49,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "adidas Women's Grand Court 2.0 Tennis Shoe",
-            "item": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-grand-court-20-tennis-shoe-B09KMY.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-grand-court-20-tennis-shoe"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.102Z",
-    "last_updated": "2026-02-14T03:55:21.102Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
