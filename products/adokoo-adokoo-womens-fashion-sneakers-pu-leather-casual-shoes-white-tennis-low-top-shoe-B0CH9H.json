@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0CH9HQ8QZ",
     "slug": "adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H",
-    "generated_at": "2026-02-14T03:55:46.477Z",
+    "generated_at": "2026-02-15T04:27:27.190Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-pu-leather-casual-shoes-white",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/adokoo",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Soft wipe-clean synthetic leather upper, padded memory foam insole, non-slip rubber outsole, lace-up closure, versatile casual style suitable for daily walking and outfits.",
     "primary_keyword": "women white sneakers",
     "slug": "adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H",
-    "url": "https://www.shoesonwhite.com/2026/02/adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-pu-leather-casual-shoes-white",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/adokoo",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0CH9HQ8QZ",
       "name": "Adokoo Women's Fashion Sneakers PU Leather Casual Shoes White Tennis Low Top Shoes Womens Lace Up Sneakers",
       "description": "Comfortable white PU leather fashion sneakers with memory foam cushioning and non-slip rubber sole for everyday wear.",
-      "url": "https://www.shoesonwhite.com/2026/02/adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-pu-leather-casual-shoes-white",
       "sku": "B0CH9HQ8QZ",
       "mpn": "B0CH9HQ8QZ",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-pu-leather-casual-shoes-white",
         "priceCurrency": "USD",
         "price": 21.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Adokoo Women's Fashion Sneakers PU Leather Casual Shoes White Tennis Low Top Shoes Womens Lace Up Sneakers",
-            "item": "https://www.shoesonwhite.com/2026/02/adokoo-adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe-B0CH9H.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-pu-leather-casual-shoes-white"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
