@@ -2,14 +2,14 @@
   "metadata": {
     "product_id": "B0922PZRJ6",
     "slug": "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual",
-    "generated_at": "2026-02-15T04:42:58.003Z",
+    "generated_at": "2026-02-15T09:22:30.276Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual",
-      "gender": "https://www.shoesonwhite.com/p/women",
-      "brand": "https://www.shoesonwhite.com/p/hash-bubbie",
-      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+      "product": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual.html",
+      "gender": "https://www.shoesonwhite.com/p/women.html",
+      "brand": "https://www.shoesonwhite.com/p/hash-bubbie.html",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers.html"
     }
   },
   "product": {
@@ -43,10 +43,10 @@
     "about_this_item": "Easy slip-on design with secure fit, breathable canvas upper, soft padded insole for comfort, suitable for work, shopping, travel, and casual outfits, durable non-slip rubber sole.",
     "primary_keyword": "womens slip on canvas sneakers",
     "slug": "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual",
-    "url": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual",
-    "gender_url": "https://www.shoesonwhite.com/p/women",
-    "brand_url": "https://www.shoesonwhite.com/p/hash-bubbie",
-    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "url": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual.html",
+    "gender_url": "https://www.shoesonwhite.com/p/women.html",
+    "brand_url": "https://www.shoesonwhite.com/p/hash-bubbie.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
     "image_urls": [
       "https://m.media-amazon.com/images/I/61E7EtRhP3L._AC_SY500_.jpg",
       "https://m.media-amazon.com/images/I/61KpR5cD48L._AC_SY500_.jpg",
@@ -61,17 +61,17 @@
       "@id": "https://www.shoesonwhite.com/#product-B0922PZRJ6",
       "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
       "description": "Comfortable women?s slip-on canvas sneakers with breathable upper and non-slip rubber sole for daily casual wear.",
-      "url": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual",
+      "url": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual.html",
       "sku": "B0922PZRJ6",
       "mpn": "B0922PZRJ7",
       "brand": {
         "@type": "Brand",
         "name": "hash bubbie",
-        "url": "https://www.shoesonwhite.com/p/hash-bubbie"
+        "url": "https://www.shoesonwhite.com/p/hash-bubbie.html"
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual",
+        "url": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual.html",
         "priceCurrency": "USD",
         "price": 17.54,
         "priceValidUntil": "2027-02-15",
@@ -160,30 +160,30 @@
             "@type": "ListItem",
             "position": 2,
             "name": "Women",
-            "item": "https://www.shoesonwhite.com/p/women"
+            "item": "https://www.shoesonwhite.com/p/women.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "hash bubbie",
-            "item": "https://www.shoesonwhite.com/p/hash-bubbie"
+            "item": "https://www.shoesonwhite.com/p/hash-bubbie.html"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Sneakers",
-            "item": "https://www.shoesonwhite.com/p/sneakers"
+            "item": "https://www.shoesonwhite.com/p/sneakers.html"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
-            "item": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual"
+            "item": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual.html"
           }
         ]
       }
     },
-    "created_at": "2026-02-15T04:42:56.953Z",
-    "last_updated": "2026-02-15T04:42:56.953Z"
+    "created_at": "2026-02-15T09:22:28.924Z",
+    "last_updated": "2026-02-15T09:22:28.924Z"
   }
 }
