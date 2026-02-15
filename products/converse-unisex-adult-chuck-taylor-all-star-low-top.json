@@ -2,14 +2,14 @@
   "metadata": {
     "product_id": "B000OLVQ6M",
     "slug": "converse-unisex-adult-chuck-taylor-all-star-low-top",
-    "generated_at": "2026-02-15T04:43:15.667Z",
+    "generated_at": "2026-02-15T09:22:51.611Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top",
-      "gender": "https://www.shoesonwhite.com/p/unisex",
-      "brand": "https://www.shoesonwhite.com/p/converse",
-      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+      "product": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top.html",
+      "gender": "https://www.shoesonwhite.com/p/unisex.html",
+      "brand": "https://www.shoesonwhite.com/p/converse.html",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers.html"
     }
   },
   "product": {
@@ -43,10 +43,10 @@
     "about_this_item": "? Canvas upper for classic Chucks look & feel ? OrthoLite cushioning for optimal comfort ? Diamond-pattern rubber outsole ? Iconic All Star license plate",
     "primary_keyword": "Converse Chuck Taylor All Star Low Top Optical White",
     "slug": "converse-unisex-adult-chuck-taylor-all-star-low-top",
-    "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top",
-    "gender_url": "https://www.shoesonwhite.com/p/unisex",
-    "brand_url": "https://www.shoesonwhite.com/p/converse",
-    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top.html",
+    "gender_url": "https://www.shoesonwhite.com/p/unisex.html",
+    "brand_url": "https://www.shoesonwhite.com/p/converse.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
     "image_urls": [
       "https://m.media-amazon.com/images/I/41+2Cz+9MFL._AC_SY741_.jpg",
       "https://m.media-amazon.com/images/I/41RKh8GJHTL._AC_.jpg",
@@ -62,17 +62,17 @@
       "@id": "https://www.shoesonwhite.com/#product-B000OLVQ6M",
       "name": "Converse Unisex Adult Chuck Taylor All Star Low Top Sneaker",
       "description": "Classic low-top canvas sneaker ? iconic, versatile, runs large (order ? size down)",
-      "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top",
+      "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top.html",
       "sku": "B000OLVQ6M",
       "mpn": "B000OLVQ6M",
       "brand": {
         "@type": "Brand",
         "name": "Converse",
-        "url": "https://www.shoesonwhite.com/p/converse"
+        "url": "https://www.shoesonwhite.com/p/converse.html"
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top",
+        "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top.html",
         "priceCurrency": "USD",
         "price": 59.99,
         "priceValidUntil": "2027-02-15",
@@ -162,30 +162,30 @@
             "@type": "ListItem",
             "position": 2,
             "name": "Unisex",
-            "item": "https://www.shoesonwhite.com/p/unisex"
+            "item": "https://www.shoesonwhite.com/p/unisex.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Converse",
-            "item": "https://www.shoesonwhite.com/p/converse"
+            "item": "https://www.shoesonwhite.com/p/converse.html"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Sneakers",
-            "item": "https://www.shoesonwhite.com/p/sneakers"
+            "item": "https://www.shoesonwhite.com/p/sneakers.html"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Converse Unisex Adult Chuck Taylor All Star Low Top Sneaker",
-            "item": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top"
+            "item": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top.html"
           }
         ]
       }
     },
-    "created_at": "2026-02-15T04:42:56.956Z",
-    "last_updated": "2026-02-15T04:42:56.956Z"
+    "created_at": "2026-02-15T09:22:28.928Z",
+    "last_updated": "2026-02-15T09:22:28.928Z"
   }
 }
