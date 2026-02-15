@@ -3,7 +3,7 @@
     "name": "New Balance",
     "slug": "new-balance",
     "url": "https://www.shoesonwhite.com/p/new-balance",
-    "generated_at": "2026-02-15T04:34:30.980Z",
+    "generated_at": "2026-02-15T04:43:30.427Z",
     "total_products": 4,
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -16,8 +16,8 @@
     {
       "product_id": "B0DG7W333S",
       "title": "New Balance Women's Fresh Foam Roav V1 Sneaker",
-      "slug": "new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W",
-      "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-fresh-foam-roav-v1-sneaker",
+      "slug": "new-balance-womens-fresh-foam-roav-v1",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1",
       "gender": "Women",
       "subcategory": "Sneakers",
       "price_min": 80.36,
@@ -27,8 +27,8 @@
     {
       "product_id": "B0BJ7W5WFV",
       "title": "New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer",
-      "slug": "new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W",
-      "url": "https://www.shoesonwhite.com/athletic+new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer",
+      "slug": "new-balance-womens-dynasoft-nergize-sport-v2-cross",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross",
       "gender": "Women",
       "subcategory": "Athletic",
       "price_min": 52.22,
@@ -38,8 +38,8 @@
     {
       "product_id": "B0G7GVNSJ6",
       "title": "New Balance Women's 608 V5 Casual Comfort Cross Trainer",
-      "slug": "new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV",
-      "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
+      "slug": "new-balance-womens-608-v5-casual-comfort-cross",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-608-v5-casual-comfort-cross",
       "gender": "Women",
       "subcategory": "Sneakers",
       "price_min": 63.96,
@@ -49,8 +49,8 @@
     {
       "product_id": "B093XKL7WZ",
       "title": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
-      "slug": "new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK",
-      "url": "https://www.shoesonwhite.com/athletic+new-balance-mens-608-v5-casual-comfort-cross-trainer",
+      "slug": "new-balance-mens-608-v5-casual-comfort-cross",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-mens-608-v5-casual-comfort-cross",
       "gender": "Men",
       "subcategory": "Athletic",
       "price_min": 42.43,
