@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0C57Z7R2N",
     "slug": "sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z",
-    "generated_at": "2026-02-14T03:55:30.080Z",
+    "generated_at": "2026-02-15T04:27:11.518Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-white-platform-sneakers-pu-leather-platform-s",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/sernial",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -42,7 +42,7 @@
     "about_this_item": "?Adding Height?:Platform sneakers for women with 1.5 inch platform,you will look taller when you put on the platform shoes. ?Easy to Clean?:Platform shoes for women have high quality PU leather upper,they are water resistant and easy to clean. ?Non-slip Sole?:Non-slip rubber sole makes the women's low top sneakers so safe that you don't need to worry about slipping. ?Best Gift?:Womens platform sneakers are always attractive, so they are great ideal as Mother's Day gift,Thanksgiving gift,Christmas gift or other festival gift.",
     "primary_keyword": "white sneakers",
     "slug": "sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z",
-    "url": "https://www.shoesonwhite.com/2026/02/sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-white-platform-sneakers-pu-leather-platform-s",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/sernial",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -61,7 +61,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0C57Z7R2N",
       "name": "SERNIAL Womens White Platform Sneakers PU Leather Platform Shoes Walking Shoes for Women",
       "description": "Womens platform sneakers with 1.5 inch platform",
-      "url": "https://www.shoesonwhite.com/2026/02/sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-white-platform-sneakers-pu-leather-platform-s",
       "sku": "B0C57Z7R2N",
       "mpn": "B0C57Z7R2N",
       "brand": {
@@ -71,10 +71,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-white-platform-sneakers-pu-leather-platform-s",
         "priceCurrency": "USD",
         "price": 26.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -179,12 +179,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "SERNIAL Womens White Platform Sneakers PU Leather Platform Shoes Walking Shoes for Women",
-            "item": "https://www.shoesonwhite.com/2026/02/sernial-sernial-womens-white-platform-sneakers-pu-leather-platform-shoes-walking-shoes-f-B0C57Z.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-white-platform-sneakers-pu-leather-platform-s"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.100Z",
-    "last_updated": "2026-02-14T03:55:21.100Z"
+    "created_at": "2026-02-15T04:27:03.593Z",
+    "last_updated": "2026-02-15T04:27:03.593Z"
   }
 }
