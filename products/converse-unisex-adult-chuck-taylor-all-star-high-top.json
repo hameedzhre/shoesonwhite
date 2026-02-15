@@ -2,14 +2,14 @@
   "metadata": {
     "product_id": "B00D2V7YZ8",
     "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top",
-    "generated_at": "2026-02-15T04:43:16.134Z",
+    "generated_at": "2026-02-15T09:22:52.209Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top",
-      "gender": "https://www.shoesonwhite.com/p/unisex",
-      "brand": "https://www.shoesonwhite.com/p/converse",
-      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+      "product": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top.html",
+      "gender": "https://www.shoesonwhite.com/p/unisex.html",
+      "brand": "https://www.shoesonwhite.com/p/converse.html",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers.html"
     }
   },
   "product": {
@@ -43,10 +43,10 @@
     "about_this_item": "Canvas upper for classic look, OrthoLite cushioning for comfort, diamond-pattern rubber outsole, iconic ankle patch",
     "primary_keyword": "Converse Chuck Taylor High Top Sneakers",
     "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top",
-    "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top",
-    "gender_url": "https://www.shoesonwhite.com/p/unisex",
-    "brand_url": "https://www.shoesonwhite.com/p/converse",
-    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top.html",
+    "gender_url": "https://www.shoesonwhite.com/p/unisex.html",
+    "brand_url": "https://www.shoesonwhite.com/p/converse.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
     "image_urls": [
       "https://m.media-amazon.com/images/I/61zi2SuCRpL._AC_SX679_.jpg",
       "https://m.media-amazon.com/images/I/616ZvzuULzL._AC_SX679_.jpg",
@@ -62,17 +62,17 @@
       "@id": "https://www.shoesonwhite.com/#product-B00D2V7YZ8",
       "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
       "description": "Classic high-top canvas sneakers with iconic Chuck Taylor design",
-      "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top",
+      "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top.html",
       "sku": "B00D2V7YZ8",
       "mpn": "B00D2V7YZ8",
       "brand": {
         "@type": "Brand",
         "name": "Converse",
-        "url": "https://www.shoesonwhite.com/p/converse"
+        "url": "https://www.shoesonwhite.com/p/converse.html"
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top",
+        "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top.html",
         "priceCurrency": "USD",
         "price": 31.81,
         "priceValidUntil": "2027-02-15",
@@ -162,30 +162,30 @@
             "@type": "ListItem",
             "position": 2,
             "name": "Unisex",
-            "item": "https://www.shoesonwhite.com/p/unisex"
+            "item": "https://www.shoesonwhite.com/p/unisex.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Converse",
-            "item": "https://www.shoesonwhite.com/p/converse"
+            "item": "https://www.shoesonwhite.com/p/converse.html"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Sneakers",
-            "item": "https://www.shoesonwhite.com/p/sneakers"
+            "item": "https://www.shoesonwhite.com/p/sneakers.html"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
-            "item": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top"
+            "item": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top.html"
           }
         ]
       }
     },
-    "created_at": "2026-02-15T04:42:56.956Z",
-    "last_updated": "2026-02-15T04:42:56.956Z"
+    "created_at": "2026-02-15T09:22:28.928Z",
+    "last_updated": "2026-02-15T09:22:28.928Z"
   }
 }
