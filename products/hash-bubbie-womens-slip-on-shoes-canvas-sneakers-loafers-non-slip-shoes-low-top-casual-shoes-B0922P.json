@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0922PZRJ6",
     "slug": "hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P",
-    "generated_at": "2026-02-14T03:55:22.858Z",
+    "generated_at": "2026-02-15T04:27:04.838Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/hash-bubbie",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Easy slip-on design with secure fit, breathable canvas upper, soft padded insole for comfort, suitable for work, shopping, travel, and casual outfits, durable non-slip rubber sole.",
     "primary_keyword": "womens slip on canvas sneakers",
     "slug": "hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P",
-    "url": "https://www.shoesonwhite.com/2026/02/hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/hash-bubbie",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -61,7 +61,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0922PZRJ6",
       "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
       "description": "Comfortable women?s slip-on canvas sneakers with breathable upper and non-slip rubber sole for daily casual wear.",
-      "url": "https://www.shoesonwhite.com/2026/02/hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-",
       "sku": "B0922PZRJ6",
       "mpn": "B0922PZRJ7",
       "brand": {
@@ -71,10 +71,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-",
         "priceCurrency": "USD",
         "price": 17.54,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -178,12 +178,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
-            "item": "https://www.shoesonwhite.com/2026/02/hash-bubbie-womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes-B0922P.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.099Z",
-    "last_updated": "2026-02-14T03:55:21.099Z"
+    "created_at": "2026-02-15T04:27:03.592Z",
+    "last_updated": "2026-02-15T04:27:03.592Z"
   }
 }
