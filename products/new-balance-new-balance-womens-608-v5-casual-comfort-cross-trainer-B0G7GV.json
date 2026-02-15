@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0G7GVNSJ6",
     "slug": "new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV",
-    "generated_at": "2026-02-14T03:55:38.571Z",
+    "generated_at": "2026-02-15T04:27:19.567Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV.html",
+      "product": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/new-balance",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "NDurance rubber outsole technology provides superior durability... ABZORB midsole absorbs impact... Lightweight injection-molded EVA foam midsole provides lightweight cushioning...",
     "primary_keyword": "cross trainers, leather sneakers",
     "slug": "new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV",
-    "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV.html",
+    "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/new-balance",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0G7GVNSJ6",
       "name": "New Balance Women's 608 V5 Casual Comfort Cross Trainer",
       "description": "Leather cross trainer with ABZORB cushioning and durable outsole.",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV.html",
+      "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
       "sku": "B0G7GVNSJ6",
       "mpn": "B0G7GVNSJ7",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV.html",
+        "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
         "priceCurrency": "USD",
         "price": 63.96,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "New Balance Women's 608 V5 Casual Comfort Cross Trainer",
-            "item": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV.html"
+            "item": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
