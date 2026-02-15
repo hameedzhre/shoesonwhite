@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0DG7W333S",
     "slug": "new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W",
-    "generated_at": "2026-02-14T03:55:37.194Z",
+    "generated_at": "2026-02-15T04:27:18.457Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W.html",
+      "product": "https://www.shoesonwhite.com/sneakers+new-balance-womens-fresh-foam-roav-v1-sneaker",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/new-balance",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Ultra Heel design, Synthetic/mesh upper, Full-length rubber outsole, Bootie upper construction",
     "primary_keyword": "Fresh Foam Roav V1 Sneaker",
     "slug": "new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W",
-    "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W.html",
+    "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-fresh-foam-roav-v1-sneaker",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/new-balance",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0DG7W333S",
       "name": "New Balance Women's Fresh Foam Roav V1 Sneaker",
       "description": "Ultra Heel design hugs the back of the foot for a snug, supportive fit",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W.html",
+      "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-fresh-foam-roav-v1-sneaker",
       "sku": "B0DG7W333S",
       "mpn": "B0DG7W333S",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W.html",
+        "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-fresh-foam-roav-v1-sneaker",
         "priceCurrency": "USD",
         "price": 80.36,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -180,12 +180,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "New Balance Women's Fresh Foam Roav V1 Sneaker",
-            "item": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-fresh-foam-roav-v1-sneaker-B0DG7W.html"
+            "item": "https://www.shoesonwhite.com/sneakers+new-balance-womens-fresh-foam-roav-v1-sneaker"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
