@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0DCBT6146",
     "slug": "nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT",
-    "generated_at": "2026-02-14T03:55:35.796Z",
+    "generated_at": "2026-02-15T04:27:17.291Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT.html",
+      "product": "https://www.shoesonwhite.com/athletic+nortiv-8-womens-walking-shoes-cushion-comfortable-activebree",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/nortiv-8",
       "subcategory": "https://www.shoesonwhite.com/p/athletic"
@@ -43,7 +43,7 @@
     "about_this_item": "Exceptional Cushioning... Breathable & Lightweight... Confident & Stable... Stylish & Protective... For Everyday Activities...",
     "primary_keyword": "walking shoes, athletic sneakers",
     "slug": "nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT",
-    "url": "https://www.shoesonwhite.com/2026/02/nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT.html",
+    "url": "https://www.shoesonwhite.com/athletic+nortiv-8-womens-walking-shoes-cushion-comfortable-activebree",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/nortiv-8",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0DCBT6146",
       "name": "NORTIV 8 Women's Walking Shoes Cushion Comfortable ActiveBreeze Running Tennis Shoes Non-Slip Workout Gym Sports Athletic Breathable Fashion Sneakers",
       "description": "Cushioned walking/running shoe with breathable mesh and reflective detail.",
-      "url": "https://www.shoesonwhite.com/2026/02/nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT.html",
+      "url": "https://www.shoesonwhite.com/athletic+nortiv-8-womens-walking-shoes-cushion-comfortable-activebree",
       "sku": "B0DCBT6146",
       "mpn": "B0DCBT6147",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT.html",
+        "url": "https://www.shoesonwhite.com/athletic+nortiv-8-womens-walking-shoes-cushion-comfortable-activebree",
         "priceCurrency": "USD",
         "price": 69.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -180,12 +180,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "NORTIV 8 Women's Walking Shoes Cushion Comfortable ActiveBreeze Running Tennis Shoes Non-Slip Workout Gym Sports Athletic Breathable Fashion Sneakers",
-            "item": "https://www.shoesonwhite.com/2026/02/nortiv-8-nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh-B0DCBT.html"
+            "item": "https://www.shoesonwhite.com/athletic+nortiv-8-womens-walking-shoes-cushion-comfortable-activebree"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
