@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0DBM6HSYS",
     "slug": "adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6",
-    "generated_at": "2026-02-14T03:55:47.132Z",
+    "generated_at": "2026-02-15T04:27:27.723Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6.html",
+      "product": "https://www.shoesonwhite.com/athletic+womens-x_plr-path-running-shoes",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/adidas",
       "subcategory": "https://www.shoesonwhite.com/p/athletic"
@@ -43,7 +43,7 @@
     "about_this_item": "Women's lightweight running-inspired sneakers for everyday wear; breathable mesh upper; soft textile lining; Cloudfoam cushioned midsole for step-in comfort; durable rubber outsole with excellent grip.",
     "primary_keyword": "white sneakers women",
     "slug": "adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6",
-    "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6.html",
+    "url": "https://www.shoesonwhite.com/athletic+womens-x_plr-path-running-shoes",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/adidas",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -63,7 +63,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0DBM6HSYS",
       "name": "adidas Women's X_PLR Path Running Shoes",
       "description": "Lightweight running-inspired sneakers designed for everyday comfort and casual wear.",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6.html",
+      "url": "https://www.shoesonwhite.com/athletic+womens-x_plr-path-running-shoes",
       "sku": "B0DBM6HSYS",
       "mpn": "B0DBM6HSYS",
       "brand": {
@@ -73,10 +73,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6.html",
+        "url": "https://www.shoesonwhite.com/athletic+womens-x_plr-path-running-shoes",
         "priceCurrency": "USD",
         "price": 33.4,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -187,12 +187,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "adidas Women's X_PLR Path Running Shoes",
-            "item": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-x_plr-path-running-shoes-B0DBM6.html"
+            "item": "https://www.shoesonwhite.com/athletic+womens-x_plr-path-running-shoes"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.102Z",
-    "last_updated": "2026-02-14T03:55:21.102Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
