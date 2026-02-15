@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0F8VJ3B5D",
     "slug": "skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ",
-    "generated_at": "2026-02-14T03:55:29.488Z",
+    "generated_at": "2026-02-15T04:27:10.986Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-arch-fit-arcade-meet-ya-there-sneakers",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/skechers",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "PODIATRIST-CERTIFIED SUPPORT: Arch Fit insole system provides exceptional arch support... EASY SLIP-ON DESIGN... PREMIUM COMFORT FEATURES... VEGAN-FRIENDLY CONSTRUCTION... VERSATILE STYLE...",
     "primary_keyword": "womens slip on shoes, slip on shoes for women",
     "slug": "skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ",
-    "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-arch-fit-arcade-meet-ya-there-sneakers",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/skechers",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -63,7 +63,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0F8VJ3B5D",
       "name": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
       "description": "Slip-on sneakers with podiatrist-certified arch support and vegan canvas upper.",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-arch-fit-arcade-meet-ya-there-sneakers",
       "sku": "B0F8VJ3B5D",
       "mpn": "B0F8VJ3B5D",
       "brand": {
@@ -73,10 +73,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-arch-fit-arcade-meet-ya-there-sneakers",
         "priceCurrency": "USD",
         "price": 50.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -187,12 +187,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
-            "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-arch-fit-arcade-meet-ya-there-sneakers"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.100Z",
-    "last_updated": "2026-02-14T03:55:21.100Z"
+    "created_at": "2026-02-15T04:27:03.593Z",
+    "last_updated": "2026-02-15T04:27:03.593Z"
   }
 }
