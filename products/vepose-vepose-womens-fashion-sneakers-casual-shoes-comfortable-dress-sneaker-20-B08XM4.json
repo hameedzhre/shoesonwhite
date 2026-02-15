@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B08XM4K566",
     "slug": "vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4",
-    "generated_at": "2026-02-14T03:55:23.506Z",
+    "generated_at": "2026-02-15T04:27:05.403Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-casual-shoes-comfortable-dres",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/vepose",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Non-slip rubber sole; lightweight design; durable synthetic vegan leather; breathable upper; soft memory foam insole with approx. 1-inch heel",
     "primary_keyword": "shoes on white",
     "slug": "vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4",
-    "url": "https://www.shoesonwhite.com/2026/02/vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-casual-shoes-comfortable-dres",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/vepose",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -61,7 +61,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B08XM4K566",
       "name": "Vepose Women's Fashion Sneakers Casual Shoes Comfortable Dress Sneaker 2.0",
       "description": "Comfortable women's fashion sneakers made with vegan leather and memory foam insole.",
-      "url": "https://www.shoesonwhite.com/2026/02/vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-casual-shoes-comfortable-dres",
       "sku": "B08XM4K566",
       "mpn": "B08XM4K567",
       "brand": {
@@ -71,10 +71,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-casual-shoes-comfortable-dres",
         "priceCurrency": "USD",
         "price": 29.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -178,12 +178,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Vepose Women's Fashion Sneakers Casual Shoes Comfortable Dress Sneaker 2.0",
-            "item": "https://www.shoesonwhite.com/2026/02/vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-fashion-sneakers-casual-shoes-comfortable-dres"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.099Z",
-    "last_updated": "2026-02-14T03:55:21.099Z"
+    "created_at": "2026-02-15T04:27:03.592Z",
+    "last_updated": "2026-02-15T04:27:03.592Z"
   }
 }
