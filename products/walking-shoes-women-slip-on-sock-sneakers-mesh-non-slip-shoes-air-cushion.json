@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "product_id": "B0CP5KVDW6",
+    "slug": "walking-shoes-women-slip-on-sock-sneakers-mesh-non-slip-shoes-air-cushion",
+    "generated_at": "2026-02-19T04:13:00.725Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/walking-shoes-women-slip-on-sock-sneakers-mesh-non-slip-shoes-air-cushion.html",
+      "gender": "https://www.shoesonwhite.com/p/unisex.html",
+      "brand": "https://www.shoesonwhite.com/p/slow-man.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0CP5KVDW6",
+    "asin": "B0CP5KVDW7",
+    "product_title": "Walking Shoes Women Slip On Sock Sneakers Mesh Non Slip Shoes Air Cushion Platform Loafers, White, 8",
+    "brand": "Slow Man",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Unisex",
+    "upper_material": "Mesh",
+    "sole_material": "Ethylene Vinyl Acetate",
+    "outer_material": "Mesh",
+    "lining": "Memory foam",
+    "closure_type": "Pull-On",
+    "cushioning": "Air cushion and memory foam insole for a soft, comfortable step.",
+    "breathability": "High, due to the breathable mesh upper construction.",
+    "amazon_url": "https://amzn.to/3MtNev3",
+    "price_min": 29.99,
+    "price_max": 29.99,
+    "currency": "USD",
+    "rating": 4.2,
+    "review_count": 276,
+    "comfort_score": 82,
+    "durability_score": 72,
+    "breathability_score": 80,
+    "overall_score": 78,
+    "short_description": "Discover the ultimate in walk-on-clouds comfort with these Walking Shoes Women Slip On Sock Sneakers. Designed for the active woman, these innovative sneakers in a clean White, size 8, combine the ease of a sock-like fit with advanced cushioning technology. The breathable mesh upper stretches to conform to your foot, providing a snug, comfortable, and irritation-free fit that feels like a second skin. The slip-on design with a pull tab makes them incredibly easy to put on and take off. Inside, an air cushion platform and memory foam insole work together to deliver exceptional shock absorption and a soft, springy feel with every step, reducing foot fatigue even after hours of wear. The non-slip outsole provides reliable traction on various surfaces, ensuring your stability and safety. Whether you're power walking, traveling, or simply on your feet all day, these fashionable and functional sneakers are the perfect choice for all-day comfort and support.",
+    "about_this_item": "Breathable Upper: Our Walking sock shoes feature breathable high quality knitted fabric that provides excellent ventilation and air circulation, keeping your feet dry and comfortable all day long. Non Slip Shockproof Sole: The soft sole is made from MD outsole with air cushion, which provides the user with the enough buffer between feet and ground. Slip on Design: These walking shoes are super lightweight and flexible, Slip on design with Elastic Cuff is convenient for user to put on and take off, just like socks that provides great freedom and a comfortable feeling. Comfortable Stylish: If you want a comfortable, stylish general walking & wear-every-day shoe or if your job that requires a lot of standing and walking around, this sneaker will be a perfect choice for you, you can?t go wrong with these. Occasions: This sock sneakers for women fits for long time standing work and any daily occasions. such as walking, casual, floor shoes, plan, nursing, gardening, shopping, traveling, driving, jazz,tap dance.",
+    "primary_keyword": "white shoes for nurses",
+    "slug": "walking-shoes-women-slip-on-sock-sneakers-mesh-non-slip-shoes-air-cushion",
+    "url": "https://www.shoesonwhite.com/2026/02/walking-shoes-women-slip-on-sock-sneakers-mesh-non-slip-shoes-air-cushion.html",
+    "gender_url": "https://www.shoesonwhite.com/p/unisex.html",
+    "brand_url": "https://www.shoesonwhite.com/p/slow-man.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61ejdFPPaML._AC_UY575_.png",
+      "https://m.media-amazon.com/images/I/61mOgJ0HsCL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/610XH49rNcL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/71BKXx6NwLL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61h5Q4SEbXL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/81umX-1kCLL._AC_SY695_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61ejdFPPaML._AC_UY575_.png",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0CP5KVDW6",
+      "name": "Walking Shoes Women Slip On Sock Sneakers Mesh Non Slip Shoes Air Cushion Platform Loafers, White, 8",
+      "description": "Discover the ultimate in walk-on-clouds comfort with these Walking Shoes Women Slip On Sock Sneakers. Designed for the active woman, these innovative sneakers in a clean White, size 8, combine the ease of a sock-like fit with advanced cushioning technology. The breathable mesh upper stretches to conform to your foot, providing a snug, comfortable, and irritation-free fit that feels like a second skin. The slip-on design with a pull tab makes them incredibly easy to put on and take off. Inside, an air cushion platform and memory foam insole work together to deliver exceptional shock absorption and a soft, springy feel with every step, reducing foot fatigue even after hours of wear. The non-slip outsole provides reliable traction on various surfaces, ensuring your stability and safety. Whether you're power walking, traveling, or simply on your feet all day, these fashionable and functional sneakers are the perfect choice for all-day comfort and support.",
+      "url": "https://www.shoesonwhite.com/2026/02/walking-shoes-women-slip-on-sock-sneakers-mesh-non-slip-shoes-air-cushion.html",
+      "sku": "B0CP5KVDW6",
+      "mpn": "B0CP5KVDW7",
+      "brand": {
+        "@type": "Brand",
+        "name": "Slow Man",
+        "url": "https://www.shoesonwhite.com/p/slow-man.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/walking-shoes-women-slip-on-sock-sneakers-mesh-non-slip-shoes-air-cushion.html",
+        "priceCurrency": "USD",
+        "price": 29.99,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.2,
+        "reviewCount": 276,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Pull-On"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "82"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "72"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "80"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "78"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61ejdFPPaML._AC_UY575_.png",
+        "https://m.media-amazon.com/images/I/61mOgJ0HsCL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/610XH49rNcL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/71BKXx6NwLL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61h5Q4SEbXL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/81umX-1kCLL._AC_SY695_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unisex",
+            "item": "https://www.shoesonwhite.com/p/unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Slow Man",
+            "item": "https://www.shoesonwhite.com/p/slow-man.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Walking Shoes Women Slip On Sock Sneakers Mesh Non Slip Shoes Air Cushion Platform Loafers, White, 8",
+            "item": "https://www.shoesonwhite.com/2026/02/walking-shoes-women-slip-on-sock-sneakers-mesh-non-slip-shoes-air-cushion.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
+  }
+}
