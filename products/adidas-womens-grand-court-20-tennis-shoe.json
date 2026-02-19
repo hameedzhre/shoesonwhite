@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B09KMY3ZLD",
     "slug": "adidas-womens-grand-court-20-tennis-shoe",
-    "generated_at": "2026-02-15T18:02:50.214Z",
+    "generated_at": "2026-02-19T04:15:25.035Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -16,10 +16,10 @@
     "product_id": "B09KMY3ZLD",
     "asin": "B09KMY3ZLD",
     "product_title": "adidas Women's Grand Court 2.0 Tennis Shoe",
-    "brand": "adidas",
+    "brand": "Adidas",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 2.43,
     "upper_material": "Synthetic Leather",
@@ -27,19 +27,19 @@
     "outer_material": "Polyester",
     "lining": "Synthetic",
     "closure_type": "Lace-Up",
-    "cushioning": "Cloudfoam Comfort sockliner",
-    "breathability": "Regular Fit",
+    "cushioning": "Plush Cloudfoam midsole and sockliner provide superior, step-in comfort for all-day wear.",
+    "breathability": "Synthetic leather upper with perforated 3-Stripes offers limited, but slightly improved, airflow.",
     "amazon_url": "https://amzn.to/4r8Uo78",
     "price_min": 49,
     "price_max": 70,
     "currency": "USD",
     "rating": 4.6,
     "review_count": 9013,
-    "comfort_score": 77,
-    "durability_score": 81,
-    "breathability_score": 76,
-    "overall_score": 78,
-    "short_description": "Iconic tennis shoe style with synthetic leather upper and Cloudfoam comfort.",
+    "comfort_score": 85,
+    "durability_score": 84,
+    "breathability_score": 60,
+    "overall_score": 76.33333333333333,
+    "short_description": "Channel timeless tennis style with the adidas Women's Grand Court 2.0 Tennis Shoe. This iconic silhouette takes inspiration from adidas' rich heritage on the court and reimagines it for everyday, off-court style. The shoe features a clean, classic design with a durable synthetic leather upper, offering a premium look and a versatile aesthetic that pairs perfectly with jeans, leggings, or casual dresses. The perforated 3-Stripes add a signature touch while promoting breathability. The true comfort lies in the Cloudfoam midsole and sockliner. This plush, step-in cushioning provides superior comfort and a soft, responsive feel, making the Grand Court 2.0 perfect for all-day wear. A durable rubber outsole ensures reliable traction. With its timeless court-inspired look and modern Cloudfoam comfort, the adidas Grand Court 2.0 is a versatile and stylish sneaker for the woman who appreciates classic style with everyday comfort.",
     "about_this_item": "Regular Fit: Enjoy a comfortable and secure fit... Lace Closure... Synthetic Leather Upper... Cloudfoam Comfort Sockliner... Rubber Outsole...",
     "primary_keyword": "tennis shoes for women, casual sneakers",
     "slug": "adidas-womens-grand-court-20-tennis-shoe",
@@ -61,13 +61,13 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B09KMY3ZLD",
       "name": "adidas Women's Grand Court 2.0 Tennis Shoe",
-      "description": "Iconic tennis shoe style with synthetic leather upper and Cloudfoam comfort.",
+      "description": "Channel timeless tennis style with the adidas Women's Grand Court 2.0 Tennis Shoe. This iconic silhouette takes inspiration from adidas' rich heritage on the court and reimagines it for everyday, off-court style. The shoe features a clean, classic design with a durable synthetic leather upper, offering a premium look and a versatile aesthetic that pairs perfectly with jeans, leggings, or casual dresses. The perforated 3-Stripes add a signature touch while promoting breathability. The true comfort lies in the Cloudfoam midsole and sockliner. This plush, step-in cushioning provides superior comfort and a soft, responsive feel, making the Grand Court 2.0 perfect for all-day wear. A durable rubber outsole ensures reliable traction. With its timeless court-inspired look and modern Cloudfoam comfort, the adidas Grand Court 2.0 is a versatile and stylish sneaker for the woman who appreciates classic style with everyday comfort.",
       "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-grand-court-20-tennis-shoe.html",
       "sku": "B09KMY3ZLD",
       "mpn": "B09KMY3ZLD",
       "brand": {
         "@type": "Brand",
-        "name": "adidas",
+        "name": "Adidas",
         "url": "https://www.shoesonwhite.com/p/adidas.html"
       },
       "offers": {
@@ -75,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-grand-court-20-tennis-shoe.html",
         "priceCurrency": "USD",
         "price": 49,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -128,22 +128,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "77"
+          "value": "85"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "81"
+          "value": "84"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "76"
+          "value": "60"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "78"
+          "value": "76.33333333333333"
         }
       ],
       "image": [
@@ -172,7 +172,7 @@
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "adidas",
+            "name": "Adidas",
             "item": "https://www.shoesonwhite.com/p/adidas.html"
           },
           {
@@ -190,7 +190,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.392Z",
-    "last_updated": "2026-02-15T18:02:04.392Z"
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
   }
 }
