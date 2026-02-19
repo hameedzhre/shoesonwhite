@@ -3,7 +3,7 @@
     "name": "On Cloud",
     "slug": "on-cloud",
     "url": "https://www.shoesonwhite.com/p/on-cloud.html",
-    "generated_at": "2026-02-19T04:15:49.917Z",
+    "generated_at": "2026-02-19T09:58:42.848Z",
     "total_products": 31,
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -14,48 +14,15 @@
   },
   "products": [
     {
-      "product_id": "B0G5XC73TW",
-      "title": "Women's Cloudmonster (Undyed White/Flame)",
-      "slug": "womens-cloudmonster-undyed",
-      "url": "https://www.shoesonwhite.com/2026/02/womens-cloudmonster-undyed.html",
-      "gender": "Women",
-      "subcategory": "Athletic",
-      "price_min": 159.95,
-      "image": "https://m.media-amazon.com/images/I/61mNG4d3ulL._AC_SY695_.jpg",
-      "overall_score": 86.66666666666667
-    },
-    {
-      "product_id": "B0G2H7TS6S",
-      "title": "On Men's Cloud 5 Sneakers",
-      "slug": "on-mens-cloud-5",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5.html",
-      "gender": "Men",
-      "subcategory": "Sneakers",
-      "price_min": 177,
-      "image": "https://m.media-amazon.com/images/I/61PoUb5z51L._AC_SX625_.jpg",
-      "overall_score": 89.33333333333333
-    },
-    {
-      "product_id": "B0FXPZLNS2",
-      "title": "On Men's Cloudmonster Sneakers",
-      "slug": "on-mens-cloudmonster",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudmonster.html",
+      "product_id": "B0CHHQD5QP",
+      "title": "ON Running",
+      "slug": "on",
+      "url": "https://www.shoesonwhite.com/2026/02/on.html",
       "gender": "Men",
       "subcategory": "Athletic",
-      "price_min": 125,
-      "image": "https://m.media-amazon.com/images/I/51V8egvLcuL._AC_SY695_.jpg",
-      "overall_score": 86.66666666666667
-    },
-    {
-      "product_id": "B0FSS48NRF",
-      "title": "On Womens Cloudsurfer Next",
-      "slug": "on-womens-cloudsurfer-next",
-      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudsurfer-next.html",
-      "gender": "Women",
-      "subcategory": "Athletic",
-      "price_min": 137.46,
-      "image": "https://m.media-amazon.com/images/I/517g6IUEyyL._AC_SX500_.jpg",
-      "overall_score": 88.33333333333333
+      "price_min": 218.99,
+      "image": "https://m.media-amazon.com/images/I/51QFUdAipqL._AC_SY695_.jpg",
+      "overall_score": 81.66666666666667
     },
     {
       "product_id": "B0FCG939QG",
@@ -69,37 +36,15 @@
       "overall_score": 83.33333333333333
     },
     {
-      "product_id": "B0F9MZ4KY6",
-      "title": "On Womens Cloud 6",
-      "slug": "on-womens-cloud-6",
-      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-6.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 147.99,
-      "image": "https://m.media-amazon.com/images/I/51Y-v706JqL._AC_SY695_.jpg",
-      "overall_score": 88.33333333333333
-    },
-    {
-      "product_id": "B0F9HFCJYT",
-      "title": "On Men's Cloud X 4 Sneakers",
-      "slug": "on-mens-cloud-x-4",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-x-4.html",
+      "product_id": "B0CSR8YXBP",
+      "title": "ON mens Running Shoe",
+      "slug": "on-mens-running-shoe",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-running-shoe.html",
       "gender": "Men",
       "subcategory": "Athletic",
-      "price_min": 141.9,
-      "image": "https://m.media-amazon.com/images/I/71WZtdjMfSL._AC_SX500_.jpg",
-      "overall_score": 88
-    },
-    {
-      "product_id": "B0F9HBH393",
-      "title": "On Men's Cloudnova 2 Sneakers",
-      "slug": "on-mens-cloudnova-2",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudnova-2.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 165,
-      "image": "https://m.media-amazon.com/images/I/51dugKySO9L._AC_SY625_.jpg",
-      "overall_score": 88
+      "price_min": 164,
+      "image": "https://m.media-amazon.com/images/I/41Vx9o7QiUL._AC_SY500_.jpg",
+      "overall_score": 83.33333333333333
     },
     {
       "product_id": "B0DMYCF9V0",
@@ -113,15 +58,15 @@
       "overall_score": 87.66666666666667
     },
     {
-      "product_id": "B0DMD414XY",
-      "title": "On Women's Cloudmonster Sneakers, Ivory/Grenadine, 6.5 Medium US",
-      "slug": "on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us",
-      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 180.25,
-      "image": "https://m.media-amazon.com/images/I/51bzMJrAtRL._AC_SY695_.jpg",
-      "overall_score": 86.66666666666667
+      "product_id": "B0DGQC9JD0",
+      "title": "On Mens Cloudflow 4",
+      "slug": "on-mens-cloudflow-4",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudflow-4.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 94.99,
+      "image": "https://m.media-amazon.com/images/I/61s-1NDKPnL._AC_SX625_.jpg",
+      "overall_score": 86.33333333333333
     },
     {
       "product_id": "B0DJHC6VCN",
@@ -135,92 +80,15 @@
       "overall_score": 84.66666666666667
     },
     {
-      "product_id": "B0DGQC9JD0",
-      "title": "On Mens Cloudflow 4",
-      "slug": "on-mens-cloudflow-4",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudflow-4.html",
+      "product_id": "B0158HFU0Y",
+      "title": "On Men's The Roger Advantage Shoes",
+      "slug": "on-mens-the-roger-advantage",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-the-roger-advantage.html",
       "gender": "Men",
       "subcategory": "Athletic",
-      "price_min": 94.99,
-      "image": "https://m.media-amazon.com/images/I/61s-1NDKPnL._AC_SX625_.jpg",
-      "overall_score": 86.33333333333333
-    },
-    {
-      "product_id": "B0DF6BPXM8",
-      "title": "On Men's Cloud 6 Sneakers",
-      "slug": "on-mens-cloud-6",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 157.04,
-      "image": "https://m.media-amazon.com/images/I/615Sy7Z9+lL._AC_SY625_.jpg",
-      "overall_score": 88.33333333333333
-    },
-    {
-      "product_id": "B0DCT1PDCY",
-      "title": "On Men's Cloudrunner 2 Sneakers",
-      "slug": "on-mens-cloudrunner-2",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudrunner-2.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 142.7,
-      "image": "https://m.media-amazon.com/images/I/51rTZmmva-L._AC_SY695_.jpg",
-      "overall_score": 88.66666666666667
-    },
-    {
-      "product_id": "B0D54S429Y",
-      "title": "On Women's Cloudswift 4 Running Shoes",
-      "slug": "on-womens-cloudswift-4-running",
-      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudswift-4-running.html",
-      "gender": "Women",
-      "subcategory": "Athletic",
-      "price_min": 153.41,
-      "image": "https://m.media-amazon.com/images/I/513xZaf++dL._AC_SY695_.jpg",
-      "overall_score": 86.33333333333333
-    },
-    {
-      "product_id": "B0D54RRYTL",
-      "title": "On Men's Cloud 6 WP Sneakers",
-      "slug": "on-mens-cloud-6-wp",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6-wp.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 159.99,
-      "image": "https://m.media-amazon.com/images/I/61wyhJI8FtL._AC_SY500_.jpg",
-      "overall_score": 80.66666666666667
-    },
-    {
-      "product_id": "B0D54RD36Q",
-      "title": "On Men's Cloudswift 4 Sneakers",
-      "slug": "on-mens-cloudswift-4",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudswift-4.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 135,
-      "image": "https://m.media-amazon.com/images/I/61sYMdRVpPL._AC_SY500_.jpg",
-      "overall_score": 86.33333333333333
-    },
-    {
-      "product_id": "B0CYJJJ410",
-      "title": "On Women's The Roger Advantage Sneakers",
-      "slug": "on-womens-the-roger-advantage",
-      "url": "https://www.shoesonwhite.com/2026/02/on-womens-the-roger-advantage.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 105,
-      "image": "https://m.media-amazon.com/images/I/51aF2iCbnEL._AC_SY695_.jpg",
+      "price_min": 153,
+      "image": "https://m.media-amazon.com/images/I/61GfYgYs0EL._AC_SY695_.jpg",
       "overall_score": 82.33333333333333
-    },
-    {
-      "product_id": "B0CSR8YXBP",
-      "title": "ON mens Running Shoe",
-      "slug": "on-mens-running-shoe",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-running-shoe.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 164,
-      "image": "https://m.media-amazon.com/images/I/41Vx9o7QiUL._AC_SY500_.jpg",
-      "overall_score": 83.33333333333333
     },
     {
       "product_id": "B0CLYXM9H1",
@@ -234,26 +102,224 @@
       "overall_score": 85
     },
     {
-      "product_id": "B0CJVKGBGK",
-      "title": "On Cloudeclipse Womens Shoes Size 7.5, Color: Alloy/White",
-      "slug": "on-cloudeclipse-womens-shoes-size-75-color",
-      "url": "https://www.shoesonwhite.com/2026/02/on-cloudeclipse-womens-shoes-size-75-color.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 142.17,
-      "image": "https://m.media-amazon.com/images/I/51cOJxtEVgL._SL1024_.jpg",
-      "overall_score": 84.66666666666667
+      "product_id": "B0D54RD36Q",
+      "title": "On Men's Cloudswift 4 Sneakers",
+      "slug": "on-mens-cloudswift-4",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudswift-4.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 135,
+      "image": "https://m.media-amazon.com/images/I/61sYMdRVpPL._AC_SY500_.jpg",
+      "overall_score": 86.33333333333333
     },
     {
-      "product_id": "B0CHHQD5QP",
-      "title": "ON Running",
-      "slug": "on",
-      "url": "https://www.shoesonwhite.com/2026/02/on.html",
+      "product_id": "B0DCT1PDCY",
+      "title": "On Men's Cloudrunner 2 Sneakers",
+      "slug": "on-mens-cloudrunner-2",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudrunner-2.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 142.7,
+      "image": "https://m.media-amazon.com/images/I/51rTZmmva-L._AC_SY695_.jpg",
+      "overall_score": 88.66666666666667
+    },
+    {
+      "product_id": "B0F9HBH393",
+      "title": "On Men's Cloudnova 2 Sneakers",
+      "slug": "on-mens-cloudnova-2",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudnova-2.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 165,
+      "image": "https://m.media-amazon.com/images/I/51dugKySO9L._AC_SY625_.jpg",
+      "overall_score": 88
+    },
+    {
+      "product_id": "B0FXPZLNS2",
+      "title": "On Men's Cloudmonster Sneakers",
+      "slug": "on-mens-cloudmonster",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudmonster.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 125,
+      "image": "https://m.media-amazon.com/images/I/51V8egvLcuL._AC_SY695_.jpg",
+      "overall_score": 86.66666666666667
+    },
+    {
+      "product_id": "B0B29M2ZHY",
+      "title": "On Men's Cloudgo Sneakers",
+      "slug": "on-mens-cloudgo",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudgo.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 150,
+      "image": "https://m.media-amazon.com/images/I/71PRyDZreSL._AC_SY500_.jpg",
+      "overall_score": 81.66666666666667
+    },
+    {
+      "product_id": "B06Y5LCWSV",
+      "title": "On Men's Cloud X Sneakers",
+      "slug": "on-mens-cloud-x",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-x.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 190,
+      "image": "https://m.media-amazon.com/images/I/51QFUdAipqL._AC_SY695_.jpg",
+      "overall_score": 87.33333333333333
+    },
+    {
+      "product_id": "B0F9HFCJYT",
+      "title": "On Men's Cloud X 4 Sneakers",
+      "slug": "on-mens-cloud-x-4",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-x-4.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 141.9,
+      "image": "https://m.media-amazon.com/images/I/71WZtdjMfSL._AC_SX500_.jpg",
+      "overall_score": 88
+    },
+    {
+      "product_id": "B0D54RRYTL",
+      "title": "On Men's Cloud 6 WP Sneakers",
+      "slug": "on-mens-cloud-6-wp",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6-wp.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 159.99,
+      "image": "https://m.media-amazon.com/images/I/61wyhJI8FtL._AC_SY500_.jpg",
+      "overall_score": 80.66666666666667
+    },
+    {
+      "product_id": "B0DF6BPXM8",
+      "title": "On Men's Cloud 6 Sneakers",
+      "slug": "on-mens-cloud-6",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 157.04,
+      "image": "https://m.media-amazon.com/images/I/615Sy7Z9+lL._AC_SY625_.jpg",
+      "overall_score": 88.33333333333333
+    },
+    {
+      "product_id": "B0G2H7TS6S",
+      "title": "On Men's Cloud 5 Sneakers",
+      "slug": "on-mens-cloud-5",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5.html",
+      "gender": "Men",
+      "subcategory": "Sneakers",
+      "price_min": 177,
+      "image": "https://m.media-amazon.com/images/I/61PoUb5z51L._AC_SX625_.jpg",
+      "overall_score": 89.33333333333333
+    },
+    {
+      "product_id": "B09Z36P13X",
+      "title": "On Men's Cloud 5 Sneakers",
+      "slug": "on-mens-cloud-5",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5.html",
       "gender": "Men",
       "subcategory": "Athletic",
       "price_min": 218.99,
-      "image": "https://m.media-amazon.com/images/I/51QFUdAipqL._AC_SY695_.jpg",
-      "overall_score": 81.66666666666667
+      "image": "https://m.media-amazon.com/images/I/61CXzjAR9tL._AC_SX625_.jpg",
+      "overall_score": 89.33333333333333
+    },
+    {
+      "product_id": "B0B2B1SG98",
+      "title": "On Men's Cloud 5 Coast Sneakers",
+      "slug": "on-mens-cloud-5-coast",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5-coast.html",
+      "gender": "Men",
+      "subcategory": "Sneakers",
+      "price_min": 188,
+      "image": "https://m.media-amazon.com/images/I/41m8id5rrnL._AC_SY500_.jpg",
+      "overall_score": 85
+    },
+    {
+      "product_id": "B0G5XC73TW",
+      "title": "Women's Cloudmonster (Undyed White/Flame)",
+      "slug": "womens-cloudmonster-undyed",
+      "url": "https://www.shoesonwhite.com/2026/02/womens-cloudmonster-undyed.html",
+      "gender": "Women",
+      "subcategory": "Athletic",
+      "price_min": 159.95,
+      "image": "https://m.media-amazon.com/images/I/61mNG4d3ulL._AC_SY695_.jpg",
+      "overall_score": 86.66666666666667
+    },
+    {
+      "product_id": "B09NDXZLJN",
+      "title": "ON Womens Low-top Running Shoes Glacier/Creek",
+      "slug": "on-womens-low-top-running-shoes-glaciercreek",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-low-top-running-shoes-glaciercreek.html",
+      "gender": "Women",
+      "subcategory": "Athletic",
+      "price_min": 168.08,
+      "image": "https://m.media-amazon.com/images/I/716UftRIatL._AC_SX500_.jpg",
+      "overall_score": 84.33333333333333
+    },
+    {
+      "product_id": "B0FSS48NRF",
+      "title": "On Womens Cloudsurfer Next",
+      "slug": "on-womens-cloudsurfer-next",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudsurfer-next.html",
+      "gender": "Women",
+      "subcategory": "Athletic",
+      "price_min": 137.46,
+      "image": "https://m.media-amazon.com/images/I/517g6IUEyyL._AC_SX500_.jpg",
+      "overall_score": 88.33333333333333
+    },
+    {
+      "product_id": "B0F9MZ4KY6",
+      "title": "On Womens Cloud 6",
+      "slug": "on-womens-cloud-6",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-6.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 147.99,
+      "image": "https://m.media-amazon.com/images/I/51Y-v706JqL._AC_SY695_.jpg",
+      "overall_score": 88.33333333333333
+    },
+    {
+      "product_id": "B0CYJJJ410",
+      "title": "On Women's The Roger Advantage Sneakers",
+      "slug": "on-womens-the-roger-advantage",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-the-roger-advantage.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 105,
+      "image": "https://m.media-amazon.com/images/I/51aF2iCbnEL._AC_SY695_.jpg",
+      "overall_score": 82.33333333333333
+    },
+    {
+      "product_id": "B09KP2T1L3",
+      "title": "On Women's Cloudswift Sneakers",
+      "slug": "on-womens-cloudswift",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudswift.html",
+      "gender": "Women",
+      "subcategory": "Athletic",
+      "price_min": 149,
+      "image": "https://m.media-amazon.com/images/I/51BX5Wg3TKL._AC_SY695_.jpg",
+      "overall_score": 85
+    },
+    {
+      "product_id": "B0D54S429Y",
+      "title": "On Women's Cloudswift 4 Running Shoes",
+      "slug": "on-womens-cloudswift-4-running",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudswift-4-running.html",
+      "gender": "Women",
+      "subcategory": "Athletic",
+      "price_min": 153.41,
+      "image": "https://m.media-amazon.com/images/I/513xZaf++dL._AC_SY695_.jpg",
+      "overall_score": 86.33333333333333
+    },
+    {
+      "product_id": "B0DMD414XY",
+      "title": "On Women's Cloudmonster Sneakers, Ivory/Grenadine, 6.5 Medium US",
+      "slug": "on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 180.25,
+      "image": "https://m.media-amazon.com/images/I/51bzMJrAtRL._AC_SY695_.jpg",
+      "overall_score": 86.66666666666667
     },
     {
       "product_id": "B0CGG1BT7N",
@@ -278,81 +344,15 @@
       "overall_score": 89.33333333333333
     },
     {
-      "product_id": "B0B2B1SG98",
-      "title": "On Men's Cloud 5 Coast Sneakers",
-      "slug": "on-mens-cloud-5-coast",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5-coast.html",
-      "gender": "Men",
+      "product_id": "B0CJVKGBGK",
+      "title": "On Cloudeclipse Womens Shoes Size 7.5, Color: Alloy/White",
+      "slug": "on-cloudeclipse-womens-shoes-size-75-color",
+      "url": "https://www.shoesonwhite.com/2026/02/on-cloudeclipse-womens-shoes-size-75-color.html",
+      "gender": "Women",
       "subcategory": "Sneakers",
-      "price_min": 188,
-      "image": "https://m.media-amazon.com/images/I/41m8id5rrnL._AC_SY500_.jpg",
-      "overall_score": 85
-    },
-    {
-      "product_id": "B0B29M2ZHY",
-      "title": "On Men's Cloudgo Sneakers",
-      "slug": "on-mens-cloudgo",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudgo.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 150,
-      "image": "https://m.media-amazon.com/images/I/71PRyDZreSL._AC_SY500_.jpg",
-      "overall_score": 81.66666666666667
-    },
-    {
-      "product_id": "B09Z36P13X",
-      "title": "On Men's Cloud 5 Sneakers",
-      "slug": "on-mens-cloud-5",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 218.99,
-      "image": "https://m.media-amazon.com/images/I/61CXzjAR9tL._AC_SX625_.jpg",
-      "overall_score": 89.33333333333333
-    },
-    {
-      "product_id": "B09NDXZLJN",
-      "title": "ON Womens Low-top Running Shoes Glacier/Creek",
-      "slug": "on-womens-low-top-running-shoes-glaciercreek",
-      "url": "https://www.shoesonwhite.com/2026/02/on-womens-low-top-running-shoes-glaciercreek.html",
-      "gender": "Women",
-      "subcategory": "Athletic",
-      "price_min": 168.08,
-      "image": "https://m.media-amazon.com/images/I/716UftRIatL._AC_SX500_.jpg",
-      "overall_score": 84.33333333333333
-    },
-    {
-      "product_id": "B09KP2T1L3",
-      "title": "On Women's Cloudswift Sneakers",
-      "slug": "on-womens-cloudswift",
-      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudswift.html",
-      "gender": "Women",
-      "subcategory": "Athletic",
-      "price_min": 149,
-      "image": "https://m.media-amazon.com/images/I/51BX5Wg3TKL._AC_SY695_.jpg",
-      "overall_score": 85
-    },
-    {
-      "product_id": "B06Y5LCWSV",
-      "title": "On Men's Cloud X Sneakers",
-      "slug": "on-mens-cloud-x",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-x.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 190,
-      "image": "https://m.media-amazon.com/images/I/51QFUdAipqL._AC_SY695_.jpg",
-      "overall_score": 87.33333333333333
-    },
-    {
-      "product_id": "B0158HFU0Y",
-      "title": "On Men's The Roger Advantage Shoes",
-      "slug": "on-mens-the-roger-advantage",
-      "url": "https://www.shoesonwhite.com/2026/02/on-mens-the-roger-advantage.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 153,
-      "image": "https://m.media-amazon.com/images/I/61GfYgYs0EL._AC_SY695_.jpg",
-      "overall_score": 82.33333333333333
+      "price_min": 142.17,
+      "image": "https://m.media-amazon.com/images/I/51cOJxtEVgL._SL1024_.jpg",
+      "overall_score": 84.66666666666667
     }
   ]
 }
