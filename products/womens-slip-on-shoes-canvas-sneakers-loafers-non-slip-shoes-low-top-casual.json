@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0922PZRJ6",
     "slug": "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual",
-    "generated_at": "2026-02-15T18:02:07.079Z",
+    "generated_at": "2026-02-19T04:15:28.007Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "hash bubbie",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
-    "weight_lbs": "N/A",
     "upper_material": "Canvas",
     "sole_material": "Rubber",
     "outer_material": "Canvas",
     "lining": "Soft Padding",
     "closure_type": "Slip On",
-    "cushioning": "Soft padded insole",
-    "breathability": "Breathable canvas",
+    "cushioning": "Basic foam insole provides light, everyday cushioning for casual wear.",
+    "breathability": "Breathable canvas upper allows for good airflow, keeping feet cool.",
     "amazon_url": "https://amzn.to/45Tuage",
     "price_min": 17.54,
     "price_max": 19.49,
     "currency": "USD",
     "rating": 4.1,
     "review_count": 18569,
-    "comfort_score": 68,
+    "comfort_score": 84,
     "durability_score": 78,
-    "breathability_score": 65,
-    "overall_score": 70.33333333333333,
-    "short_description": "Comfortable women?s slip-on canvas sneakers with breathable upper and non-slip rubber sole for daily casual wear.",
+    "breathability_score": 85,
+    "overall_score": 82.33333333333333,
+    "short_description": "Embrace effortless everyday style with these Women's Slip on Shoes Canvas Sneakers Loafers. Designed for the modern woman on the go, these low-top casual shoes combine the classic appeal of canvas with the ultimate convenience of a slip-on design. The breathable canvas upper keeps your feet cool and comfortable throughout the day, while the elastic gore panels allow for easy on-and-off access and a secure, sock-like fit that adapts to your foot's natural shape. Whether you're running errands, meeting friends for coffee, or enjoying a leisurely weekend stroll, these sneakers provide reliable comfort. The non-slip rubber outsole offers dependable traction on various surfaces, ensuring your stability with every step. With their versatile, minimalist aesthetic, these canvas slip-ons pair effortlessly with jeans, shorts, skirts, or dresses, making them an indispensable foundation for any casual wardrobe. Step into simplicity and comfort with these must-have everyday sneakers.",
     "about_this_item": "Easy slip-on design with secure fit, breathable canvas upper, soft padded insole for comfort, suitable for work, shopping, travel, and casual outfits, durable non-slip rubber sole.",
     "primary_keyword": "womens slip on canvas sneakers",
     "slug": "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual",
@@ -60,7 +59,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0922PZRJ6",
       "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
-      "description": "Comfortable women?s slip-on canvas sneakers with breathable upper and non-slip rubber sole for daily casual wear.",
+      "description": "Embrace effortless everyday style with these Women's Slip on Shoes Canvas Sneakers Loafers. Designed for the modern woman on the go, these low-top casual shoes combine the classic appeal of canvas with the ultimate convenience of a slip-on design. The breathable canvas upper keeps your feet cool and comfortable throughout the day, while the elastic gore panels allow for easy on-and-off access and a secure, sock-like fit that adapts to your foot's natural shape. Whether you're running errands, meeting friends for coffee, or enjoying a leisurely weekend stroll, these sneakers provide reliable comfort. The non-slip rubber outsole offers dependable traction on various surfaces, ensuring your stability with every step. With their versatile, minimalist aesthetic, these canvas slip-ons pair effortlessly with jeans, shorts, skirts, or dresses, making them an indispensable foundation for any casual wardrobe. Step into simplicity and comfort with these must-have everyday sneakers.",
       "url": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual.html",
       "sku": "B0922PZRJ6",
       "mpn": "B0922PZRJ7",
@@ -74,7 +73,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual.html",
         "priceCurrency": "USD",
         "price": 17.54,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -107,7 +106,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -122,7 +121,7 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "68"
+          "value": "84"
         },
         {
           "@type": "PropertyValue",
@@ -132,12 +131,12 @@
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "65"
+          "value": "85"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "70.33333333333333"
+          "value": "82.33333333333333"
         }
       ],
       "image": [
@@ -183,7 +182,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.388Z",
-    "last_updated": "2026-02-15T18:02:04.388Z"
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
   }
 }
