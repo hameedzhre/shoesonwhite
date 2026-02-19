@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B07ZQWLXTL",
     "slug": "skechers-go-run-consistent-220102-womens-fashion-sneakers-whitesilver-85",
-    "generated_at": "2026-02-19T04:15:35.095Z",
+    "generated_at": "2026-02-19T09:57:59.817Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -48,7 +48,6 @@
     "brand_url": "https://www.shoesonwhite.com/p/skechers.html",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
     "image_urls": [
-      "https://m.media-amazon.com/images/I/61xHpZrxEeL._AC_UY575_.png",
       "https://m.media-amazon.com/images/I/612ln3MW8HL._AC_SX695_.jpg",
       "https://m.media-amazon.com/images/I/51adBRAUmPL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/419ysaCeYqL._AC_SY695_.jpg",
@@ -56,7 +55,7 @@
       "https://m.media-amazon.com/images/I/417GQjJ1KKL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/51sqFARP91L._AC_SY695_.jpg"
     ],
-    "main_image": "https://m.media-amazon.com/images/I/61xHpZrxEeL._AC_UY575_.png",
+    "main_image": "https://m.media-amazon.com/images/I/612ln3MW8HL._AC_SX695_.jpg",
     "schema": {
       "@context": "https://schema.org",
       "@type": "Product",
@@ -148,7 +147,6 @@
         }
       ],
       "image": [
-        "https://m.media-amazon.com/images/I/61xHpZrxEeL._AC_UY575_.png",
         "https://m.media-amazon.com/images/I/612ln3MW8HL._AC_SX695_.jpg",
         "https://m.media-amazon.com/images/I/51adBRAUmPL._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/419ysaCeYqL._AC_SY695_.jpg",
@@ -192,7 +190,7 @@
         ]
       }
     },
-    "created_at": "2026-02-19T04:12:20.300Z",
-    "last_updated": "2026-02-19T04:12:20.300Z"
+    "created_at": "2026-02-19T09:57:28.935Z",
+    "last_updated": "2026-02-19T09:57:28.935Z"
   }
 }
