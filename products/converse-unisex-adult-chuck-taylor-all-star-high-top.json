@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B00D2V7YZ8",
     "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top",
-    "generated_at": "2026-02-15T18:02:45.660Z",
+    "generated_at": "2026-02-19T04:15:41.468Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "Converse",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Unisex",
-    "weight_lbs": "N/A",
     "upper_material": "Canvas",
     "sole_material": "Rubber",
     "outer_material": "Canvas",
     "lining": "Textile",
     "closure_type": "Lace-Up",
-    "cushioning": "OrthoLite",
-    "breathability": "Medium",
+    "cushioning": "Lightly padded insole and cotton canvas lining offer basic, traditional comfort.",
+    "breathability": "Classic canvas upper provides moderate, natural breathability.",
     "amazon_url": "https://amzn.to/4kplCDR",
     "price_min": 31.81,
     "price_max": 65,
     "currency": "USD",
     "rating": 4.6,
     "review_count": 18658,
-    "comfort_score": 69,
+    "comfort_score": 75,
     "durability_score": 80,
     "breathability_score": 70,
-    "overall_score": 73,
-    "short_description": "Classic high-top canvas sneakers with iconic Chuck Taylor design",
+    "overall_score": 75,
+    "short_description": "Make a timeless statement with the Converse Unisex Adult Chuck Taylor All Star High Top Sneaker. Instantly recognizable and beloved worldwide, this iconic silhouette has been a symbol of authentic style and self-expression for generations. The high-top design features a durable, breathable canvas upper that molds to your foot for a personalized fit over time. Its classic, minimalist aesthetic is incredibly versatile, pairing seamlessly with everything from jeans and trousers to skirts and dresses, allowing you to create countless looks. The design is completed with signature details like the rubber toe cap, the vulcanized rubber sole for reliable traction and flexibility, and the iconic All Star ankle patch with its distinctive star logo. A padded collar provides additional comfort and support around the ankle. More than just a shoe, the Converse Chuck Taylor All Star High Top is a cultural icon, a canvas for creativity, and a testament to enduring style that never goes out of fashion.",
     "about_this_item": "Canvas upper for classic look, OrthoLite cushioning for comfort, diamond-pattern rubber outsole, iconic ankle patch",
     "primary_keyword": "Converse Chuck Taylor High Top Sneakers",
     "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top",
@@ -61,7 +60,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B00D2V7YZ8",
       "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
-      "description": "Classic high-top canvas sneakers with iconic Chuck Taylor design",
+      "description": "Make a timeless statement with the Converse Unisex Adult Chuck Taylor All Star High Top Sneaker. Instantly recognizable and beloved worldwide, this iconic silhouette has been a symbol of authentic style and self-expression for generations. The high-top design features a durable, breathable canvas upper that molds to your foot for a personalized fit over time. Its classic, minimalist aesthetic is incredibly versatile, pairing seamlessly with everything from jeans and trousers to skirts and dresses, allowing you to create countless looks. The design is completed with signature details like the rubber toe cap, the vulcanized rubber sole for reliable traction and flexibility, and the iconic All Star ankle patch with its distinctive star logo. A padded collar provides additional comfort and support around the ankle. More than just a shoe, the Converse Chuck Taylor All Star High Top is a cultural icon, a canvas for creativity, and a testament to enduring style that never goes out of fashion.",
       "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top.html",
       "sku": "B00D2V7YZ8",
       "mpn": "B00D2V7YZ8",
@@ -75,7 +74,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top.html",
         "priceCurrency": "USD",
         "price": 31.81,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +107,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -123,7 +122,7 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "69"
+          "value": "75"
         },
         {
           "@type": "PropertyValue",
@@ -138,7 +137,7 @@
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "73"
+          "value": "75"
         }
       ],
       "image": [
@@ -185,7 +184,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.392Z",
-    "last_updated": "2026-02-15T18:02:04.392Z"
+    "created_at": "2026-02-19T04:12:20.300Z",
+    "last_updated": "2026-02-19T04:12:20.300Z"
   }
 }
