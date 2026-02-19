@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0BJ7W5WFV",
     "slug": "new-balance-womens-dynasoft-nergize-sport-v2-cross",
-    "generated_at": "2026-02-15T18:02:33.060Z",
+    "generated_at": "2026-02-19T04:15:15.386Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "New Balance",
     "category": "Shoes",
     "subcategory": "Athletic",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 1.5,
     "upper_material": "Synthetic/Textile",
@@ -27,19 +27,19 @@
     "outer_material": "Mesh",
     "lining": "Cotton",
     "closure_type": "Lace-up",
-    "cushioning": "DynaSoft cushioned midsole",
-    "breathability": "Breathable mesh upper",
+    "cushioning": "Responsive DynaSoft cushioning combines a plush feel with high-performance responsiveness for workouts.",
+    "breathability": "Lightweight, breathable mesh upper provides a comfortable and flexible fit with good airflow.",
     "amazon_url": "https://amzn.to/4qhBF89",
     "price_min": 52.22,
     "price_max": 74.99,
     "currency": "USD",
     "rating": 4.1,
     "review_count": 3992,
-    "comfort_score": 91,
-    "durability_score": 85,
-    "breathability_score": 82,
-    "overall_score": 86,
-    "short_description": "Sleek, lightweight women's cross-training shoe designed for comfort, gym workouts, and everyday wear.",
+    "comfort_score": 87,
+    "durability_score": 80,
+    "breathability_score": 78,
+    "overall_score": 81.66666666666667,
+    "short_description": "Conquer your workout in style and comfort with the New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer. This sleek and versatile training shoe is designed for the modern woman who needs footwear that can keep up with everything from gym sessions to casual wear. The upper features a lightweight, breathable mesh material that provides a comfortable, flexible fit, while synthetic overlays offer lightweight support. The low-profile design allows for natural movement during a variety of exercises. Underfoot, the shoe is powered by New Balance's responsive DynaSoft cushioning. This dynamic technology combines a soft, plush feel with high-performance responsiveness, ensuring you stay comfortable and energized during your workout. A durable rubber outsole provides reliable traction for stability on gym floors and other surfaces. With its sleek, athletic aesthetic and versatile performance, the New Balance DynaSoft Nergize Sport V2 is the perfect cross-trainer for your active lifestyle.",
     "about_this_item": "DynaSoft midsole for plush comfort; no-sew upper for sleek fit; synthetic/textile upper; durable rubber outsole; adjustable lace closure for customized fit",
     "primary_keyword": "women white cross training shoes",
     "slug": "new-balance-womens-dynasoft-nergize-sport-v2-cross",
@@ -61,7 +61,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0BJ7W5WFV",
       "name": "New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer",
-      "description": "Sleek, lightweight women's cross-training shoe designed for comfort, gym workouts, and everyday wear.",
+      "description": "Conquer your workout in style and comfort with the New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer. This sleek and versatile training shoe is designed for the modern woman who needs footwear that can keep up with everything from gym sessions to casual wear. The upper features a lightweight, breathable mesh material that provides a comfortable, flexible fit, while synthetic overlays offer lightweight support. The low-profile design allows for natural movement during a variety of exercises. Underfoot, the shoe is powered by New Balance's responsive DynaSoft cushioning. This dynamic technology combines a soft, plush feel with high-performance responsiveness, ensuring you stay comfortable and energized during your workout. A durable rubber outsole provides reliable traction for stability on gym floors and other surfaces. With its sleek, athletic aesthetic and versatile performance, the New Balance DynaSoft Nergize Sport V2 is the perfect cross-trainer for your active lifestyle.",
       "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross.html",
       "sku": "B0BJ7W5WFV",
       "mpn": "B0BJ7W5WFV",
@@ -75,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross.html",
         "priceCurrency": "USD",
         "price": 52.22,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -128,22 +128,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "91"
+          "value": "87"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "85"
+          "value": "80"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "82"
+          "value": "78"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "86"
+          "value": "81.66666666666667"
         }
       ],
       "image": [
@@ -190,7 +190,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.391Z",
-    "last_updated": "2026-02-15T18:02:04.391Z"
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
   }
 }
