@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0BYZHQXHJ",
     "slug": "pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes",
-    "generated_at": "2026-02-15T18:02:26.988Z",
+    "generated_at": "2026-02-19T04:15:12.283Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "Pujcs",
     "category": "Shoes",
     "subcategory": "Athletic",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
-    "weight_lbs": "N/A",
     "upper_material": "Mesh",
     "sole_material": "EVA",
     "outer_material": "Mesh",
     "lining": "Soft fabric",
     "closure_type": "Pull-On",
-    "cushioning": "Memory foam",
-    "breathability": "High",
+    "cushioning": "Cushioned insole provides soft, responsive comfort and shock absorption for athletic activities.",
+    "breathability": "Highly breathable mesh upper promotes maximum airflow to keep feet cool and dry.",
     "amazon_url": "https://amzn.to/4tqJpaE",
     "price_min": 26.99,
     "price_max": 29.99,
     "currency": "USD",
     "rating": 4.2,
     "review_count": 1217,
-    "comfort_score": 89,
-    "durability_score": 71,
-    "breathability_score": 88,
-    "overall_score": 82.66666666666667,
-    "short_description": "Lightweight breathable women?s walking sneakers designed for comfort, flexibility, and everyday wear.",
+    "comfort_score": 86,
+    "durability_score": 77,
+    "breathability_score": 90,
+    "overall_score": 84.33333333333333,
+    "short_description": "Discover the perfect balance of comfort and performance with the Pujcs Womens Sneakers Non Slip Walking Shoes. Designed for the active woman, these versatile sneakers are ready to support you through walks, workouts, gym sessions, and everyday activities. The upper is constructed from a lightweight, breathable mesh material that promotes excellent airflow, keeping your feet cool, dry, and comfortable even during the most intense exercise. The lace-up design allows for a secure, customized fit. Inside, a cushioned insole provides soft, responsive comfort and shock absorption, reducing foot fatigue. The flexible, non-slip outsole is engineered for reliable traction on a variety of surfaces, ensuring your stability with every step, whether you're on a treadmill, pavement, or gym floor. With their sleek, modern design and focus on essential performance features, these Pujcs sneakers are the ideal choice for women seeking a reliable, comfortable, and breathable athletic shoe for their active lifestyle.",
     "about_this_item": "Breathable mesh upper; lightweight EVA outsole; slip-resistant sole; cushioned memory foam insole; easy slip-on design; suitable for walking, running, gym, travel, and casual outfits.",
     "primary_keyword": "white sneakers women",
     "slug": "pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes",
@@ -61,7 +60,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0BYZHQXHJ",
       "name": "Pujcs Womens Sneakers Non Slip Walking Shoes Lightweight Tennis Shoes Breathable Running Shoes Gym Workout Mesh Sneakers",
-      "description": "Lightweight breathable women?s walking sneakers designed for comfort, flexibility, and everyday wear.",
+      "description": "Discover the perfect balance of comfort and performance with the Pujcs Womens Sneakers Non Slip Walking Shoes. Designed for the active woman, these versatile sneakers are ready to support you through walks, workouts, gym sessions, and everyday activities. The upper is constructed from a lightweight, breathable mesh material that promotes excellent airflow, keeping your feet cool, dry, and comfortable even during the most intense exercise. The lace-up design allows for a secure, customized fit. Inside, a cushioned insole provides soft, responsive comfort and shock absorption, reducing foot fatigue. The flexible, non-slip outsole is engineered for reliable traction on a variety of surfaces, ensuring your stability with every step, whether you're on a treadmill, pavement, or gym floor. With their sleek, modern design and focus on essential performance features, these Pujcs sneakers are the ideal choice for women seeking a reliable, comfortable, and breathable athletic shoe for their active lifestyle.",
       "url": "https://www.shoesonwhite.com/2026/02/pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes.html",
       "sku": "B0BYZHQXHJ",
       "mpn": "B0BYZHQXHJ",
@@ -75,7 +74,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes.html",
         "priceCurrency": "USD",
         "price": 26.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +107,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -123,22 +122,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "89"
+          "value": "86"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "71"
+          "value": "77"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "88"
+          "value": "90"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "82.66666666666667"
+          "value": "84.33333333333333"
         }
       ],
       "image": [
@@ -185,7 +184,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.391Z",
-    "last_updated": "2026-02-15T18:02:04.391Z"
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
   }
 }
