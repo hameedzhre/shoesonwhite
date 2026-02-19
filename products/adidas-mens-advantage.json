@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B08S8VR3L2",
     "slug": "adidas-mens-advantage",
-    "generated_at": "2026-02-15T18:02:52.074Z",
+    "generated_at": "2026-02-19T04:15:31.075Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -16,10 +16,10 @@
     "product_id": "B08S8VR3L2",
     "asin": "B08S8VR3L3",
     "product_title": "Adidas Men's Advantage Sneaker",
-    "brand": "adidas",
+    "brand": "Adidas",
     "category": "Shoes",
     "subcategory": "Athletic",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Men",
     "weight_lbs": 1,
     "upper_material": "Synthetic",
@@ -27,19 +27,19 @@
     "outer_material": "Synthetic",
     "lining": "Textile",
     "closure_type": "Lace",
-    "cushioning": "Cloudfoam",
-    "breathability": "Medium",
+    "cushioning": "Lightweight and flexible cushioning midsole provides soft, responsive comfort for everyday wear.",
+    "breathability": "Synthetic leather upper with perforated 3-Stripes offers minimal, but slightly enhanced, airflow.",
     "amazon_url": "https://amzn.to/4r3ozws",
     "price_min": 36.42,
     "price_max": 70,
     "currency": "USD",
     "rating": 4.6,
     "review_count": 8708,
-    "comfort_score": 91,
-    "durability_score": 76,
-    "breathability_score": 69,
-    "overall_score": 78.66666666666667,
-    "short_description": "Men's lightweight tennis shoes for training or matches",
+    "comfort_score": 82,
+    "durability_score": 85,
+    "breathability_score": 58,
+    "overall_score": 75,
+    "short_description": "Step onto the court and into the street with the Adidas Men's Advantage Sneaker. This classic, tennis-inspired shoe is designed for the modern man who values clean style, versatility, and reliable comfort. The Advantage features a timeless, low-profile silhouette with a durable synthetic leather upper, offering a crisp, clean look that pairs effortlessly with everything from jeans and chinos to shorts. The perforated 3-Stripes add a signature adidas touch while promoting airflow to keep your feet cool. A padded collar and tongue provide a comfortable, secure fit. Underfoot, a lightweight and flexible cushioning midsole delivers soft, responsive comfort for all-day wear, whether you're on the court for a light match or just going about your day. The durable rubber outsole offers dependable traction. For a versatile sneaker that combines heritage tennis style with everyday comfort and value, the Adidas Men's Advantage is a winning choice for training or casual wear.",
     "about_this_item": "Classic-look sneakers with modern touches. Synthetic upper, Cloudfoam sockliner, rubber cupsole. 50% recycled materials.",
     "primary_keyword": "adidas Men's Advantage Sneaker",
     "slug": "adidas-mens-advantage",
@@ -62,13 +62,13 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B08S8VR3L2",
       "name": "Adidas Men's Advantage Sneaker",
-      "description": "Men's lightweight tennis shoes for training or matches",
+      "description": "Step onto the court and into the street with the Adidas Men's Advantage Sneaker. This classic, tennis-inspired shoe is designed for the modern man who values clean style, versatility, and reliable comfort. The Advantage features a timeless, low-profile silhouette with a durable synthetic leather upper, offering a crisp, clean look that pairs effortlessly with everything from jeans and chinos to shorts. The perforated 3-Stripes add a signature adidas touch while promoting airflow to keep your feet cool. A padded collar and tongue provide a comfortable, secure fit. Underfoot, a lightweight and flexible cushioning midsole delivers soft, responsive comfort for all-day wear, whether you're on the court for a light match or just going about your day. The durable rubber outsole offers dependable traction. For a versatile sneaker that combines heritage tennis style with everyday comfort and value, the Adidas Men's Advantage is a winning choice for training or casual wear.",
       "url": "https://www.shoesonwhite.com/2026/02/adidas-mens-advantage.html",
       "sku": "B08S8VR3L2",
       "mpn": "B08S8VR3L3",
       "brand": {
         "@type": "Brand",
-        "name": "adidas",
+        "name": "Adidas",
         "url": "https://www.shoesonwhite.com/p/adidas.html"
       },
       "offers": {
@@ -76,7 +76,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/adidas-mens-advantage.html",
         "priceCurrency": "USD",
         "price": 36.42,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -109,7 +109,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -129,22 +129,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "91"
+          "value": "82"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "76"
+          "value": "85"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "69"
+          "value": "58"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "78.66666666666667"
+          "value": "75"
         }
       ],
       "image": [
@@ -174,7 +174,7 @@
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "adidas",
+            "name": "Adidas",
             "item": "https://www.shoesonwhite.com/p/adidas.html"
           },
           {
@@ -192,7 +192,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.393Z",
-    "last_updated": "2026-02-15T18:02:04.393Z"
+    "created_at": "2026-02-19T04:12:20.299Z",
+    "last_updated": "2026-02-19T04:12:20.299Z"
   }
 }
