@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0FH7GZD1Y",
     "slug": "skechers-womens-uno-stand-on-air-sneakers",
-    "generated_at": "2026-02-15T18:02:13.837Z",
+    "generated_at": "2026-02-19T04:12:27.701Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Skechers",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 3,
     "upper_material": "Perforated Durabuck (100% Synthetic)",
@@ -27,19 +27,19 @@
     "outer_material": "Durabuck",
     "lining": "N/A",
     "closure_type": "Lace-Up",
-    "cushioning": "Air-Cooled Memory Foam, Visible Air-Cushioned Midsole, Hidden 1.5\" Wedge",
-    "breathability": "Perforated Upper",
+    "cushioning": "Air-Cooled Memory Foam insole and visible Skech-Air airbag provide plush, responsive, and bouncy cushioning.",
+    "breathability": "Synthetic and mesh upper offers moderate airflow; design prioritizes style over maximum ventilation.",
     "amazon_url": "https://amzn.to/4ah9mQW",
     "price_min": 44.99,
     "price_max": 81,
     "currency": "USD",
     "rating": 4.4,
     "review_count": 52414,
-    "comfort_score": 88,
-    "durability_score": 80,
-    "breathability_score": 75,
-    "overall_score": 81,
-    "short_description": "Fashion sneaker with visible air cushioning and a hidden wedge heel.",
+    "comfort_score": 89,
+    "durability_score": 83,
+    "breathability_score": 70,
+    "overall_score": 80.66666666666667,
+    "short_description": "Make a bold fashion statement while walking on air with the Skechers Women's Uno Stand on Air Sneakers Shoes. These fashion-forward sneakers are designed for the woman who loves standout style combined with Skechers' legendary comfort. The Uno silhouette is instantly recognizable for its chunky, '90s-inspired aesthetic, featuring a durable synthetic and mesh upper with sleek color-blocking and shimmering details for a look that catches the eye. The real innovation lies in the visible Skech-Air air-cushioned midsole. This transparent airbag not only adds a striking design element but also provides incredible, responsive shock absorption, making every step feel bouncy and energized. A hidden 1-inch wedge heel adds a subtle lift for a flattering silhouette. Inside, the Air-Cooled Memory Foam insole delivers luxurious, customized comfort, molding to your foot to keep you feeling great all day long. Step up your sneaker game with the Skechers Uno Stand on Air, where iconic style meets air-cushioned comfort.",
     "about_this_item": "PREMIUM COMFORT TECHNOLOGY: Experience superior cushioning with Air-Cooled Memory Foam insole and visible air-cushioned midsole... STYLISH WEDGE DESIGN... SUPERIOR TRACTION... VERSATILE FASHION...",
     "primary_keyword": "memory foam shoes, fashion sneakers with wedge",
     "slug": "skechers-womens-uno-stand-on-air-sneakers",
@@ -61,7 +61,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0FH7GZD1Y",
       "name": "Skechers Women's Uno Stand on Air Sneakers Shoes",
-      "description": "Fashion sneaker with visible air cushioning and a hidden wedge heel.",
+      "description": "Make a bold fashion statement while walking on air with the Skechers Women's Uno Stand on Air Sneakers Shoes. These fashion-forward sneakers are designed for the woman who loves standout style combined with Skechers' legendary comfort. The Uno silhouette is instantly recognizable for its chunky, '90s-inspired aesthetic, featuring a durable synthetic and mesh upper with sleek color-blocking and shimmering details for a look that catches the eye. The real innovation lies in the visible Skech-Air air-cushioned midsole. This transparent airbag not only adds a striking design element but also provides incredible, responsive shock absorption, making every step feel bouncy and energized. A hidden 1-inch wedge heel adds a subtle lift for a flattering silhouette. Inside, the Air-Cooled Memory Foam insole delivers luxurious, customized comfort, molding to your foot to keep you feeling great all day long. Step up your sneaker game with the Skechers Uno Stand on Air, where iconic style meets air-cushioned comfort.",
       "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air-sneakers.html",
       "sku": "B0FH7GZD1Y",
       "mpn": "B0FH7GZD1Y",
@@ -75,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air-sneakers.html",
         "priceCurrency": "USD",
         "price": 44.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -128,22 +128,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "88"
+          "value": "89"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "80"
+          "value": "83"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "75"
+          "value": "70"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "81"
+          "value": "80.66666666666667"
         }
       ],
       "image": [
@@ -190,7 +190,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.389Z",
-    "last_updated": "2026-02-15T18:02:04.389Z"
+    "created_at": "2026-02-19T04:12:20.294Z",
+    "last_updated": "2026-02-19T04:12:20.294Z"
   }
 }
