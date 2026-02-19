@@ -3,8 +3,8 @@
     "name": "Skechers",
     "slug": "skechers",
     "url": "https://www.shoesonwhite.com/p/skechers.html",
-    "generated_at": "2026-02-15T18:03:01.670Z",
-    "total_products": 6,
+    "generated_at": "2026-02-19T04:15:50.778Z",
+    "total_products": 8,
     "site_url": "https://www.shoesonwhite.com"
   },
   "brand": {
@@ -22,40 +22,7 @@
       "subcategory": "Sneakers",
       "price_min": 44.99,
       "image": "https://m.media-amazon.com/images/I/717k9ujBpFL._AC_SX500_.jpg",
-      "overall_score": 81
-    },
-    {
-      "product_id": "B0D7YTJBMF",
-      "title": "Skechers Women's Summits Sneaker",
-      "slug": "skechers-womens-summits",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-summits.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 40,
-      "image": "https://m.media-amazon.com/images/I/61SVqFHUMVL._AC_SY500_.jpg",
-      "overall_score": 80.33333333333333
-    },
-    {
-      "product_id": "B0F9294296",
-      "title": "Skechers Women's Go Walk Joy Cushioning Sneakers Shoes",
-      "slug": "skechers-womens-go-walk-joy-cushioning-sneakers",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning-sneakers.html",
-      "gender": "Women",
-      "subcategory": "Athletic",
-      "price_min": 44.88,
-      "image": "https://m.media-amazon.com/images/I/61O-QcGZp+L._AC_SX522_.jpg",
       "overall_score": 80.66666666666667
-    },
-    {
-      "product_id": "B014GNJWW7",
-      "title": "Skechers Women's D'Lites Fresh Start Memory Foam Sneakers",
-      "slug": "skechers-womens-dlites-fresh-start-memory-foam",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-dlites-fresh-start-memory-foam.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 49.72,
-      "image": "https://m.media-amazon.com/images/I/619BpI3vxQL._AC_SY500_.jpg",
-      "overall_score": 78.66666666666667
     },
     {
       "product_id": "B0FBSBXCMS",
@@ -66,7 +33,18 @@
       "subcategory": "Sneakers",
       "price_min": 49.95,
       "image": "https://m.media-amazon.com/images/I/71KJFFcZd2L._AC_SY500_.jpg",
-      "overall_score": 79.66666666666667
+      "overall_score": 78.33333333333333
+    },
+    {
+      "product_id": "B0F9294296",
+      "title": "Skechers Women's Go Walk Joy Cushioning Sneakers Shoes",
+      "slug": "skechers-womens-go-walk-joy-cushioning-sneakers",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning-sneakers.html",
+      "gender": "Women",
+      "subcategory": "Athletic",
+      "price_min": 44.88,
+      "image": "https://m.media-amazon.com/images/I/61O-QcGZp+L._AC_SX522_.jpg",
+      "overall_score": 84
     },
     {
       "product_id": "B0F8VJ3B5D",
@@ -77,7 +55,51 @@
       "subcategory": "Sneakers",
       "price_min": 50.99,
       "image": "https://m.media-amazon.com/images/I/71qSEh7gAPL._AC_SX500_.jpg",
-      "overall_score": 84.33333333333333
+      "overall_score": 81
+    },
+    {
+      "product_id": "B0F8JF6VQW",
+      "title": "Skechers Girls Uno Gen1 - Shimmer Away Sneaker, White, 6.5 Big Kid",
+      "slug": "skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid.html",
+      "gender": "Unisex",
+      "subcategory": "Athletic",
+      "price_min": 62,
+      "image": "https://m.media-amazon.com/images/I/71wez6Xh0BL._AC_UY575_.png",
+      "overall_score": 73
+    },
+    {
+      "product_id": "B0D7YTJBMF",
+      "title": "Skechers Women's Summits Sneaker",
+      "slug": "skechers-womens-summits",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-summits.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 40,
+      "image": "https://m.media-amazon.com/images/I/61SVqFHUMVL._AC_SY500_.jpg",
+      "overall_score": 83.33333333333333
+    },
+    {
+      "product_id": "B07ZQWLXTL",
+      "title": "Skechers Go Run Consistent - 220102, Women's Fashion Sneakers, White/Silver, 8.5",
+      "slug": "skechers-go-run-consistent-220102-womens-fashion-sneakers-whitesilver-85",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-go-run-consistent-220102-womens-fashion-sneakers-whitesilver-85.html",
+      "gender": "Unisex",
+      "subcategory": "Athletic",
+      "price_min": 40,
+      "image": "https://m.media-amazon.com/images/I/61xHpZrxEeL._AC_UY575_.png",
+      "overall_score": 76.66666666666667
+    },
+    {
+      "product_id": "B014GNJWW7",
+      "title": "Skechers Women's D'Lites Fresh Start Memory Foam Sneakers",
+      "slug": "skechers-womens-dlites-fresh-start-memory-foam",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-dlites-fresh-start-memory-foam.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 49.72,
+      "image": "https://m.media-amazon.com/images/I/619BpI3vxQL._AC_SY500_.jpg",
+      "overall_score": 77.66666666666667
     }
   ]
 }
