@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "product_id": "B0CLYXM9H1",
+    "slug": "on-mens-cloudswift",
+    "generated_at": "2026-02-19T04:13:02.824Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-mens-cloudswift.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0CLYXM9H1",
+    "asin": "B0CLYXM9H2",
+    "product_title": "On Men's Cloudswift Sneakers",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Men",
+    "weight_lbs": 1.75,
+    "upper_material": "Performance mesh",
+    "sole_material": "Rubber",
+    "outer_material": "Rubber",
+    "lining": "Mesh",
+    "closure_type": "Lace-up",
+    "cushioning": "Helion superfoam in the CloudTec pods for superior cushioning in the urban environment.",
+    "breathability": "Breathable, engineered mesh upper designed for city running.",
+    "amazon_url": "https://amzn.to/4s0LhVX",
+    "price_min": 158.6,
+    "price_max": 180,
+    "currency": "USD",
+    "rating": 4.6,
+    "review_count": 1631,
+    "comfort_score": 90,
+    "durability_score": 85,
+    "breathability_score": 80,
+    "overall_score": 85,
+    "short_description": "Conquer the urban jungle with the On Men's Cloudswift Sneakers, a shoe meticulously engineered for the unique demands of city running. Unlike natural trails, pavement is hard, unforgiving, and unyielding. The Cloudswift is designed to be your personal shock absorber, turning harsh concrete into a soft, comfortable pathway. Its standout feature is the innovative Helion? superfoam, a high-performance material used exclusively in the CloudTec? pods. Helion? is uniquely formulated to remain soft and flexible in cold weather and stable in hot weather, providing consistent, superior cushioning no matter the conditions. The midsole also features a unique, integrated design that cradles the foot, offering enhanced stability and support on uneven city surfaces. The upper is constructed from a highly breathable, engineered mesh that is both durable and flexible, adapting to the foot's motion with every stride. Reflective details ensure you stay visible during early morning or late evening runs. Whether you're dodging crowds on a busy sidewalk or pounding the pavement on a long training run, the On Men's Cloudswift delivers the ultimate urban running experience, combining Swiss-engineered cushioning with the agility needed to navigate the city.",
+    "about_this_item": "Fabric: Performance mesh, Rubber sole, Reflective logo details, Tonal design, Rubber trim, Designed for running, Lace-up closure",
+    "primary_keyword": "Men's Fashion Sneakers",
+    "slug": "on-mens-cloudswift",
+    "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudswift.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61d3LHOODTL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61R6u2hxiVL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61cwdays2pL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61kMZrEwKSL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/310H-rC27FL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/31HogsfNtmL._AC_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61d3LHOODTL._AC_SX625_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0CLYXM9H1",
+      "name": "On Men's Cloudswift Sneakers",
+      "description": "Conquer the urban jungle with the On Men's Cloudswift Sneakers, a shoe meticulously engineered for the unique demands of city running. Unlike natural trails, pavement is hard, unforgiving, and unyielding. The Cloudswift is designed to be your personal shock absorber, turning harsh concrete into a soft, comfortable pathway. Its standout feature is the innovative Helion? superfoam, a high-performance material used exclusively in the CloudTec? pods. Helion? is uniquely formulated to remain soft and flexible in cold weather and stable in hot weather, providing consistent, superior cushioning no matter the conditions. The midsole also features a unique, integrated design that cradles the foot, offering enhanced stability and support on uneven city surfaces. The upper is constructed from a highly breathable, engineered mesh that is both durable and flexible, adapting to the foot's motion with every stride. Reflective details ensure you stay visible during early morning or late evening runs. Whether you're dodging crowds on a busy sidewalk or pounding the pavement on a long training run, the On Men's Cloudswift delivers the ultimate urban running experience, combining Swiss-engineered cushioning with the agility needed to navigate the city.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudswift.html",
+      "sku": "B0CLYXM9H1",
+      "mpn": "B0CLYXM9H2",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudswift.html",
+        "priceCurrency": "USD",
+        "price": 158.6,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 1631,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Performance mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1.75"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "90"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "85"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "80"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "85"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61d3LHOODTL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/61R6u2hxiVL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/61cwdays2pL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/61kMZrEwKSL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/310H-rC27FL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31HogsfNtmL._AC_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Men's Cloudswift Sneakers",
+            "item": "https://www.shoesonwhite.com/2026/02/on-mens-cloudswift.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
+  }
+}
