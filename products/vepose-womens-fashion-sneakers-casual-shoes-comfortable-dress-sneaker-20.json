@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B08XM4K566",
     "slug": "vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20",
-    "generated_at": "2026-02-15T18:02:08.225Z",
+    "generated_at": "2026-02-19T04:15:30.020Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "Vepose",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
-    "weight_lbs": "N/A",
     "upper_material": "Synthetic Leather",
     "sole_material": "Rubber",
     "outer_material": "Faux Leather",
     "lining": "Textile",
     "closure_type": "Lace-up",
-    "cushioning": "Memory Foam",
-    "breathability": "Medium",
+    "cushioning": "Plush memory foam insole molds to the foot for personalized, all-day comfort.",
+    "breathability": "Smooth vegan leather upper offers minimal breathability; perforations may be limited.",
     "amazon_url": "https://amzn.to/3O29P26",
     "price_min": 29.99,
     "price_max": 49.99,
     "currency": "USD",
     "rating": 4.1,
     "review_count": 1969,
-    "comfort_score": 72,
-    "durability_score": 75,
-    "breathability_score": 68,
-    "overall_score": 71.66666666666667,
-    "short_description": "Comfortable women's fashion sneakers made with vegan leather and memory foam insole.",
+    "comfort_score": 88,
+    "durability_score": 82,
+    "breathability_score": 70,
+    "overall_score": 80,
+    "short_description": "Elevate your casual style with the Vepose Women's Fashion Sneakers Casual Shoes Comfortable Dress Sneaker 2.0. These sneakers are expertly crafted for the woman who refuses to compromise between style and comfort. Featuring a chic, minimalist design, the upper is constructed from high-quality, animal-friendly vegan leather, offering a sleek, sophisticated look that effortlessly transitions from day to night. Whether paired with dresses, jeans, or work trousers, these dress sneakers add a touch of modern elegance to any outfit. The true comfort lies within, thanks to the plush memory foam insole that molds to the unique contours of your foot, providing personalized cushioning and all-day support. The lightweight, flexible construction ensures you stay comfortable on your feet, whether you're navigating a busy workday or exploring the city on the weekend. Step into the perfect fusion of fashion and function with Vepose, where every step feels as good as it looks.",
     "about_this_item": "Non-slip rubber sole; lightweight design; durable synthetic vegan leather; breathable upper; soft memory foam insole with approx. 1-inch heel",
     "primary_keyword": "shoes on white",
     "slug": "vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20",
@@ -60,7 +59,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B08XM4K566",
       "name": "Vepose Women's Fashion Sneakers Casual Shoes Comfortable Dress Sneaker 2.0",
-      "description": "Comfortable women's fashion sneakers made with vegan leather and memory foam insole.",
+      "description": "Elevate your casual style with the Vepose Women's Fashion Sneakers Casual Shoes Comfortable Dress Sneaker 2.0. These sneakers are expertly crafted for the woman who refuses to compromise between style and comfort. Featuring a chic, minimalist design, the upper is constructed from high-quality, animal-friendly vegan leather, offering a sleek, sophisticated look that effortlessly transitions from day to night. Whether paired with dresses, jeans, or work trousers, these dress sneakers add a touch of modern elegance to any outfit. The true comfort lies within, thanks to the plush memory foam insole that molds to the unique contours of your foot, providing personalized cushioning and all-day support. The lightweight, flexible construction ensures you stay comfortable on your feet, whether you're navigating a busy workday or exploring the city on the weekend. Step into the perfect fusion of fashion and function with Vepose, where every step feels as good as it looks.",
       "url": "https://www.shoesonwhite.com/2026/02/vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20.html",
       "sku": "B08XM4K566",
       "mpn": "B08XM4K567",
@@ -74,7 +73,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20.html",
         "priceCurrency": "USD",
         "price": 29.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -107,7 +106,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -122,22 +121,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "72"
+          "value": "88"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "75"
+          "value": "82"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "68"
+          "value": "70"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "71.66666666666667"
+          "value": "80"
         }
       ],
       "image": [
@@ -183,7 +182,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.388Z",
-    "last_updated": "2026-02-15T18:02:04.388Z"
+    "created_at": "2026-02-19T04:12:20.299Z",
+    "last_updated": "2026-02-19T04:12:20.299Z"
   }
 }
