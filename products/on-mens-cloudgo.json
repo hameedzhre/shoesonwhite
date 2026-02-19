@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "product_id": "B0B29M2ZHY",
+    "slug": "on-mens-cloudgo",
+    "generated_at": "2026-02-19T04:15:20.071Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-mens-cloudgo.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0B29M2ZHY",
+    "asin": "B0B29M2ZHY",
+    "product_title": "On Men's Cloudgo Sneakers",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Men",
+    "weight_lbs": 1.75,
+    "upper_material": "Synthetic Rubber",
+    "sole_material": "Synthetic Rubber",
+    "outer_material": "Rubber",
+    "lining": "Synthetic & Fabric",
+    "closure_type": "Lace-up",
+    "cushioning": "Soft, comfortable CloudTec cushioning for a smooth and easy ride.",
+    "breathability": "Breathable mesh upper for everyday comfort.",
+    "amazon_url": "https://amzn.to/4tJZVT6",
+    "price_min": 150,
+    "price_max": 169.9,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 902,
+    "comfort_score": 87,
+    "durability_score": 80,
+    "breathability_score": 78,
+    "overall_score": 81.66666666666667,
+    "short_description": "Embrace effortless, everyday comfort with the On Men's Cloudgo Sneakers. Designed as the perfect entry point into the world of On, the Cloudgo delivers the brand's signature soft, bouncy feel in a sleek, versatile package ideal for daily wear. It features the iconic CloudTec? outsole with individual pods that compress upon impact, providing a cushioned, comfortable landing with every step you take. This is paired with a smooth, seamless inner sleeve that offers a snug, sock-like fit, cradling your foot for all-day comfort without any irritation. The upper is constructed from a lightweight, breathable mesh that keeps your feet cool and fresh, while the clean, minimalist design ensures the Cloudgo pairs effortlessly with any casual outfit, from jeans to joggers. With its easy slip-on construction and reliable cushioning, the Cloudgo is the perfect companion for travel, running errands, or simply enjoying a comfortable day on your feet. Experience the joy of walking on clouds with the On Men's Cloudgo, where simplicity meets Swiss-engineered comfort.",
+    "about_this_item": "On, Mens Shoes, Running Shoes, Hay Sand",
+    "primary_keyword": "Men's Fashion Sneakers",
+    "slug": "on-mens-cloudgo",
+    "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudgo.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/71PRyDZreSL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/710c5xeA5oL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71PFQTSFy6L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71Dy6j4vRqL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/614Rfs03ozL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/71PRyDZreSL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0B29M2ZHY",
+      "name": "On Men's Cloudgo Sneakers",
+      "description": "Embrace effortless, everyday comfort with the On Men's Cloudgo Sneakers. Designed as the perfect entry point into the world of On, the Cloudgo delivers the brand's signature soft, bouncy feel in a sleek, versatile package ideal for daily wear. It features the iconic CloudTec? outsole with individual pods that compress upon impact, providing a cushioned, comfortable landing with every step you take. This is paired with a smooth, seamless inner sleeve that offers a snug, sock-like fit, cradling your foot for all-day comfort without any irritation. The upper is constructed from a lightweight, breathable mesh that keeps your feet cool and fresh, while the clean, minimalist design ensures the Cloudgo pairs effortlessly with any casual outfit, from jeans to joggers. With its easy slip-on construction and reliable cushioning, the Cloudgo is the perfect companion for travel, running errands, or simply enjoying a comfortable day on your feet. Experience the joy of walking on clouds with the On Men's Cloudgo, where simplicity meets Swiss-engineered comfort.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudgo.html",
+      "sku": "B0B29M2ZHY",
+      "mpn": "B0B29M2ZHY",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudgo.html",
+        "priceCurrency": "USD",
+        "price": 150,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 902,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Synthetic Rubber"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1.75"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "87"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "80"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "78"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "81.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/71PRyDZreSL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/710c5xeA5oL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71PFQTSFy6L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71Dy6j4vRqL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/614Rfs03ozL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Men's Cloudgo Sneakers",
+            "item": "https://www.shoesonwhite.com/2026/02/on-mens-cloudgo.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
+  }
+}
