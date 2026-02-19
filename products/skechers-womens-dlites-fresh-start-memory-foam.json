@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B014GNJWW7",
     "slug": "skechers-womens-dlites-fresh-start-memory-foam",
-    "generated_at": "2026-02-15T18:02:16.414Z",
+    "generated_at": "2026-02-19T04:15:40.439Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Skechers",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 1.9,
     "upper_material": "Synthetic Leather",
@@ -27,19 +27,19 @@
     "outer_material": "Synthetic",
     "lining": "Textile",
     "closure_type": "Lace-Up",
-    "cushioning": "Air-Cooled Memory Foam",
-    "breathability": "Medium",
+    "cushioning": "Signature Memory Foam insole provides plush, personalized cushioning for all-day wear.",
+    "breathability": "Synthetic leather and mesh upper offers moderate breathability; the chunky design prioritizes structure.",
     "amazon_url": "https://amzn.to/4bF6H6c",
     "price_min": 49.72,
     "price_max": 78,
     "currency": "USD",
     "rating": 4.6,
     "review_count": 37880,
-    "comfort_score": 85,
-    "durability_score": 77,
-    "breathability_score": 74,
-    "overall_score": 78.66666666666667,
-    "short_description": "Classic white chunky sneakers with memory foam cushioning designed for all-day comfort and casual wear.",
+    "comfort_score": 88,
+    "durability_score": 85,
+    "breathability_score": 60,
+    "overall_score": 77.66666666666667,
+    "short_description": "Embrace the iconic chunky sneaker trend with the Skechers Women's D'Lites Fresh Start Memory Foam Sneakers. These shoes are a modern take on a '90s classic, offering a bold, fashion-forward silhouette without compromising on all-day comfort. The D'Lites Fresh Start features a durable synthetic leather and mesh upper in a clean, crisp white colorway, accented with subtle Skechers detailing for a timeless, versatile look that pairs effortlessly with everything from jeans and leggings to dresses. The substantial, multi-layered midsole is the defining feature, providing a sturdy, supportive base with a stylish, retro vibe. Inside, the shoe is equipped with Skechers' signature Memory Foam cushioned insole, which molds to your foot's unique shape for personalized, plush comfort and support with every step. A flexible traction outsole ensures stability. Make a fresh start with the Skechers D'Lites, the ultimate chunky sneaker for the woman who wants to make a statement while enjoying premium comfort.",
     "about_this_item": "REVITALIZED CLASSIC STYLE with smooth leather and synthetic upper; CUSHIONED COMFORT using Air-Cooled Memory Foam insole; LIGHTWEIGHT shock-absorbing midsole; FLEXIBLE rubber traction outsole for durability and grip.",
     "primary_keyword": "skechers white sneakers",
     "slug": "skechers-womens-dlites-fresh-start-memory-foam",
@@ -61,7 +61,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B014GNJWW7",
       "name": "Skechers Women's D'Lites Fresh Start Memory Foam Sneakers",
-      "description": "Classic white chunky sneakers with memory foam cushioning designed for all-day comfort and casual wear.",
+      "description": "Embrace the iconic chunky sneaker trend with the Skechers Women's D'Lites Fresh Start Memory Foam Sneakers. These shoes are a modern take on a '90s classic, offering a bold, fashion-forward silhouette without compromising on all-day comfort. The D'Lites Fresh Start features a durable synthetic leather and mesh upper in a clean, crisp white colorway, accented with subtle Skechers detailing for a timeless, versatile look that pairs effortlessly with everything from jeans and leggings to dresses. The substantial, multi-layered midsole is the defining feature, providing a sturdy, supportive base with a stylish, retro vibe. Inside, the shoe is equipped with Skechers' signature Memory Foam cushioned insole, which molds to your foot's unique shape for personalized, plush comfort and support with every step. A flexible traction outsole ensures stability. Make a fresh start with the Skechers D'Lites, the ultimate chunky sneaker for the woman who wants to make a statement while enjoying premium comfort.",
       "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-dlites-fresh-start-memory-foam.html",
       "sku": "B014GNJWW7",
       "mpn": "B014GNJWW8",
@@ -75,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-dlites-fresh-start-memory-foam.html",
         "priceCurrency": "USD",
         "price": 49.72,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -128,22 +128,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "85"
+          "value": "88"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "77"
+          "value": "85"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "74"
+          "value": "60"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "78.66666666666667"
+          "value": "77.66666666666667"
         }
       ],
       "image": [
@@ -190,7 +190,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.390Z",
-    "last_updated": "2026-02-15T18:02:04.390Z"
+    "created_at": "2026-02-19T04:12:20.300Z",
+    "last_updated": "2026-02-19T04:12:20.300Z"
   }
 }
