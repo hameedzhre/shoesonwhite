@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B09537W3Q3",
     "slug": "veja-women-esplar-sneakers-extra",
-    "generated_at": "2026-02-15T18:02:09.430Z",
+    "generated_at": "2026-02-19T04:15:25.979Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Veja",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 1.94,
     "upper_material": "Leather (Chromefree)",
@@ -27,19 +27,19 @@
     "outer_material": "Leather",
     "lining": "Polyester",
     "closure_type": "Lace-Up",
-    "cushioning": "N/A",
-    "breathability": "N/A",
+    "cushioning": "Moderate cushioning from a padded collar and a simple, supportive insole.",
+    "breathability": "Chrome-free leather upper is premium but dense, offering limited airflow.",
     "amazon_url": "https://amzn.to/4r2m0L1",
     "price_min": 116.23,
     "price_max": 146,
     "currency": "USD",
     "rating": 4.3,
     "review_count": 1271,
-    "comfort_score": 65,
-    "durability_score": 85,
-    "breathability_score": 72,
-    "overall_score": 74,
-    "short_description": "Minimalist leather sneaker made with chrome-free leather.",
+    "comfort_score": 80,
+    "durability_score": 88,
+    "breathability_score": 60,
+    "overall_score": 76,
+    "short_description": "Make a responsible style statement with the Veja Women Esplar Sneakers in Extra White. These iconic sneakers are globally renowned for their timeless minimalist aesthetic and unwavering commitment to ethical and sustainable production. The clean, crisp Extra White upper is crafted from high-quality leather that is tanned using eco-friendly processes, specifically without the use of harmful chrome or heavy metals, reflecting Veja's dedication to reducing its environmental impact. The result is a premium, durable leather that develops a beautiful patina over time. The design is elegantly simple, featuring the brand's subtle V-logo and a classic vulcanized rubber sole, making them incredibly versatile and easy to style with everything from casual denim to flowy dresses. By choosing the Veja Esplar, you're not just investing in a timeless wardrobe staple; you're supporting a brand built on transparency, fair trade, and sustainable materials. Step into a shoe that looks good, feels good, and does good.",
     "about_this_item": "Outer Material: Chromefree Leather",
     "primary_keyword": "leather sneakers, minimalist sneakers",
     "slug": "veja-women-esplar-sneakers-extra",
@@ -61,7 +61,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B09537W3Q3",
       "name": "Veja Women Esplar Sneakers Extra White",
-      "description": "Minimalist leather sneaker made with chrome-free leather.",
+      "description": "Make a responsible style statement with the Veja Women Esplar Sneakers in Extra White. These iconic sneakers are globally renowned for their timeless minimalist aesthetic and unwavering commitment to ethical and sustainable production. The clean, crisp Extra White upper is crafted from high-quality leather that is tanned using eco-friendly processes, specifically without the use of harmful chrome or heavy metals, reflecting Veja's dedication to reducing its environmental impact. The result is a premium, durable leather that develops a beautiful patina over time. The design is elegantly simple, featuring the brand's subtle V-logo and a classic vulcanized rubber sole, making them incredibly versatile and easy to style with everything from casual denim to flowy dresses. By choosing the Veja Esplar, you're not just investing in a timeless wardrobe staple; you're supporting a brand built on transparency, fair trade, and sustainable materials. Step into a shoe that looks good, feels good, and does good.",
       "url": "https://www.shoesonwhite.com/2026/02/veja-women-esplar-sneakers-extra.html",
       "sku": "B09537W3Q3",
       "mpn": "B09537W3Q3",
@@ -75,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/veja-women-esplar-sneakers-extra.html",
         "priceCurrency": "USD",
         "price": 116.23,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -128,22 +128,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "65"
+          "value": "80"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "85"
+          "value": "88"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "72"
+          "value": "60"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "74"
+          "value": "76"
         }
       ],
       "image": [
@@ -190,7 +190,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.388Z",
-    "last_updated": "2026-02-15T18:02:04.388Z"
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
   }
 }
