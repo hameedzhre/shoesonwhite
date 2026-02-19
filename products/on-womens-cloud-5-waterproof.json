@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "product_id": "B0CGG1BT7N",
+    "slug": "on-womens-cloud-5-waterproof",
+    "generated_at": "2026-02-19T04:15:08.995Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-5-waterproof.html",
+      "gender": "https://www.shoesonwhite.com/p/women.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers.html"
+    }
+  },
+  "product": {
+    "product_id": "B0CGG1BT7N",
+    "asin": "B0CGG1BT7N",
+    "product_title": "On Women's Cloud 5 Waterproof Sneakers",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White",
+    "gender": "Women",
+    "weight_lbs": 1.5,
+    "upper_material": "Synthetic-and-mesh",
+    "sole_material": "Rubber",
+    "outer_material": "Performance mesh",
+    "lining": "-",
+    "closure_type": "Lace-up",
+    "cushioning": "Medium, all-day comfort with signature CloudTec pods.",
+    "breathability": "High, but with a waterproof membrane that can reduce airflow.",
+    "amazon_url": "https://amzn.to/3OOHMDC",
+    "price_min": 179,
+    "price_max": 179,
+    "currency": "USD",
+    "rating": 4.3,
+    "review_count": 1181,
+    "comfort_score": 93,
+    "durability_score": 91,
+    "breathability_score": 65,
+    "overall_score": 83,
+    "short_description": "Stay dry and comfortable without sacrificing style with the On Women's Cloud 5 Waterproof Sneakers. Building on the iconic Cloud 5 platform, this waterproof (WP) version is engineered to conquer wet weather while delivering the signature cloud-like feel. It retains all the core features that made the Cloud 5 a global phenomenon, including the plush CloudTec? pods for soft, bouncy cushioning and the lightweight Zero-Gravity foam for a responsive, airy ride. The key upgrade is the integration of an advanced, waterproof membrane within the breathable upper. This innovative material creates a barrier against rain and puddles, ensuring your feet stay perfectly dry in damp conditions, while still allowing for a degree of breathability. The speed-lacing system provides a quick, secure fit, and reflective details enhance your visibility on overcast days. Whether you're navigating a rainy commute, exploring a city on a drizzly day, or simply want a shoe that's ready for unpredictable weather, the On Women's Cloud 5 Waterproof delivers all-weather protection with the premium comfort and modern style you expect from On.",
+    "about_this_item": "Rubber sole, Wind and waterproof, Reflective detailing, Designed for everyday wear, Round toe",
+    "primary_keyword": "Cloud 5 Sneakers",
+    "slug": "on-womens-cloud-5-waterproof",
+    "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-5-waterproof.html",
+    "gender_url": "https://www.shoesonwhite.com/p/women.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61kgFV3dDFL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61jR7na-GGL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/71c9sCHAgQL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61p5EIaKjnL._AC_SY695_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61kgFV3dDFL._AC_SY695_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0CGG1BT7N",
+      "name": "On Women's Cloud 5 Waterproof Sneakers",
+      "description": "Stay dry and comfortable without sacrificing style with the On Women's Cloud 5 Waterproof Sneakers. Building on the iconic Cloud 5 platform, this waterproof (WP) version is engineered to conquer wet weather while delivering the signature cloud-like feel. It retains all the core features that made the Cloud 5 a global phenomenon, including the plush CloudTec? pods for soft, bouncy cushioning and the lightweight Zero-Gravity foam for a responsive, airy ride. The key upgrade is the integration of an advanced, waterproof membrane within the breathable upper. This innovative material creates a barrier against rain and puddles, ensuring your feet stay perfectly dry in damp conditions, while still allowing for a degree of breathability. The speed-lacing system provides a quick, secure fit, and reflective details enhance your visibility on overcast days. Whether you're navigating a rainy commute, exploring a city on a drizzly day, or simply want a shoe that's ready for unpredictable weather, the On Women's Cloud 5 Waterproof delivers all-weather protection with the premium comfort and modern style you expect from On.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-5-waterproof.html",
+      "sku": "B0CGG1BT7N",
+      "mpn": "B0CGG1BT7N",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-5-waterproof.html",
+        "priceCurrency": "USD",
+        "price": 179,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.3,
+        "reviewCount": 1181,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Synthetic-and-mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1.5"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "93"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "91"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "65"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "83"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61kgFV3dDFL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61jR7na-GGL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/71c9sCHAgQL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61p5EIaKjnL._AC_SY695_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Women's Cloud 5 Waterproof Sneakers",
+            "item": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-5-waterproof.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
+  }
+}
