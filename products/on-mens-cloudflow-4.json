@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "product_id": "B0DGQC9JD0",
+    "slug": "on-mens-cloudflow-4",
+    "generated_at": "2026-02-19T04:12:44.391Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-mens-cloudflow-4.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0DGQC9JD0",
+    "asin": "B0DGQC9JD1",
+    "product_title": "On Mens Cloudflow 4",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Men",
+    "weight_lbs": 3,
+    "upper_material": "Ethylene Vinyl Acetate",
+    "sole_material": "EVA",
+    "outer_material": "Mesh",
+    "lining": "Mesh",
+    "closure_type": "Lace-up",
+    "cushioning": "Helion superfoam and CloudTec for a lightweight, responsive, and cushioned ride.",
+    "breathability": "Engineered mesh upper is lightweight and highly breathable.",
+    "amazon_url": "https://amzn.to/4kISMOI",
+    "price_min": 94.99,
+    "price_max": 143.96,
+    "currency": "USD",
+    "rating": 4.6,
+    "review_count": 340,
+    "comfort_score": 87,
+    "durability_score": 83,
+    "breathability_score": 89,
+    "overall_score": 86.33333333333333,
+    "short_description": "Unleash your speed with the On Mens Cloudflow 4, a shoe designed for runners who crave a lightweight, responsive, and exhilarating ride. The Cloudflow series has always been about fast, fluid motion, and the 4th generation takes this to the next level with refined technology and a sleek new design. It features On's proprietary CloudTec? cushioning, crafted from the advanced Helion? superfoam. This innovative material provides the perfect balance of soft, impact-absorbing landings and a firm, propulsive toe-off, ensuring no energy is wasted. A full-length Speedboard? works in harmony with the pods, guiding your foot through a natural gait cycle and transforming the cushioning into forward motion for a snappy, efficient stride. The upper is constructed from a lightweight, single-layer mesh that is engineered for maximum breathability and a secure, adaptive fit. The result is a shoe that feels incredibly fast and agile, yet still provides the protection and comfort needed for daily training and even race day. If you're looking to log miles with a spring in your step and a feeling of effortless speed, the On Mens Cloudflow 4 is your perfect training partner.",
+    "about_this_item": "Lightweight: Effortlessly agile, Responsive: Reacts swiftly to your movements, Swift: Designed for speed, Versatile: From training to competition, experience the speed democratizer",
+    "primary_keyword": "Men's Road Running Shoes",
+    "slug": "on-mens-cloudflow-4",
+    "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudflow-4.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61s-1NDKPnL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61jNx3ZLo6L._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61HfFQU7mdL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61k+Amwf2nL._AC_SX625_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61s-1NDKPnL._AC_SX625_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0DGQC9JD0",
+      "name": "On Mens Cloudflow 4",
+      "description": "Unleash your speed with the On Mens Cloudflow 4, a shoe designed for runners who crave a lightweight, responsive, and exhilarating ride. The Cloudflow series has always been about fast, fluid motion, and the 4th generation takes this to the next level with refined technology and a sleek new design. It features On's proprietary CloudTec? cushioning, crafted from the advanced Helion? superfoam. This innovative material provides the perfect balance of soft, impact-absorbing landings and a firm, propulsive toe-off, ensuring no energy is wasted. A full-length Speedboard? works in harmony with the pods, guiding your foot through a natural gait cycle and transforming the cushioning into forward motion for a snappy, efficient stride. The upper is constructed from a lightweight, single-layer mesh that is engineered for maximum breathability and a secure, adaptive fit. The result is a shoe that feels incredibly fast and agile, yet still provides the protection and comfort needed for daily training and even race day. If you're looking to log miles with a spring in your step and a feeling of effortless speed, the On Mens Cloudflow 4 is your perfect training partner.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudflow-4.html",
+      "sku": "B0DGQC9JD0",
+      "mpn": "B0DGQC9JD1",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudflow-4.html",
+        "priceCurrency": "USD",
+        "price": 94.99,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 340,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Ethylene Vinyl Acetate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "3"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "87"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "83"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "89"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "86.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61s-1NDKPnL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/61jNx3ZLo6L._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/61HfFQU7mdL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/61k+Amwf2nL._AC_SX625_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Mens Cloudflow 4",
+            "item": "https://www.shoesonwhite.com/2026/02/on-mens-cloudflow-4.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
+  }
+}
