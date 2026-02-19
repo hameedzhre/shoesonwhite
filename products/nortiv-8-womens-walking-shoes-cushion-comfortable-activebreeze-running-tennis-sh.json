@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0DCBT6146",
     "slug": "nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh",
-    "generated_at": "2026-02-15T18:02:30.316Z",
+    "generated_at": "2026-02-19T04:12:49.100Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "NORTIV 8",
     "category": "Shoes",
     "subcategory": "Athletic",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
-    "weight_lbs": "N/A",
     "upper_material": "Mesh",
     "sole_material": "EVA, Rubber",
     "outer_material": "Mesh",
     "lining": "Lycra Mesh",
     "closure_type": "Lace-Up",
-    "cushioning": "Thick EVA midsole, Cushioned",
-    "breathability": "Breathable Mesh, 3M reflective strip",
+    "cushioning": "Plush, cushioned insole and a lightweight, responsive midsole deliver superior shock absorption and energy return.",
+    "breathability": "Breathable mesh upper with a modern pattern promotes maximum ventilation.",
     "amazon_url": "https://amzn.to/4a7AeTq",
     "price_min": 69.99,
     "price_max": 69.99,
     "currency": "USD",
     "rating": 4.3,
     "review_count": 2514,
-    "comfort_score": 86,
-    "durability_score": 70,
-    "breathability_score": 87,
-    "overall_score": 81,
-    "short_description": "Cushioned walking/running shoe with breathable mesh and reflective detail.",
+    "comfort_score": 88,
+    "durability_score": 80,
+    "breathability_score": 88,
+    "overall_score": 85.33333333333333,
+    "short_description": "Experience the ultimate in cushioned comfort and breathable performance with the NORTIV 8 Women's Walking Shoes. Designed for the active woman, these versatile ActiveBreeze sneakers are engineered to keep you comfortable and supported during walks, runs, gym workouts, and everyday activities. The upper features a breathable mesh material with a stylish, modern pattern, promoting maximum airflow to keep your feet cool and dry even during intense exercise. The lace-up closure allows for a secure, customized fit. Inside, a plush, cushioned insole provides exceptional shock absorption and all-day comfort. The shoe's defining feature is its lightweight, responsive midsole that delivers a soft, energetic feel with every step. The durable, non-slip outsole is designed for reliable traction on various surfaces, from pavement to gym floors. Reflective details enhance your visibility during early morning or evening activities. For a walking shoe that combines superior cushioning, breathable comfort, and athletic style, the NORTIV 8 ActiveBreeze is the perfect choice.",
     "about_this_item": "Exceptional Cushioning... Breathable & Lightweight... Confident & Stable... Stylish & Protective... For Everyday Activities...",
     "primary_keyword": "walking shoes, athletic sneakers",
     "slug": "nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh",
@@ -61,7 +60,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0DCBT6146",
       "name": "NORTIV 8 Women's Walking Shoes Cushion Comfortable ActiveBreeze Running Tennis Shoes Non-Slip Workout Gym Sports Athletic Breathable Fashion Sneakers",
-      "description": "Cushioned walking/running shoe with breathable mesh and reflective detail.",
+      "description": "Experience the ultimate in cushioned comfort and breathable performance with the NORTIV 8 Women's Walking Shoes. Designed for the active woman, these versatile ActiveBreeze sneakers are engineered to keep you comfortable and supported during walks, runs, gym workouts, and everyday activities. The upper features a breathable mesh material with a stylish, modern pattern, promoting maximum airflow to keep your feet cool and dry even during intense exercise. The lace-up closure allows for a secure, customized fit. Inside, a plush, cushioned insole provides exceptional shock absorption and all-day comfort. The shoe's defining feature is its lightweight, responsive midsole that delivers a soft, energetic feel with every step. The durable, non-slip outsole is designed for reliable traction on various surfaces, from pavement to gym floors. Reflective details enhance your visibility during early morning or evening activities. For a walking shoe that combines superior cushioning, breathable comfort, and athletic style, the NORTIV 8 ActiveBreeze is the perfect choice.",
       "url": "https://www.shoesonwhite.com/2026/02/nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh.html",
       "sku": "B0DCBT6146",
       "mpn": "B0DCBT6147",
@@ -75,7 +74,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/nortiv-8-womens-walking-shoes-cushion-comfortable-activebreeze-running-tennis-sh.html",
         "priceCurrency": "USD",
         "price": 69.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +107,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -123,22 +122,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "86"
+          "value": "88"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "70"
+          "value": "80"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "87"
+          "value": "88"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "81"
+          "value": "85.33333333333333"
         }
       ],
       "image": [
@@ -185,7 +184,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.391Z",
-    "last_updated": "2026-02-15T18:02:04.391Z"
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
   }
 }
