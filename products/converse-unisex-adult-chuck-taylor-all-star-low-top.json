@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B000OLVQ6M",
     "slug": "converse-unisex-adult-chuck-taylor-all-star-low-top",
-    "generated_at": "2026-02-15T18:02:44.588Z",
+    "generated_at": "2026-02-19T04:15:44.693Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "Converse",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Unisex",
-    "weight_lbs": "N/A",
     "upper_material": "Canvas",
     "sole_material": "Rubber (diamond-pattern outsole)",
     "outer_material": "Canvas",
     "lining": "Textile/canvas",
     "closure_type": "Lace-up",
-    "cushioning": "OrthoLite insole",
-    "breathability": "Moderate (canvas + eyelet ventilation)",
+    "cushioning": "Lightly padded insole and cotton canvas lining offer basic, traditional comfort.",
+    "breathability": "Classic canvas upper provides moderate, natural breathability.",
     "amazon_url": "https://amzn.to/4r2qPUD",
     "price_min": 59.99,
     "price_max": 59.99,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 27190,
-    "comfort_score": 81,
-    "durability_score": 75,
-    "breathability_score": 75,
-    "overall_score": 77,
-    "short_description": "Classic low-top canvas sneaker ? iconic, versatile, runs large (order ? size down)",
+    "comfort_score": 75,
+    "durability_score": 80,
+    "breathability_score": 70,
+    "overall_score": 75,
+    "short_description": "Step into an icon of global style with the Converse Unisex Adult Chuck Taylor All Star Low Top Sneaker. For over a century, the Chuck Taylor All Star has transcended its basketball court origins to become one of the most recognizable and beloved sneakers in the world. This classic low-top silhouette features a simple, durable canvas upper that provides a lightweight, breathable fit. Its timeless, minimalist design is a blank canvas for self-expression, pairing effortlessly with everything from jeans and shorts to dresses and skirts, making it a true wardrobe staple for all ages and styles. The signature details include the rubber toe cap, vulcanized rubber sole for flexibility and traction, and the iconic All Star ankle patch. A cotton canvas lining provides added comfort. Please note that this style is known to run large; it is often recommended to order a half size down from your usual size for the best fit. Own a piece of history with the Converse Chuck Taylor All Star.",
     "about_this_item": "? Canvas upper for classic Chucks look & feel ? OrthoLite cushioning for optimal comfort ? Diamond-pattern rubber outsole ? Iconic All Star license plate",
     "primary_keyword": "Converse Chuck Taylor All Star Low Top Optical White",
     "slug": "converse-unisex-adult-chuck-taylor-all-star-low-top",
@@ -61,7 +60,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B000OLVQ6M",
       "name": "Converse Unisex Adult Chuck Taylor All Star Low Top Sneaker",
-      "description": "Classic low-top canvas sneaker ? iconic, versatile, runs large (order ? size down)",
+      "description": "Step into an icon of global style with the Converse Unisex Adult Chuck Taylor All Star Low Top Sneaker. For over a century, the Chuck Taylor All Star has transcended its basketball court origins to become one of the most recognizable and beloved sneakers in the world. This classic low-top silhouette features a simple, durable canvas upper that provides a lightweight, breathable fit. Its timeless, minimalist design is a blank canvas for self-expression, pairing effortlessly with everything from jeans and shorts to dresses and skirts, making it a true wardrobe staple for all ages and styles. The signature details include the rubber toe cap, vulcanized rubber sole for flexibility and traction, and the iconic All Star ankle patch. A cotton canvas lining provides added comfort. Please note that this style is known to run large; it is often recommended to order a half size down from your usual size for the best fit. Own a piece of history with the Converse Chuck Taylor All Star.",
       "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top.html",
       "sku": "B000OLVQ6M",
       "mpn": "B000OLVQ6M",
@@ -75,7 +74,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top.html",
         "priceCurrency": "USD",
         "price": 59.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +107,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -123,22 +122,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "81"
+          "value": "75"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "75"
+          "value": "80"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "75"
+          "value": "70"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "77"
+          "value": "75"
         }
       ],
       "image": [
@@ -185,7 +184,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.392Z",
-    "last_updated": "2026-02-15T18:02:04.392Z"
+    "created_at": "2026-02-19T04:12:20.300Z",
+    "last_updated": "2026-02-19T04:12:20.300Z"
   }
 }
