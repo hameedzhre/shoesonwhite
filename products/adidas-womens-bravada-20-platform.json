@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B09Y2VHQ90",
     "slug": "adidas-womens-bravada-20-platform",
-    "generated_at": "2026-02-15T18:02:51.146Z",
+    "generated_at": "2026-02-19T04:15:22.038Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -16,10 +16,10 @@
     "product_id": "B09Y2VHQ90",
     "asin": "B09Y2VHQ91",
     "product_title": "Adidas Women's Bravada 2.0 Platform Sneakers",
-    "brand": "adidas",
+    "brand": "Adidas",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 1,
     "upper_material": "Canvas",
@@ -27,19 +27,19 @@
     "outer_material": "Rubber",
     "lining": "Textile",
     "closure_type": "Lace-Up",
-    "cushioning": "Cloudfoam Midsole",
-    "breathability": "N/A",
+    "cushioning": "Signature Cloudfoam cushioning delivers plush, step-in comfort that lasts all day.",
+    "breathability": "Durable canvas upper is breathable, offering good airflow for a casual sneaker.",
     "amazon_url": "https://amzn.to/4r0bfIV",
     "price_min": 45.49,
     "price_max": 70,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 3341,
-    "comfort_score": 83,
-    "durability_score": 88,
-    "breathability_score": 88,
-    "overall_score": 86.33333333333333,
-    "short_description": "Canvas platform sneaker with Cloudfoam cushioning.",
+    "comfort_score": 84,
+    "durability_score": 82,
+    "breathability_score": 62,
+    "overall_score": 76,
+    "short_description": "Elevate your casual style with the Adidas Women's Bravada 2.0 Platform Sneakers. These fashion-forward shoes take a classic tennis-inspired silhouette and give it a modern lift, creating the perfect blend of retro charm and contemporary edge. The upper is crafted from durable canvas, offering a lightweight, breathable, and flexible fit that's perfect for everyday wear. The clean, minimalist design is versatile enough to pair with everything from jeans and joggers to dresses and skirts. The defining feature is the bold platform midsole, which adds a stylish lift while providing a stable, comfortable base for all-day wear. Inside, the shoe is equipped with adidas' signature Cloudfoam cushioning, delivering plush, step-in comfort that keeps your feet feeling great with every step. The durable rubber outsole ensures reliable traction. For a sneaker that combines vintage style, platform attitude, and premium comfort, the Adidas Bravada 2.0 is the perfect choice.",
     "about_this_item": "Women's canvas shoes bring an edgy vibe to casual everyday wear... SNUG FIT... CUSHIONED MIDSOLE... RUBBER OUTSOLE... WE PARTNER WITH BETTER COTTON...",
     "primary_keyword": "platform sneakers, casual sneakers",
     "slug": "adidas-womens-bravada-20-platform",
@@ -61,13 +61,13 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B09Y2VHQ90",
       "name": "Adidas Women's Bravada 2.0 Platform Sneakers",
-      "description": "Canvas platform sneaker with Cloudfoam cushioning.",
+      "description": "Elevate your casual style with the Adidas Women's Bravada 2.0 Platform Sneakers. These fashion-forward shoes take a classic tennis-inspired silhouette and give it a modern lift, creating the perfect blend of retro charm and contemporary edge. The upper is crafted from durable canvas, offering a lightweight, breathable, and flexible fit that's perfect for everyday wear. The clean, minimalist design is versatile enough to pair with everything from jeans and joggers to dresses and skirts. The defining feature is the bold platform midsole, which adds a stylish lift while providing a stable, comfortable base for all-day wear. Inside, the shoe is equipped with adidas' signature Cloudfoam cushioning, delivering plush, step-in comfort that keeps your feet feeling great with every step. The durable rubber outsole ensures reliable traction. For a sneaker that combines vintage style, platform attitude, and premium comfort, the Adidas Bravada 2.0 is the perfect choice.",
       "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-bravada-20-platform.html",
       "sku": "B09Y2VHQ90",
       "mpn": "B09Y2VHQ91",
       "brand": {
         "@type": "Brand",
-        "name": "adidas",
+        "name": "Adidas",
         "url": "https://www.shoesonwhite.com/p/adidas.html"
       },
       "offers": {
@@ -75,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-bravada-20-platform.html",
         "priceCurrency": "USD",
         "price": 45.49,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -128,22 +128,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "83"
+          "value": "84"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "88"
+          "value": "82"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "88"
+          "value": "62"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "86.33333333333333"
+          "value": "76"
         }
       ],
       "image": [
@@ -172,7 +172,7 @@
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "adidas",
+            "name": "Adidas",
             "item": "https://www.shoesonwhite.com/p/adidas.html"
           },
           {
@@ -190,7 +190,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.392Z",
-    "last_updated": "2026-02-15T18:02:04.392Z"
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
   }
 }
