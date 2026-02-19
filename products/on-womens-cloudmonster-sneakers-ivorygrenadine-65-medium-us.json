@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "product_id": "B0DMD414XY",
+    "slug": "on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us",
+    "generated_at": "2026-02-19T04:12:41.226Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us.html",
+      "gender": "https://www.shoesonwhite.com/p/women.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers.html"
+    }
+  },
+  "product": {
+    "product_id": "B0DMD414XY",
+    "asin": "B0DMD414XY",
+    "product_title": "On Women's Cloudmonster Sneakers, Ivory/Grenadine, 6.5 Medium US",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White",
+    "gender": "Women",
+    "weight_lbs": 1.75,
+    "upper_material": "Performance Mesh",
+    "sole_material": "Rubber",
+    "outer_material": "Performance Mesh",
+    "lining": "Soft Fabric",
+    "closure_type": "Lace-Up",
+    "cushioning": "High level of Helion superfoam cushioning for maximum impact protection.",
+    "breathability": "High, with a well-ventilated upper to keep feet cool.",
+    "amazon_url": "https://amzn.to/4aDOPpV",
+    "price_min": 180.25,
+    "price_max": 180.25,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 746,
+    "comfort_score": 88,
+    "durability_score": 85,
+    "breathability_score": 87,
+    "overall_score": 86.66666666666667,
+    "short_description": "Unleash your energy with the On Women's Cloudmonster Sneakers in Ivory/Grenadine, a stunning and powerful shoe designed for those who demand maximum cushioning with an exhilarating, bouncy feel. Available in a versatile 6.5 Medium US size, this sneaker combines a clean Ivory upper with vibrant Grenadine pink accents for a look that's both sophisticated and bold. The Cloudmonster is renowned for its most distinctive feature: the largest CloudTec? pods ever created by On. These massive, visible pods are engineered to provide an unprecedented level of impact absorption, making every landing feel incredibly soft and protected. The magic continues on toe-off, as the pods, combined with a specially tuned Speedboard?, create a powerful, propulsive sensation, launching you forward with a unique, energetic bounce. This \"monster\" ride is both incredibly cushioned and surprisingly responsive, making long distances feel effortless. The upper is crafted from a lightweight, highly breathable mesh that offers a comfortable, secure fit. For those seeking the ultimate in cushioned, energetic comfort with standout style, the On Women's Cloudmonster in Ivory/Grenadine is the perfect choice.",
+    "about_this_item": "Rubber sole; Cushioned collar and tongue; Removable insole; Designed for running; Round toe.",
+    "primary_keyword": "On Women's Cloudmonster Sneakers",
+    "slug": "on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us",
+    "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us.html",
+    "gender_url": "https://www.shoesonwhite.com/p/women.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51bzMJrAtRL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/518wskzZh4L._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61WynNQlkUL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/71Tpfw8--QL._AC_SY695_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51bzMJrAtRL._AC_SY695_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0DMD414XY",
+      "name": "On Women's Cloudmonster Sneakers, Ivory/Grenadine, 6.5 Medium US",
+      "description": "Unleash your energy with the On Women's Cloudmonster Sneakers in Ivory/Grenadine, a stunning and powerful shoe designed for those who demand maximum cushioning with an exhilarating, bouncy feel. Available in a versatile 6.5 Medium US size, this sneaker combines a clean Ivory upper with vibrant Grenadine pink accents for a look that's both sophisticated and bold. The Cloudmonster is renowned for its most distinctive feature: the largest CloudTec? pods ever created by On. These massive, visible pods are engineered to provide an unprecedented level of impact absorption, making every landing feel incredibly soft and protected. The magic continues on toe-off, as the pods, combined with a specially tuned Speedboard?, create a powerful, propulsive sensation, launching you forward with a unique, energetic bounce. This \"monster\" ride is both incredibly cushioned and surprisingly responsive, making long distances feel effortless. The upper is crafted from a lightweight, highly breathable mesh that offers a comfortable, secure fit. For those seeking the ultimate in cushioned, energetic comfort with standout style, the On Women's Cloudmonster in Ivory/Grenadine is the perfect choice.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us.html",
+      "sku": "B0DMD414XY",
+      "mpn": "B0DMD414XY",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us.html",
+        "priceCurrency": "USD",
+        "price": 180.25,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 746,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Performance Mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-Up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1.75"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "88"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "85"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "87"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "86.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51bzMJrAtRL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/518wskzZh4L._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61WynNQlkUL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/71Tpfw8--QL._AC_SY695_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Women's Cloudmonster Sneakers, Ivory/Grenadine, 6.5 Medium US",
+            "item": "https://www.shoesonwhite.com/2026/02/on-womens-cloudmonster-sneakers-ivorygrenadine-65-medium-us.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
+  }
+}
