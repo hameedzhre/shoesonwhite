@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0BWTDFGBF",
     "slug": "nike-womens-court-legacy-lift",
-    "generated_at": "2026-02-15T18:02:31.275Z",
+    "generated_at": "2026-02-19T04:15:14.410Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "Nike",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
-    "weight_lbs": "N/A",
     "upper_material": "N/A",
     "sole_material": "Rubber",
     "outer_material": "N/A",
     "lining": "N/A",
     "closure_type": "Lace-Up",
-    "cushioning": "Padded (heel & tongue), Platform Midsole",
-    "breathability": "N/A",
+    "cushioning": "Soft foam sockliner provides plush, step-in comfort for all-day wear, enhanced by the padded collar.",
+    "breathability": "Combination of leather and synthetic materials offers limited breathability.",
     "amazon_url": "https://amzn.to/4kugYEI",
     "price_min": 95,
     "price_max": 95,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 2233,
-    "comfort_score": 87,
-    "durability_score": 82,
-    "breathability_score": 60,
-    "overall_score": 76.33333333333333,
-    "short_description": "Platform sneaker with a classic, easy-to-wear design and padded comfort.",
+    "comfort_score": 84,
+    "durability_score": 85,
+    "breathability_score": 58,
+    "overall_score": 75.66666666666667,
+    "short_description": "Elevate your classic style with the Nike Women's Court Legacy Lift Shoes. These sneakers take inspiration from Nike's rich tennis heritage and give it a modern, fashion-forward update with a lifted platform sole. The upper features a combination of smooth leather and durable synthetic materials, offering a premium look and a clean, versatile aesthetic that pairs easily with everything from jeans to dresses. The design is punctuated with heritage-inspired details, including stitched overlays and a retro Nike logo on the tongue. The defining feature is the substantial, yet lightweight, platform midsole. This lift adds a bold, contemporary touch while providing a stable and comfortable base for all-day wear. A padded collar and soft foam sockliner ensure plush comfort with every step. The durable rubber outsole with a classic herringbone pattern pays homage to its court-shoe roots. Step into a timeless silhouette reimagined for today with the Nike Court Legacy Lift.",
     "about_this_item": "Elevate your style with the Nike Court Legacy Lift. Its platform midsole delivers a bold statement... Subtly layered upper... Rubber outsole... Padded heel and plush tongue...",
     "primary_keyword": "platform sneakers, fashion sneakers",
     "slug": "nike-womens-court-legacy-lift",
@@ -61,7 +60,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0BWTDFGBF",
       "name": "Nike Women's Court Legacy Lift Shoes",
-      "description": "Platform sneaker with a classic, easy-to-wear design and padded comfort.",
+      "description": "Elevate your classic style with the Nike Women's Court Legacy Lift Shoes. These sneakers take inspiration from Nike's rich tennis heritage and give it a modern, fashion-forward update with a lifted platform sole. The upper features a combination of smooth leather and durable synthetic materials, offering a premium look and a clean, versatile aesthetic that pairs easily with everything from jeans to dresses. The design is punctuated with heritage-inspired details, including stitched overlays and a retro Nike logo on the tongue. The defining feature is the substantial, yet lightweight, platform midsole. This lift adds a bold, contemporary touch while providing a stable and comfortable base for all-day wear. A padded collar and soft foam sockliner ensure plush comfort with every step. The durable rubber outsole with a classic herringbone pattern pays homage to its court-shoe roots. Step into a timeless silhouette reimagined for today with the Nike Court Legacy Lift.",
       "url": "https://www.shoesonwhite.com/2026/02/nike-womens-court-legacy-lift.html",
       "sku": "B0BWTDFGBF",
       "mpn": "B0BWTDFGBF",
@@ -75,7 +74,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/nike-womens-court-legacy-lift.html",
         "priceCurrency": "USD",
         "price": 95,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +107,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -118,22 +117,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "87"
+          "value": "84"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "82"
+          "value": "85"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "60"
+          "value": "58"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "76.33333333333333"
+          "value": "75.66666666666667"
         }
       ],
       "image": [
@@ -180,7 +179,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.391Z",
-    "last_updated": "2026-02-15T18:02:04.391Z"
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
   }
 }
