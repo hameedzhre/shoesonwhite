@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "product_id": "B0F8JF6VQW",
+    "slug": "skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid",
+    "generated_at": "2026-02-19T04:12:39.509Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid.html",
+      "gender": "https://www.shoesonwhite.com/p/unisex.html",
+      "brand": "https://www.shoesonwhite.com/p/skechers.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0F8JF6VQW",
+    "asin": "B0F8JF6VQW",
+    "product_title": "Skechers Girls Uno Gen1 - Shimmer Away Sneaker, White, 6.5 Big Kid",
+    "brand": "Skechers",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Unisex",
+    "upper_material": "Synthetic duraleather with metallic trim",
+    "sole_material": "Ethylene Vinyl Acetate",
+    "outer_material": "Polyurethane (PU)",
+    "lining": "Not Specified",
+    "closure_type": "Lace-Up",
+    "cushioning": "Air-Cooled Memory Foam insole and a Skech-Air airbag midsole for visible, bouncy cushioning.",
+    "breathability": "Medium, with a synthetic and mesh upper that provides some ventilation.",
+    "amazon_url": "https://amzn.to/4kJmuDf",
+    "price_min": 62,
+    "price_max": 62,
+    "currency": "USD",
+    "rating": 4.7,
+    "review_count": 743,
+    "comfort_score": 84,
+    "durability_score": 70,
+    "breathability_score": 65,
+    "overall_score": 73,
+    "short_description": "Let her style shine with the Skechers Girls Uno Gen1 - Shimmer Away Sneaker. Designed for the fashion-forward big kid, these sneakers in a clean White, size 6.5, are all about fun, flair, and fantastic comfort. The shoe features a durable synthetic and mesh upper that sparkles with shimmering details, making them the perfect choice for adding a touch of glam to any outfit. But the Uno Gen1 isn't just about looks; it's packed with Skechers' signature comfort technologies. The Air-Cooled Memory Foam insole provides luxurious, cushioned comfort that molds to her foot, while the visible Skech-Air airbag in the midsole offers a bouncy, energetic feel with every step. The flexible traction outsole ensures stability and durability for all-day play. Whether she's heading to school, a playdate, or a family outing, the Skechers Girls Uno Gen1 - Shimmer Away Sneaker delivers the perfect combination of standout style and all-day comfort she'll love.",
+    "about_this_item": "PREMIUM COMFORT AND STYLE: Air-Cooled Memory Foam insole and Skech-Air airbag midsole provide superior cushioning for all-day comfort in these fashion sneakers. DURABLE CONSTRUCTION: Synthetic duraleather upper with metallic trim offers lasting durability while maintaining a fashionable appearance. SECURE FIT: Traditional lace-up closure ensures a customizable and secure fit for active lifestyles. RELIABLE TRACTION: Flexible traction outsole provides stable footing and durability for everyday wear. VERSATILE DESIGN: 1 1/2-inch heel and low-top design make these shoes perfect for both casual and athletic activities.",
+    "primary_keyword": "skechers white shoes unisex",
+    "slug": "skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid",
+    "url": "https://www.shoesonwhite.com/2026/02/skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid.html",
+    "gender_url": "https://www.shoesonwhite.com/p/unisex.html",
+    "brand_url": "https://www.shoesonwhite.com/p/skechers.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/71wez6Xh0BL._AC_UY575_.png",
+      "https://m.media-amazon.com/images/I/71BfLAQ4eLL._AC_SX695_.jpg",
+      "https://m.media-amazon.com/images/I/7190t2fYeqL._AC_SX695_.jpg",
+      "https://m.media-amazon.com/images/I/71dl6-OntOL._AC_SX695_.jpg",
+      "https://m.media-amazon.com/images/I/71PJxWyKq+L._AC_SX695_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/71wez6Xh0BL._AC_UY575_.png",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0F8JF6VQW",
+      "name": "Skechers Girls Uno Gen1 - Shimmer Away Sneaker, White, 6.5 Big Kid",
+      "description": "Let her style shine with the Skechers Girls Uno Gen1 - Shimmer Away Sneaker. Designed for the fashion-forward big kid, these sneakers in a clean White, size 6.5, are all about fun, flair, and fantastic comfort. The shoe features a durable synthetic and mesh upper that sparkles with shimmering details, making them the perfect choice for adding a touch of glam to any outfit. But the Uno Gen1 isn't just about looks; it's packed with Skechers' signature comfort technologies. The Air-Cooled Memory Foam insole provides luxurious, cushioned comfort that molds to her foot, while the visible Skech-Air airbag in the midsole offers a bouncy, energetic feel with every step. The flexible traction outsole ensures stability and durability for all-day play. Whether she's heading to school, a playdate, or a family outing, the Skechers Girls Uno Gen1 - Shimmer Away Sneaker delivers the perfect combination of standout style and all-day comfort she'll love.",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid.html",
+      "sku": "B0F8JF6VQW",
+      "mpn": "B0F8JF6VQW",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skechers",
+        "url": "https://www.shoesonwhite.com/p/skechers.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid.html",
+        "priceCurrency": "USD",
+        "price": 62,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.7,
+        "reviewCount": 743,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Synthetic duraleather with metallic trim"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-Up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "84"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "70"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "65"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "73"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/71wez6Xh0BL._AC_UY575_.png",
+        "https://m.media-amazon.com/images/I/71BfLAQ4eLL._AC_SX695_.jpg",
+        "https://m.media-amazon.com/images/I/7190t2fYeqL._AC_SX695_.jpg",
+        "https://m.media-amazon.com/images/I/71dl6-OntOL._AC_SX695_.jpg",
+        "https://m.media-amazon.com/images/I/71PJxWyKq+L._AC_SX695_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unisex",
+            "item": "https://www.shoesonwhite.com/p/unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Skechers",
+            "item": "https://www.shoesonwhite.com/p/skechers.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Skechers Girls Uno Gen1 - Shimmer Away Sneaker, White, 6.5 Big Kid",
+            "item": "https://www.shoesonwhite.com/2026/02/skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
+  }
+}
