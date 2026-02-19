@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "product_id": "B0FCG939QG",
+    "slug": "on-mens-the-roger-advantage-1",
+    "generated_at": "2026-02-19T04:12:30.336Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-mens-the-roger-advantage-1.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers.html"
+    }
+  },
+  "product": {
+    "product_id": "B0FCG939QG",
+    "asin": "B0FCG939QG",
+    "product_title": "On Mens The Roger Advantage 1",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White",
+    "gender": "Men",
+    "sole_material": "Rubber",
+    "outer_material": "Faux Leather",
+    "lining": "Recycled Polyester",
+    "closure_type": "Lace-up",
+    "cushioning": "Lightweight and comfortable for all-day wear, with a focus on casual use.",
+    "breathability": "Features a leather upper which offers limited airflow.",
+    "amazon_url": "https://amzn.to/4bX99VL",
+    "price_min": 119,
+    "price_max": 174.77,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 293,
+    "comfort_score": 90,
+    "durability_score": 85,
+    "breathability_score": 75,
+    "overall_score": 83.33333333333333,
+    "short_description": "Step onto the court and into the spotlight with the On Mens The Roger Advantage 1, a premium lifestyle sneaker co-created with tennis legend Roger Federer. This shoe masterfully blends the classic aesthetic of a heritage tennis court shoe with the innovative, lightweight technology that On is renowned for. The upper is crafted from soft, premium leather, offering a sophisticated and clean look that pairs effortlessly with any casual outfit. However, beneath its timeless exterior lies a modern performance sole, featuring On's unique CloudTec? pods. This provides surprising flexibility and a soft, cushioned landing that you simply won't find in traditional tennis sneakers. A hidden Speedboard? inside the shoe promotes a natural, rolling motion, making The Roger Advantage incredibly comfortable for all-day wear. The removable insole allows for a customized fit, while the perforated details ensure a degree of breathability. Whether you're a tennis aficionado or simply appreciate minimalist design and superior comfort, The Roger Advantage 1 delivers a winning combination of style and substance, embodying Roger Federer's elegance and On's commitment to game-changing performance.",
+    "about_this_item": "Rubber sole, Designed for everyday wear, Perforated details, Padded collar and tongue, Round toe",
+    "primary_keyword": "Men's Fashion Sneakers",
+    "slug": "on-mens-the-roger-advantage-1",
+    "url": "https://www.shoesonwhite.com/2026/02/on-mens-the-roger-advantage-1.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/418JZrlXrOL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/41sTvjo27tL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/51F-FwkFDyL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/51w6seSOLvL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/41rkU1PiSTL._AC_SX625_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/418JZrlXrOL._AC_SX625_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0FCG939QG",
+      "name": "On Mens The Roger Advantage 1",
+      "description": "Step onto the court and into the spotlight with the On Mens The Roger Advantage 1, a premium lifestyle sneaker co-created with tennis legend Roger Federer. This shoe masterfully blends the classic aesthetic of a heritage tennis court shoe with the innovative, lightweight technology that On is renowned for. The upper is crafted from soft, premium leather, offering a sophisticated and clean look that pairs effortlessly with any casual outfit. However, beneath its timeless exterior lies a modern performance sole, featuring On's unique CloudTec? pods. This provides surprising flexibility and a soft, cushioned landing that you simply won't find in traditional tennis sneakers. A hidden Speedboard? inside the shoe promotes a natural, rolling motion, making The Roger Advantage incredibly comfortable for all-day wear. The removable insole allows for a customized fit, while the perforated details ensure a degree of breathability. Whether you're a tennis aficionado or simply appreciate minimalist design and superior comfort, The Roger Advantage 1 delivers a winning combination of style and substance, embodying Roger Federer's elegance and On's commitment to game-changing performance.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-the-roger-advantage-1.html",
+      "sku": "B0FCG939QG",
+      "mpn": "B0FCG939QG",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-mens-the-roger-advantage-1.html",
+        "priceCurrency": "USD",
+        "price": 119,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 293,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "90"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "85"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "75"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "83.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/418JZrlXrOL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/41sTvjo27tL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/51F-FwkFDyL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/51w6seSOLvL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/41rkU1PiSTL._AC_SX625_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Mens The Roger Advantage 1",
+            "item": "https://www.shoesonwhite.com/2026/02/on-mens-the-roger-advantage-1.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.294Z",
+    "last_updated": "2026-02-19T04:12:20.294Z"
+  }
+}
