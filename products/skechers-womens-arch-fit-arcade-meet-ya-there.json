@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0F8VJ3B5D",
     "slug": "skechers-womens-arch-fit-arcade-meet-ya-there",
-    "generated_at": "2026-02-15T18:02:18.903Z",
+    "generated_at": "2026-02-19T04:12:38.490Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Skechers",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 3,
     "upper_material": "Canvas",
@@ -27,19 +27,19 @@
     "outer_material": "Canvas",
     "lining": "N/A",
     "closure_type": "Slip-On (No Tie Fit)",
-    "cushioning": "Arch Fit Insole, Lightweight Cushioned Midsole",
-    "breathability": "Vegan-friendly, Canvas",
+    "cushioning": "Removable, podiatrist-certified Arch Fit insole system provides lasting arch support and reduces shock.",
+    "breathability": "Breathable canvas upper allows for good airflow, keeping feet comfortable.",
     "amazon_url": "https://amzn.to/4kiH4u2",
     "price_min": 50.99,
     "price_max": 78,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 1915,
-    "comfort_score": 90,
-    "durability_score": 83,
-    "breathability_score": 80,
-    "overall_score": 84.33333333333333,
-    "short_description": "Slip-on sneakers with podiatrist-certified arch support and vegan canvas upper.",
+    "comfort_score": 91,
+    "durability_score": 82,
+    "breathability_score": 70,
+    "overall_score": 81,
+    "short_description": "Experience podiatrist-certified comfort in a stylish, slip-on package with the Skechers Women's Arch Fit Arcade Meet Ya There Sneakers. These innovative shoes are designed for women who demand both exceptional support and modern, casual style. The standout feature is the removable, podiatrist-certified Arch Fit insole system. This contoured footbed is designed to provide lasting arch support and reduces shock, helping to disperse foot pressure and improve weight distribution for a more comfortable stride. The canvas upper in a chic, low-top silhouette is not only stylish but also durable and breathable. The slip-on design with a stretch-lace front and a heel pull tab offers effortless on-and-off convenience while ensuring a secure fit. A lightweight, flexible outsole completes the shoe. Whether you're on your feet all day at work, exploring the city, or catching up with friends, the Skechers Arch Fit Arcade Meet Ya There sneakers deliver the perfect combination of certified arch support and laid-back style.",
     "about_this_item": "PODIATRIST-CERTIFIED SUPPORT: Arch Fit insole system provides exceptional arch support... EASY SLIP-ON DESIGN... PREMIUM COMFORT FEATURES... VEGAN-FRIENDLY CONSTRUCTION... VERSATILE STYLE...",
     "primary_keyword": "womens slip on shoes, slip on shoes for women",
     "slug": "skechers-womens-arch-fit-arcade-meet-ya-there",
@@ -62,7 +62,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0F8VJ3B5D",
       "name": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
-      "description": "Slip-on sneakers with podiatrist-certified arch support and vegan canvas upper.",
+      "description": "Experience podiatrist-certified comfort in a stylish, slip-on package with the Skechers Women's Arch Fit Arcade Meet Ya There Sneakers. These innovative shoes are designed for women who demand both exceptional support and modern, casual style. The standout feature is the removable, podiatrist-certified Arch Fit insole system. This contoured footbed is designed to provide lasting arch support and reduces shock, helping to disperse foot pressure and improve weight distribution for a more comfortable stride. The canvas upper in a chic, low-top silhouette is not only stylish but also durable and breathable. The slip-on design with a stretch-lace front and a heel pull tab offers effortless on-and-off convenience while ensuring a secure fit. A lightweight, flexible outsole completes the shoe. Whether you're on your feet all day at work, exploring the city, or catching up with friends, the Skechers Arch Fit Arcade Meet Ya There sneakers deliver the perfect combination of certified arch support and laid-back style.",
       "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-arch-fit-arcade-meet-ya-there.html",
       "sku": "B0F8VJ3B5D",
       "mpn": "B0F8VJ3B5D",
@@ -76,7 +76,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-arch-fit-arcade-meet-ya-there.html",
         "priceCurrency": "USD",
         "price": 50.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -109,7 +109,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -129,22 +129,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "90"
+          "value": "91"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "83"
+          "value": "82"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "80"
+          "value": "70"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "84.33333333333333"
+          "value": "81"
         }
       ],
       "image": [
@@ -192,7 +192,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.390Z",
-    "last_updated": "2026-02-15T18:02:04.390Z"
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
   }
 }
