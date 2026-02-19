@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0DKTJSJVB",
     "slug": "lugz-womens-clipper-shoe",
-    "generated_at": "2026-02-15T18:02:36.379Z",
+    "generated_at": "2026-02-19T04:12:42.293Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Lugz",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 1.2,
     "upper_material": "Canvas",
@@ -27,19 +27,19 @@
     "outer_material": "Canvas",
     "lining": "Breathable",
     "closure_type": "Slip-On",
-    "cushioning": "Cushioned insole",
-    "breathability": "Breathable",
+    "cushioning": "Padded insole provides lasting, basic comfort for all-day casual wear.",
+    "breathability": "Durable canvas upper is breathable, keeping feet cool in warm conditions.",
     "amazon_url": "https://amzn.to/3M9MQ4M",
     "price_min": 35,
     "price_max": 35,
     "currency": "USD",
     "rating": 4.2,
     "review_count": 15236,
-    "comfort_score": 66,
-    "durability_score": 70,
-    "breathability_score": 65,
-    "overall_score": 67,
-    "short_description": "Stylish slip-on canvas sneakers for women combining comfort and casual fashion",
+    "comfort_score": 78,
+    "durability_score": 82,
+    "breathability_score": 70,
+    "overall_score": 76.66666666666667,
+    "short_description": "Embrace effortless, street-smart style with the Lugz Women's Clipper Shoe. A true classic in the world of casual footwear, the Clipper is celebrated for its simple, versatile design and rugged durability. These slip-on canvas sneakers are the perfect choice for the woman who values both comfort and an edgy, urban aesthetic. The upper is constructed from durable canvas, offering a breathable and flexible fit that conforms to your foot. The clean, low-profile silhouette and timeless slip-on styling, complete with elastic gore panels for easy on-and-off, make them an incredibly versatile piece that pairs effortlessly with jeans, joggers, or shorts. A padded insole provides lasting comfort for all-day wear, while the signature Lugz outsole, often featuring a distinct tread pattern, adds durability and a touch of industrial-inspired style. Step into a piece of heritage with the Lugz Women's Clipper, the original slip-on sneaker built for the streets.",
     "about_this_item": "SLIP ON SHOES FOR WOMEN: Elevate your everyday style with the Lugz clipper womens slip on shoes women footwear, designed to blend comfort with classic casual flair. CASUAL SNEAKERS FOR WOMEN: Sturdy canvas upper and vulcanized rubber outsole for grip and durability. WOMENS SLIP ON SHOES: Side gore panels and padded collar for flexible fit and comfort. WOMENS CASUAL SHOES: Versatile and practical for daily wear. LUGZ SHOES: Sleek, comfortable, and fashionable.",
     "primary_keyword": "Lugz Women's Clipper Slip-On Canvas Shoes",
     "slug": "lugz-womens-clipper-shoe",
@@ -62,7 +62,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0DKTJSJVB",
       "name": "Lugz Women's Clipper Shoe",
-      "description": "Stylish slip-on canvas sneakers for women combining comfort and casual fashion",
+      "description": "Embrace effortless, street-smart style with the Lugz Women's Clipper Shoe. A true classic in the world of casual footwear, the Clipper is celebrated for its simple, versatile design and rugged durability. These slip-on canvas sneakers are the perfect choice for the woman who values both comfort and an edgy, urban aesthetic. The upper is constructed from durable canvas, offering a breathable and flexible fit that conforms to your foot. The clean, low-profile silhouette and timeless slip-on styling, complete with elastic gore panels for easy on-and-off, make them an incredibly versatile piece that pairs effortlessly with jeans, joggers, or shorts. A padded insole provides lasting comfort for all-day wear, while the signature Lugz outsole, often featuring a distinct tread pattern, adds durability and a touch of industrial-inspired style. Step into a piece of heritage with the Lugz Women's Clipper, the original slip-on sneaker built for the streets.",
       "url": "https://www.shoesonwhite.com/2026/02/lugz-womens-clipper-shoe.html",
       "sku": "B0DKTJSJVB",
       "mpn": "B0DKTJSJVB",
@@ -76,7 +76,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/lugz-womens-clipper-shoe.html",
         "priceCurrency": "USD",
         "price": 35,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -109,7 +109,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -129,22 +129,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "66"
+          "value": "78"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "70"
+          "value": "82"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "65"
+          "value": "70"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "67"
+          "value": "76.66666666666667"
         }
       ],
       "image": [
@@ -192,7 +192,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.391Z",
-    "last_updated": "2026-02-15T18:02:04.391Z"
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
   }
 }
