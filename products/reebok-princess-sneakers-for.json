@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B07XRNVJC1",
     "slug": "reebok-princess-sneakers-for",
-    "generated_at": "2026-02-15T18:02:21.296Z",
+    "generated_at": "2026-02-19T04:15:35.878Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Reebok",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 0.44,
     "upper_material": "Synthetic Leather",
@@ -27,19 +27,19 @@
     "outer_material": "Synthetic",
     "lining": "Terry Cloth",
     "closure_type": "Lace-Up",
-    "cushioning": "Foam sockliner with EVA midsole",
-    "breathability": "Moderate",
+    "cushioning": "Padded foam sockliner and EVA midsole deliver lightweight, reliable cushioning for all-day comfort.",
+    "breathability": "Soft garment leather upper offers minimal breathability; perforations are limited.",
     "amazon_url": "https://amzn.to/4rtDtM6",
     "price_min": 49.8,
     "price_max": 49.95,
     "currency": "USD",
     "rating": 4.4,
     "review_count": 33876,
-    "comfort_score": 75,
-    "durability_score": 80,
-    "breathability_score": 73,
-    "overall_score": 76,
-    "short_description": "Classic lightweight white sneakers for women designed for all-day comfort, walking, gym, and casual wear.",
+    "comfort_score": 85,
+    "durability_score": 84,
+    "breathability_score": 68,
+    "overall_score": 79,
+    "short_description": "Step into a legacy of timeless style with the Reebok Princess Sneakers for Women. A true icon in the world of casual footwear, the Princess has been a beloved classic for decades, celebrated for its clean, minimalist design and enduring comfort. These sneakers feature a soft, garment leather upper in a pristine white colorway, offering a versatile and sophisticated look that pairs effortlessly with everything from jeans and shorts to dresses and skirts. The classic low-cut silhouette provides a flattering fit, while the padded foam sockliner and EVA midsole deliver lightweight cushioning and all-day comfort, whether you're walking, at the gym, or just relaxing. The durable rubber outsole features a timeless cupsole construction for reliable traction. With its iconic Reebok branding on the side and heel, the Princess sneaker is a testament to authentic sportswear heritage. Experience the enduring appeal of a true classic with the Reebok Princess.",
     "about_this_item": "LIGHTWEIGHT & DURABLE synthetic leather upper; CLASSIC Reebok minimalist design; LOW-CUT ankle for mobility; REMOVABLE foam sockliner for cushioning; HIGH-ABRASION rubber outsole for durability.",
     "primary_keyword": "Reebok Princess women white sneakers",
     "slug": "reebok-princess-sneakers-for",
@@ -60,7 +60,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B07XRNVJC1",
       "name": "Reebok Princess Sneakers for Women",
-      "description": "Classic lightweight white sneakers for women designed for all-day comfort, walking, gym, and casual wear.",
+      "description": "Step into a legacy of timeless style with the Reebok Princess Sneakers for Women. A true icon in the world of casual footwear, the Princess has been a beloved classic for decades, celebrated for its clean, minimalist design and enduring comfort. These sneakers feature a soft, garment leather upper in a pristine white colorway, offering a versatile and sophisticated look that pairs effortlessly with everything from jeans and shorts to dresses and skirts. The classic low-cut silhouette provides a flattering fit, while the padded foam sockliner and EVA midsole deliver lightweight cushioning and all-day comfort, whether you're walking, at the gym, or just relaxing. The durable rubber outsole features a timeless cupsole construction for reliable traction. With its iconic Reebok branding on the side and heel, the Princess sneaker is a testament to authentic sportswear heritage. Experience the enduring appeal of a true classic with the Reebok Princess.",
       "url": "https://www.shoesonwhite.com/2026/02/reebok-princess-sneakers-for.html",
       "sku": "B07XRNVJC1",
       "mpn": "B07XRNVJC2",
@@ -74,7 +74,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/reebok-princess-sneakers-for.html",
         "priceCurrency": "USD",
         "price": 49.8,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -107,7 +107,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -127,22 +127,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "75"
+          "value": "85"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "80"
+          "value": "84"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "73"
+          "value": "68"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "76"
+          "value": "79"
         }
       ],
       "image": [
@@ -188,7 +188,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.390Z",
-    "last_updated": "2026-02-15T18:02:04.390Z"
+    "created_at": "2026-02-19T04:12:20.300Z",
+    "last_updated": "2026-02-19T04:12:20.300Z"
   }
 }
