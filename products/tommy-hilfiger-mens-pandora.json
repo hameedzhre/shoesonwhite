@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B08176RC33",
     "slug": "tommy-hilfiger-mens-pandora",
-    "generated_at": "2026-02-15T18:02:12.769Z",
+    "generated_at": "2026-02-19T04:15:34.206Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Tommy Hilfiger",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Men",
     "weight_lbs": 0.875,
     "upper_material": "Textile",
@@ -27,19 +27,19 @@
     "outer_material": "Textile",
     "lining": "Textile",
     "closure_type": "Lace-up",
-    "cushioning": "Cushioned footbed",
-    "breathability": "Medium",
+    "cushioning": "Lightly padded insole and collar offer basic comfort for casual, everyday wear.",
+    "breathability": "Canvas or textile upper provides moderate breathability, suitable for most conditions.",
     "amazon_url": "https://amzn.to/4cbK3Cu",
     "price_min": 32.36,
     "price_max": 47.99,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 12024,
-    "comfort_score": 70,
-    "durability_score": 76,
-    "breathability_score": 70,
-    "overall_score": 72,
-    "short_description": "Casual men?s sneaker with vulcanized sole and padded collar",
+    "comfort_score": 78,
+    "durability_score": 80,
+    "breathability_score": 65,
+    "overall_score": 74.33333333333333,
+    "short_description": "Infuse your casual wardrobe with classic American cool via the Tommy Hilfiger Men's Pandora Sneaker. This versatile sneaker effortlessly blends timeless style with modern comfort, making it a go-to choice for the discerning man. The design features a clean, low-profile silhouette with a durable canvas or textile upper, embodying a relaxed, preppy aesthetic that pairs perfectly with jeans, chinos, or shorts. Signature Tommy Hilfiger branding, often including a flag logo or subtle detailing on the side and heel, adds a touch of iconic heritage. The vulcanized sole construction provides flexibility and a classic sneaker feel, while a padded collar ensures all-day comfort around the ankle. Whether you're heading out for a weekend adventure or a casual day at the office, the Tommy Hilfiger Pandora Sneaker delivers understated sophistication and reliable comfort, embodying the spirit of classic American style.",
     "about_this_item": "Men's casual sneaker with a vulcanized bottom. Padded collar with soft textile lining and cushioned footbed for added comfort. Durable rubber outsole. Imported.",
     "primary_keyword": "Tommy Hilfiger Pandora",
     "slug": "tommy-hilfiger-mens-pandora",
@@ -59,7 +59,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B08176RC33",
       "name": "Tommy Hilfiger Men's Pandora Sneaker",
-      "description": "Casual men?s sneaker with vulcanized sole and padded collar",
+      "description": "Infuse your casual wardrobe with classic American cool via the Tommy Hilfiger Men's Pandora Sneaker. This versatile sneaker effortlessly blends timeless style with modern comfort, making it a go-to choice for the discerning man. The design features a clean, low-profile silhouette with a durable canvas or textile upper, embodying a relaxed, preppy aesthetic that pairs perfectly with jeans, chinos, or shorts. Signature Tommy Hilfiger branding, often including a flag logo or subtle detailing on the side and heel, adds a touch of iconic heritage. The vulcanized sole construction provides flexibility and a classic sneaker feel, while a padded collar ensures all-day comfort around the ankle. Whether you're heading out for a weekend adventure or a casual day at the office, the Tommy Hilfiger Pandora Sneaker delivers understated sophistication and reliable comfort, embodying the spirit of classic American style.",
       "url": "https://www.shoesonwhite.com/2026/02/tommy-hilfiger-mens-pandora.html",
       "sku": "B08176RC33",
       "mpn": "B08176RC34",
@@ -73,7 +73,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/tommy-hilfiger-mens-pandora.html",
         "priceCurrency": "USD",
         "price": 32.36,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -106,7 +106,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -126,22 +126,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "70"
+          "value": "78"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "76"
+          "value": "80"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "70"
+          "value": "65"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "72"
+          "value": "74.33333333333333"
         }
       ],
       "image": [
@@ -186,7 +186,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.389Z",
-    "last_updated": "2026-02-15T18:02:04.389Z"
+    "created_at": "2026-02-19T04:12:20.300Z",
+    "last_updated": "2026-02-19T04:12:20.300Z"
   }
 }
