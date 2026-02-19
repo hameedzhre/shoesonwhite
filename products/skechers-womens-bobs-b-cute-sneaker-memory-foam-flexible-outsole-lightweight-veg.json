@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0FBSBXCMS",
     "slug": "skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg",
-    "generated_at": "2026-02-15T18:02:17.751Z",
+    "generated_at": "2026-02-19T04:12:31.220Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Skechers",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 1.2,
     "upper_material": "Canvas",
@@ -27,19 +27,19 @@
     "outer_material": "Canvas",
     "lining": "None",
     "closure_type": "Slip On",
-    "cushioning": "Memory Foam cushioned",
-    "breathability": "High",
+    "cushioning": "Soft, moisture-wicking Memory Foam insole delivers luxurious, all-day cushioning and comfort.",
+    "breathability": "Vegan upper materials offer moderate breathability; suitable for everyday casual wear.",
     "amazon_url": "https://amzn.to/4qYFyQj",
     "price_min": 49.95,
     "price_max": 49.95,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 46214,
-    "comfort_score": 83,
-    "durability_score": 79,
-    "breathability_score": 77,
-    "overall_score": 79.66666666666667,
-    "short_description": "Lightweight, comfortable vegan sneaker",
+    "comfort_score": 87,
+    "durability_score": 76,
+    "breathability_score": 72,
+    "overall_score": 78.33333333333333,
+    "short_description": "Step into feel-good comfort and style with the Skechers Women's Bobs B Cute Sneaker. Part of the beloved Bobs collection from Skechers, these sneakers are designed for the woman who values comfort, compassion, and cute style. The B Cute features a stylish and versatile vegan upper, crafted from durable and easy-to-clean materials, making them a responsible and fashionable choice. The design is clean and classic, with subtle stitching and the signature Bobs logo, allowing them to pair easily with any casual outfit. Inside, the shoe is equipped with a soft, moisture-wicking Memory Foam insole that provides luxurious, all-day cushioning, molding to your foot for a personalized feel. The lightweight, flexible outsole ensures natural movement and reliable traction. Plus, with every purchase of Bobs footwear, Skechers donates to charity, supporting children and families in need. Choose a shoe that's cute, comfortable, and compassionate ? choose the Skechers Bobs B Cute.",
     "about_this_item": "Memory Foam cushioned insole, soft canvas upper, slip-on design, vegan materials, machine washable",
     "primary_keyword": "Skechers Bobs B Cute",
     "slug": "skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg",
@@ -62,7 +62,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0FBSBXCMS",
       "name": "Skechers Women's Bobs B Cute Sneaker ? Memory Foam, Flexible Outsole, Lightweight Vegan Shoes",
-      "description": "Lightweight, comfortable vegan sneaker",
+      "description": "Step into feel-good comfort and style with the Skechers Women's Bobs B Cute Sneaker. Part of the beloved Bobs collection from Skechers, these sneakers are designed for the woman who values comfort, compassion, and cute style. The B Cute features a stylish and versatile vegan upper, crafted from durable and easy-to-clean materials, making them a responsible and fashionable choice. The design is clean and classic, with subtle stitching and the signature Bobs logo, allowing them to pair easily with any casual outfit. Inside, the shoe is equipped with a soft, moisture-wicking Memory Foam insole that provides luxurious, all-day cushioning, molding to your foot for a personalized feel. The lightweight, flexible outsole ensures natural movement and reliable traction. Plus, with every purchase of Bobs footwear, Skechers donates to charity, supporting children and families in need. Choose a shoe that's cute, comfortable, and compassionate ? choose the Skechers Bobs B Cute.",
       "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg.html",
       "sku": "B0FBSBXCMS",
       "mpn": "B0FBSBXCMS",
@@ -76,7 +76,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg.html",
         "priceCurrency": "USD",
         "price": 49.95,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -109,7 +109,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -129,22 +129,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "83"
+          "value": "87"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "79"
+          "value": "76"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "77"
+          "value": "72"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "79.66666666666667"
+          "value": "78.33333333333333"
         }
       ],
       "image": [
@@ -192,7 +192,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.390Z",
-    "last_updated": "2026-02-15T18:02:04.390Z"
+    "created_at": "2026-02-19T04:12:20.294Z",
+    "last_updated": "2026-02-19T04:12:20.294Z"
   }
 }
