@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0DB22DYWJ",
     "slug": "lugz-mens-clipper",
-    "generated_at": "2026-02-15T18:02:38.363Z",
+    "generated_at": "2026-02-19T04:12:51.137Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Lugz",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Men",
     "weight_lbs": 0.73,
     "upper_material": "Canvas",
@@ -27,19 +27,19 @@
     "outer_material": "Canvas",
     "lining": "Cushioned",
     "closure_type": "Slip-On",
-    "cushioning": "Cushioned Insole",
-    "breathability": "Breathable",
+    "cushioning": "Padded insole offers lasting, basic comfort for all-day casual wear.",
+    "breathability": "Durable canvas upper provides good natural breathability.",
     "amazon_url": "https://amzn.to/4qYlX2F",
     "price_min": 29.97,
     "price_max": 29.97,
     "currency": "USD",
     "rating": 4.3,
     "review_count": 37106,
-    "comfort_score": 60,
-    "durability_score": 71,
-    "breathability_score": 68,
-    "overall_score": 66.33333333333333,
-    "short_description": "Slip-on casual sneaker for men",
+    "comfort_score": 77,
+    "durability_score": 83,
+    "breathability_score": 70,
+    "overall_score": 76.66666666666667,
+    "short_description": "Step into a legacy of streetwise style with the Lugz Men's Clipper Sneaker. A true original in the world of casual footwear, the Clipper has been a go-to choice for decades, renowned for its simple, rugged design and effortless cool. These slip-on sneakers are the epitome of laid-back convenience, featuring a durable canvas or textile upper that provides a breathable, flexible fit. The classic slip-on styling, complete with elastic gore panels, allows for easy on-and-off while ensuring a secure, comfortable fit that moves with you. The clean, low-profile silhouette makes them an incredibly versatile piece, pairing perfectly with everything from jeans and cargo pants to shorts. A padded insole offers lasting comfort for all-day wear, while the signature Lugz outsole delivers durability and a distinctive, industrial-inspired aesthetic. For a shoe that combines timeless style, rugged construction, and slip-on convenience, the Lugz Men's Clipper remains an undisputed classic.",
     "about_this_item": "Versatile canvas style with cushioned insole and durable rubber outsole.",
     "primary_keyword": "Lugz Clipper Sneakers",
     "slug": "lugz-mens-clipper",
@@ -61,7 +61,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0DB22DYWJ",
       "name": "Lugz Men?s Clipper Sneaker",
-      "description": "Slip-on casual sneaker for men",
+      "description": "Step into a legacy of streetwise style with the Lugz Men's Clipper Sneaker. A true original in the world of casual footwear, the Clipper has been a go-to choice for decades, renowned for its simple, rugged design and effortless cool. These slip-on sneakers are the epitome of laid-back convenience, featuring a durable canvas or textile upper that provides a breathable, flexible fit. The classic slip-on styling, complete with elastic gore panels, allows for easy on-and-off while ensuring a secure, comfortable fit that moves with you. The clean, low-profile silhouette makes them an incredibly versatile piece, pairing perfectly with everything from jeans and cargo pants to shorts. A padded insole offers lasting comfort for all-day wear, while the signature Lugz outsole delivers durability and a distinctive, industrial-inspired aesthetic. For a shoe that combines timeless style, rugged construction, and slip-on convenience, the Lugz Men's Clipper remains an undisputed classic.",
       "url": "https://www.shoesonwhite.com/2026/02/lugz-mens-clipper.html",
       "sku": "B0DB22DYWJ",
       "mpn": "B0DB22DYWJ",
@@ -75,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/lugz-mens-clipper.html",
         "priceCurrency": "USD",
         "price": 29.97,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -128,22 +128,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "60"
+          "value": "77"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "71"
+          "value": "83"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "68"
+          "value": "70"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "66.33333333333333"
+          "value": "76.66666666666667"
         }
       ],
       "image": [
@@ -190,7 +190,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.391Z",
-    "last_updated": "2026-02-15T18:02:04.391Z"
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
   }
 }
