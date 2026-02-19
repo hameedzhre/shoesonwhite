@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0CP5KVDW6",
     "slug": "walking-shoes-women-slip-on-sock-sneakers-mesh-non-slip-shoes-air-cushion",
-    "generated_at": "2026-02-19T04:13:00.725Z",
+    "generated_at": "2026-02-19T09:57:58.416Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -47,14 +47,13 @@
     "brand_url": "https://www.shoesonwhite.com/p/slow-man.html",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
     "image_urls": [
-      "https://m.media-amazon.com/images/I/61ejdFPPaML._AC_UY575_.png",
       "https://m.media-amazon.com/images/I/61mOgJ0HsCL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/610XH49rNcL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/71BKXx6NwLL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/61h5Q4SEbXL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/81umX-1kCLL._AC_SY695_.jpg"
     ],
-    "main_image": "https://m.media-amazon.com/images/I/61ejdFPPaML._AC_UY575_.png",
+    "main_image": "https://m.media-amazon.com/images/I/61mOgJ0HsCL._AC_SY695_.jpg",
     "schema": {
       "@context": "https://schema.org",
       "@type": "Product",
@@ -141,7 +140,6 @@
         }
       ],
       "image": [
-        "https://m.media-amazon.com/images/I/61ejdFPPaML._AC_UY575_.png",
         "https://m.media-amazon.com/images/I/61mOgJ0HsCL._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/610XH49rNcL._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/71BKXx6NwLL._AC_SY695_.jpg",
@@ -184,7 +182,7 @@
         ]
       }
     },
-    "created_at": "2026-02-19T04:12:20.296Z",
-    "last_updated": "2026-02-19T04:12:20.296Z"
+    "created_at": "2026-02-19T09:57:28.935Z",
+    "last_updated": "2026-02-19T09:57:28.935Z"
   }
 }
